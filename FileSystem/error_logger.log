@@ -1,0 +1,58 @@
+[ERROR] 02:57:20:908 Filesystem/(6422:6422): Propiedades faltantes en el archivo de configuracion
+[ERROR] 02:58:14:392 Filesystem/(6541:6541): Propiedades faltantes en el archivo de configuracion
+[ERROR] 03:06:08:285 Filesystem/(7017:7017): Propiedades faltantes en el archivo de configuracion
+[ERROR] 05:57:09:067 Filesystem/(4093:4093): se ha creado el archivo
+[ERROR] 06:01:54:346 Filesystem/(4634:4634): se ha creado el archivo
+[ERROR] 06:02:55:282 Filesystem/(4710:4710): se ha creado el archivo
+[ERROR] 06:05:06:278 Filesystem/(4796:4796): se ha creado el archivo
+[ERROR] 06:11:33:294 Filesystem/(5135:5135): se ha creado el archivo
+[ERROR] 06:14:17:415 Filesystem/(5236:5236): se ha creado el archivo
+[ERROR] 06:42:38:641 Filesystem/(6565:6565): se ha creado el archivo
+[ERROR] 06:45:57:232 Filesystem/(6894:6894): se ha creado el archivo
+[ERROR] 06:48:55:911 Filesystem/(7021:7021): se ha creado el archivo
+[ERROR] 06:52:38:323 Filesystem/(7297:7297): se ha creado el archivo
+[ERROR] 06:58:24:016 Filesystem/(7783:7783): se ha creado el archivo
+[ERROR] 07:00:24:584 Filesystem/(7952:7952): se ha creado el archivo
+[ERROR] 07:05:44:777 Filesystem/(8401:8401): se ha creado el archivo
+[ERROR] 07:07:21:116 Filesystem/(8519:8519): se ha creado el archivo
+[ERROR] 07:09:08:091 Filesystem/(8694:8694): se ha creado el archivo
+[ERROR] 07:12:04:609 Filesystem/(8873:8873): se ha creado el archivo
+[ERROR] 07:13:14:226 Filesystem/(8873:8873): Archivo truncado
+[ERROR] 07:15:45:912 Filesystem/(9112:9112): se ha creado el archivo
+[ERROR] 07:18:41:062 Filesystem/(9351:9351): se ha creado el archivo
+[ERROR] 07:18:41:564 Filesystem/(9351:9351): Archivo truncado
+[ERROR] 07:22:43:385 Filesystem/(9477:9477): se ha creado el archivo
+[ERROR] 07:23:42:657 Filesystem/(9527:9527): se ha creado el archivo
+[ERROR] 07:24:43:674 Filesystem/(9527:9527): Archivo truncado
+[ERROR] 07:24:49:425 Filesystem/(9666:9666): se ha creado el archivo
+[ERROR] 07:24:49:929 Filesystem/(9666:9666): Archivo truncado
+[ERROR] 07:24:54:323 Filesystem/(9678:9678): se ha creado el archivo
+[ERROR] 07:24:54:824 Filesystem/(9678:9678): Archivo truncado
+[ERROR] 07:25:00:829 Filesystem/(9690:9690): se ha creado el archivo
+[ERROR] 07:25:01:331 Filesystem/(9690:9690): Archivo truncado
+[ERROR] 19:48:07:627 Filesystem/(2537:2537): El bloque no pertenece a el archivo
+[ERROR] 02:54:45:031 Filesystem/(4300:4300): Error al abrir/crear la tabla fat
+[ERROR] 02:54:45:031 Filesystem/(4300:4300): Error al abrir/crear el archivo de bloques
+[ERROR] 02:54:45:031 Filesystem/(4300:4300): No se pudo crear el archivo de bloques
+[ERROR] 02:56:16:845 Filesystem/(4450:4450): Error al abrir/crear la tabla fat
+[ERROR] 02:56:16:846 Filesystem/(4450:4450): Error al abrir/crear el archivo de bloques
+[ERROR] 02:56:16:846 Filesystem/(4450:4450): No se pudo crear el archivo de bloques
+[ERROR] 02:58:11:627 Filesystem/(4602:4602): Error al abrir/crear la tabla fat
+[ERROR] 02:58:11:627 Filesystem/(4602:4602): Error al abrir/crear el archivo de bloques
+[ERROR] 02:58:11:627 Filesystem/(4602:4602): No se pudo crear el archivo de bloques
+[ERROR] 04:28:13:702 Filesystem/(3305:3305): Error al abrir/crear la tabla fat
+[ERROR] 04:28:13:702 Filesystem/(3305:3305): Error al abrir/crear el archivo de bloques
+[ERROR] 04:28:13:702 Filesystem/(3305:3305): No se pudo crear el archivo de bloques
+[ERROR] 04:31:07:969 Filesystem/(3467:3467): Error al abrir/crear la tabla fat
+[ERROR] 04:31:07:969 Filesystem/(3467:3467): Error al abrir/crear el archivo de bloques
+[ERROR] 04:31:07:970 Filesystem/(3467:3467): No se pudo crear el archivo de bloques
+[ERROR] 19:02:40:859 Filesystem/(6032:6032): SOY UN ERROR
+[ERROR] 01:05:07:553 Filesystem/(17700:17706): El bloque no pertenece a el archivo
+[ERROR] 01:14:09:951 Filesystem/(17911:17911): SOY UN ERROR
+[ERROR] 04:49:23:057 Filesystem/(16933:16939): El bloque no pertenece a el archivo
+[ERROR] 05:17:48:915 Filesystem/(19110:19116): El bloque no pertenece a el archivo
+[ERROR] 05:21:44:286 Filesystem/(19488:19494): El bloque no pertenece a el archivo
+[ERROR] 20:43:17:340 Filesystem/(6080:6086): El bloque no pertenece a el archivo
+[ERROR] 20:47:00:986 Filesystem/(6424:6430): No esta el FCB
+[ERROR] 20:56:44:000 Filesystem/(7001:7007): No esta el FCB
+[ERROR] 21:02:06:781 Filesystem/(7535:7542): El bloque no pertenece a el archivo
