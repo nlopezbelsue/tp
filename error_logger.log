@@ -1,0 +1,24 @@
+[ERROR] 18:09:35:534 Filesystem/(3698:3698): SOY UN ERROR
+[ERROR] 18:17:29:751 Filesystem/(3993:3993): SOY UN ERROR
+[ERROR] 18:26:33:173 Filesystem/(4573:4573): SOY UN ERROR
+[ERROR] 18:27:38:276 Filesystem/(4799:4799): SOY UN ERROR
+[ERROR] 18:28:44:743 Filesystem/(4856:4856): SOY UN ERROR
+[ERROR] 18:31:13:723 Filesystem/(4961:4961): SOY UN ERROR
+[ERROR] 18:36:11:124 Filesystem/(5130:5130): SOY UN ERROR
+[ERROR] 18:37:38:656 Filesystem/(5198:5198): SOY UN ERROR
+[ERROR] 18:38:32:194 Filesystem/(5235:5235): SOY UN ERROR
+[ERROR] 18:43:08:077 Filesystem/(5329:5329): SOY UN ERROR
+[ERROR] 18:48:49:817 Filesystem/(5452:5452): SOY UN ERROR
+[ERROR] 18:49:37:085 Filesystem/(5547:5547): SOY UN ERROR
+[ERROR] 18:54:13:851 Filesystem/(5646:5646): SOY UN ERROR
+[ERROR] 18:55:33:980 Filesystem/(5709:5709): SOY UN ERROR
+[ERROR] 18:58:30:675 Filesystem/(5754:5754): SOY UN ERROR
+[ERROR] 19:01:04:859 Filesystem/(5821:5821): SOY UN ERROR
+[ERROR] 21:06:47:903 Cpu/(8418:8420): FALLO en el recibo de la instruccion
+[ERROR] 21:27:29:587 Cpu/(9004:9006): FALLO en el recibo de la instruccion
+[ERROR] 21:30:51:131 Cpu/(9236:9238): FALLO en el recibo de la instruccion
+[ERROR] 21:40:27:350 Cpu/(9489:9491): FALLO en el recibo de la instruccion
+[ERROR] 22:11:52:847 Cpu/(11057:11059): FALLO en el recibo de la instruccion
+[ERROR] 22:15:47:370 Cpu/(11329:11331): FALLO en el recibo de la instruccion
+[ERROR] 05:48:22:573 Cpu/(8929:8931): FALLO en el recibo de la instruccion
+[ERROR] 05:51:42:106 Cpu/(9045:9047): FALLO en el recibo de la instruccion

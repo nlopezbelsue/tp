@@ -1,0 +1,1883 @@
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): PATH_BLOQUES Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 19:57:01:843 Filesystem/(3327:3327): PATH_FAT Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 19:57:01:844 Filesystem/(3327:3327): PATH_FCB Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 19:57:01:844 Filesystem/(3327:3327): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 19:57:01:844 Filesystem/(3327:3327): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 19:57:01:844 Filesystem/(3327:3327): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 19:57:01:844 Filesystem/(3327:3327): Archivo de configuracion cargado correctamente
+[TRACE] 19:57:01:849 Filesystem/(3327:3327): FileSystem iniciado exitosamente
+[TRACE] 19:57:01:849 Filesystem/(3327:3327): Entre a crear archivo
+[TRACE] 19:57:01:849 Filesystem/(3327:3327): se ha creado el archivo
+[TRACE] 19:57:01:850 Filesystem/(3327:3327): Entre a truncar archivo
+[TRACE] 19:57:01:853 Filesystem/(3327:3327): Archivo truncado
+[TRACE] 19:57:01:853 Filesystem/(3327:3327): Entre a truncar archivo
+[TRACE] 19:57:01:856 Filesystem/(3327:3327): Archivo aumentado de tamanio
+[TRACE] 19:57:01:856 Filesystem/(3327:3327): Entre a truncar archivo
+[TRACE] 19:57:01:868 Filesystem/(3327:3327): Archivo disminuido de tamanio
+[TRACE] 19:57:01:869 Filesystem/(3327:3327): Entre a escribir archivo
+[TRACE] 19:57:01:875 Filesystem/(3327:3327): Archivo escrito
+[TRACE] 19:57:01:876 Filesystem/(3327:3327): Entre a leer archivo
+[TRACE] 19:59:07:350 Filesystem/(3338:3338): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 19:59:07:471 Filesystem/(3338:3338): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 19:59:07:473 Filesystem/(3338:3338): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 19:59:07:481 Filesystem/(3338:3338): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 19:59:07:482 Filesystem/(3338:3338): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 19:59:07:483 Filesystem/(3338:3338): PATH_BLOQUES Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 19:59:07:485 Filesystem/(3338:3338): PATH_FAT Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 19:59:07:486 Filesystem/(3338:3338): PATH_FCB Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 19:59:07:487 Filesystem/(3338:3338): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 19:59:07:488 Filesystem/(3338:3338): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 19:59:07:490 Filesystem/(3338:3338): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 19:59:07:490 Filesystem/(3338:3338): Archivo de configuracion cargado correctamente
+[TRACE] 19:59:07:616 Filesystem/(3338:3338): FileSystem iniciado exitosamente
+[TRACE] 19:59:07:617 Filesystem/(3338:3338): Entre a crear archivo
+[TRACE] 19:59:07:644 Filesystem/(3338:3338): se ha creado el archivo
+[TRACE] 19:59:07:645 Filesystem/(3338:3338): Entre a truncar archivo
+[TRACE] 19:59:07:688 Filesystem/(3338:3338): Archivo truncado
+[TRACE] 19:59:07:689 Filesystem/(3338:3338): Entre a truncar archivo
+[TRACE] 19:59:07:709 Filesystem/(3338:3338): Archivo aumentado de tamanio
+[TRACE] 19:59:07:710 Filesystem/(3338:3338): Entre a truncar archivo
+[TRACE] 19:59:07:735 Filesystem/(3338:3338): Archivo disminuido de tamanio
+[TRACE] 19:59:07:745 Filesystem/(3338:3338): Entre a escribir archivo
+[TRACE] 19:59:07:757 Filesystem/(3338:3338): Archivo escrito
+[TRACE] 19:59:07:767 Filesystem/(3338:3338): Entre a leer archivo
+[TRACE] 20:03:48:077 Filesystem/(3690:3690): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 20:03:48:207 Filesystem/(3690:3690): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 20:03:48:209 Filesystem/(3690:3690): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 20:03:48:217 Filesystem/(3690:3690): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 20:03:48:218 Filesystem/(3690:3690): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 20:03:48:220 Filesystem/(3690:3690): PATH_BLOQUES Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 20:03:48:221 Filesystem/(3690:3690): PATH_FAT Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 20:03:48:222 Filesystem/(3690:3690): PATH_FCB Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 20:03:48:223 Filesystem/(3690:3690): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 20:03:48:225 Filesystem/(3690:3690): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 20:03:48:226 Filesystem/(3690:3690): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 20:03:48:227 Filesystem/(3690:3690): Archivo de configuracion cargado correctamente
+[TRACE] 20:03:48:352 Filesystem/(3690:3690): FileSystem iniciado exitosamente
+[TRACE] 20:03:48:354 Filesystem/(3690:3690): Entre a crear archivo
+[TRACE] 20:03:48:381 Filesystem/(3690:3690): se ha creado el archivo
+[TRACE] 20:03:48:383 Filesystem/(3690:3690): Entre a truncar archivo
+[TRACE] 20:03:48:427 Filesystem/(3690:3690): Archivo truncado
+[TRACE] 20:03:48:428 Filesystem/(3690:3690): Entre a truncar archivo
+[TRACE] 20:03:48:450 Filesystem/(3690:3690): Archivo aumentado de tamanio
+[TRACE] 20:03:48:451 Filesystem/(3690:3690): Entre a truncar archivo
+[TRACE] 20:03:48:478 Filesystem/(3690:3690): Archivo disminuido de tamanio
+[TRACE] 20:03:48:488 Filesystem/(3690:3690): Entre a escribir archivo
+[TRACE] 20:03:48:500 Filesystem/(3690:3690): Archivo escrito
+[TRACE] 20:03:48:511 Filesystem/(3690:3690): Entre a leer archivo
+[TRACE] 20:05:52:619 Filesystem/(3747:3747): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 20:05:52:747 Filesystem/(3747:3747): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 20:05:52:749 Filesystem/(3747:3747): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 20:05:52:758 Filesystem/(3747:3747): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 20:05:52:759 Filesystem/(3747:3747): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 20:05:52:760 Filesystem/(3747:3747): PATH_BLOQUES Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 20:05:52:761 Filesystem/(3747:3747): PATH_FAT Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 20:05:52:762 Filesystem/(3747:3747): PATH_FCB Cargada Correctamente: /home/utnso/Documents/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 20:05:52:764 Filesystem/(3747:3747): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 20:05:52:765 Filesystem/(3747:3747): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 20:05:52:766 Filesystem/(3747:3747): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 20:05:52:767 Filesystem/(3747:3747): Archivo de configuracion cargado correctamente
+[TRACE] 20:05:52:898 Filesystem/(3747:3747): FileSystem iniciado exitosamente
+[TRACE] 20:05:52:900 Filesystem/(3747:3747): Entre a crear archivo
+[TRACE] 20:05:52:929 Filesystem/(3747:3747): se ha creado el archivo
+[TRACE] 20:05:52:930 Filesystem/(3747:3747): Entre a truncar archivo
+[TRACE] 20:05:52:973 Filesystem/(3747:3747): Archivo truncado
+[TRACE] 20:05:52:974 Filesystem/(3747:3747): Entre a truncar archivo
+[TRACE] 20:05:52:997 Filesystem/(3747:3747): Archivo aumentado de tamanio
+[TRACE] 20:05:52:998 Filesystem/(3747:3747): Entre a truncar archivo
+[TRACE] 20:05:53:025 Filesystem/(3747:3747): Archivo disminuido de tamanio
+[TRACE] 20:05:53:035 Filesystem/(3747:3747): Entre a escribir archivo
+[TRACE] 20:05:53:048 Filesystem/(3747:3747): Archivo escrito
+[TRACE] 20:05:53:058 Filesystem/(3747:3747): Entre a leer archivo
+[TRACE] 09:06:19:117 Filesystem/(4418:4418): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:06:19:118 Filesystem/(4418:4418): Archivo de configuracion cargado correctamente
+[TRACE] 09:06:19:122 Filesystem/(4418:4418): FileSystem iniciado exitosamente
+[TRACE] 09:06:19:122 Filesystem/(4418:4418): Entre a crear archivo
+[TRACE] 09:06:19:122 Filesystem/(4418:4418): se ha creado el archivo
+[TRACE] 09:06:19:122 Filesystem/(4418:4418): Entre a truncar archivo
+[TRACE] 09:06:19:127 Filesystem/(4418:4418): Archivo truncado
+[TRACE] 09:06:19:127 Filesystem/(4418:4418): Entre a truncar archivo
+[TRACE] 09:06:19:131 Filesystem/(4418:4418): Archivo aumentado de tamanio
+[TRACE] 09:06:19:131 Filesystem/(4418:4418): Entre a truncar archivo
+[TRACE] 09:06:19:138 Filesystem/(4418:4418): Archivo disminuido de tamanio
+[TRACE] 09:06:19:138 Filesystem/(4418:4418): Entre a escribir archivo
+[TRACE] 09:06:19:143 Filesystem/(4418:4418): Archivo escrito
+[TRACE] 09:06:19:143 Filesystem/(4418:4418): Entre a leer archivo uwu
+[TRACE] 09:06:19:161 Filesystem/(4418:4418): Entre a leer bloque de swap
+[TRACE] 09:06:19:162 Filesystem/(4418:4418): Entre a escribir bloque swap
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:06:43:166 Filesystem/(4426:4426): Archivo de configuracion cargado correctamente
+[TRACE] 09:06:43:170 Filesystem/(4426:4426): FileSystem iniciado exitosamente
+[TRACE] 09:06:43:170 Filesystem/(4426:4426): Entre a crear archivo
+[TRACE] 09:06:43:171 Filesystem/(4426:4426): se ha creado el archivo
+[TRACE] 09:06:43:171 Filesystem/(4426:4426): Entre a truncar archivo
+[TRACE] 09:06:43:175 Filesystem/(4426:4426): Archivo truncado
+[TRACE] 09:06:43:175 Filesystem/(4426:4426): Entre a truncar archivo
+[TRACE] 09:06:43:179 Filesystem/(4426:4426): Archivo aumentado de tamanio
+[TRACE] 09:06:43:179 Filesystem/(4426:4426): Entre a truncar archivo
+[TRACE] 09:06:43:186 Filesystem/(4426:4426): Archivo disminuido de tamanio
+[TRACE] 09:06:43:186 Filesystem/(4426:4426): Entre a escribir archivo
+[TRACE] 09:06:43:190 Filesystem/(4426:4426): Archivo escrito
+[TRACE] 09:06:43:192 Filesystem/(4426:4426): Entre a leer archivo uwu
+[TRACE] 09:06:43:202 Filesystem/(4426:4426): Entre a leer bloque de swap
+[TRACE] 09:06:43:202 Filesystem/(4426:4426): Entre a escribir bloque swap
+[TRACE] 09:08:11:740 Filesystem/(4437:4437): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:08:11:858 Filesystem/(4437:4437): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:08:11:860 Filesystem/(4437:4437): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:08:11:867 Filesystem/(4437:4437): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:08:11:868 Filesystem/(4437:4437): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:08:11:869 Filesystem/(4437:4437): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:08:11:870 Filesystem/(4437:4437): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:08:11:871 Filesystem/(4437:4437): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:08:11:872 Filesystem/(4437:4437): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:08:11:873 Filesystem/(4437:4437): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:08:11:874 Filesystem/(4437:4437): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:08:11:875 Filesystem/(4437:4437): Archivo de configuracion cargado correctamente
+[TRACE] 09:08:12:134 Filesystem/(4437:4437): FileSystem iniciado exitosamente
+[TRACE] 09:08:12:137 Filesystem/(4437:4437): Entre a crear archivo
+[TRACE] 09:08:12:172 Filesystem/(4437:4437): se ha creado el archivo
+[TRACE] 09:08:12:174 Filesystem/(4437:4437): Entre a truncar archivo
+[TRACE] 09:08:12:219 Filesystem/(4437:4437): Archivo truncado
+[TRACE] 09:08:12:220 Filesystem/(4437:4437): Entre a truncar archivo
+[TRACE] 09:08:12:240 Filesystem/(4437:4437): Archivo aumentado de tamanio
+[TRACE] 09:08:12:241 Filesystem/(4437:4437): Entre a truncar archivo
+[TRACE] 09:08:12:265 Filesystem/(4437:4437): Archivo disminuido de tamanio
+[TRACE] 09:08:12:275 Filesystem/(4437:4437): Entre a escribir archivo
+[TRACE] 09:08:12:288 Filesystem/(4437:4437): Archivo escrito
+[TRACE] 09:08:12:297 Filesystem/(4437:4437): Entre a leer archivo uwu
+[TRACE] 09:08:12:394 Filesystem/(4437:4437): Entre a leer bloque de swap
+[TRACE] 09:08:12:406 Filesystem/(4437:4437): Entre a escribir bloque swap
+[TRACE] 09:10:51:588 Filesystem/(5033:5033): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:10:51:711 Filesystem/(5033:5033): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:10:51:713 Filesystem/(5033:5033): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:10:51:720 Filesystem/(5033:5033): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:10:51:721 Filesystem/(5033:5033): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:10:51:722 Filesystem/(5033:5033): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:10:51:723 Filesystem/(5033:5033): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:10:51:724 Filesystem/(5033:5033): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:10:51:726 Filesystem/(5033:5033): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:10:51:726 Filesystem/(5033:5033): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:10:51:727 Filesystem/(5033:5033): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:10:51:728 Filesystem/(5033:5033): Archivo de configuracion cargado correctamente
+[TRACE] 09:10:51:997 Filesystem/(5033:5033): FileSystem iniciado exitosamente
+[TRACE] 09:10:52:007 Filesystem/(5033:5033): Entre a crear archivo
+[TRACE] 09:10:52:039 Filesystem/(5033:5033): se ha creado el archivo
+[TRACE] 09:10:52:040 Filesystem/(5033:5033): Entre a truncar archivo
+[TRACE] 09:10:52:084 Filesystem/(5033:5033): Archivo truncado
+[TRACE] 09:10:52:085 Filesystem/(5033:5033): Entre a truncar archivo
+[TRACE] 09:10:52:104 Filesystem/(5033:5033): Archivo aumentado de tamanio
+[TRACE] 09:10:52:105 Filesystem/(5033:5033): Entre a truncar archivo
+[TRACE] 09:10:52:131 Filesystem/(5033:5033): Archivo disminuido de tamanio
+[TRACE] 09:10:52:142 Filesystem/(5033:5033): Entre a escribir archivo
+[TRACE] 09:10:52:159 Filesystem/(5033:5033): Archivo escrito
+[TRACE] 09:10:52:168 Filesystem/(5033:5033): Entre a leer archivo uwu
+[TRACE] 09:10:52:311 Filesystem/(5033:5033): Entre a leer bloque de swap
+[TRACE] 09:10:52:334 Filesystem/(5033:5033): Entre a escribir bloque swap
+[TRACE] 09:13:52:082 Filesystem/(5185:5185): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:13:52:205 Filesystem/(5185:5185): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:13:52:207 Filesystem/(5185:5185): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:13:52:215 Filesystem/(5185:5185): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:13:52:216 Filesystem/(5185:5185): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:13:52:217 Filesystem/(5185:5185): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:13:52:218 Filesystem/(5185:5185): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:13:52:219 Filesystem/(5185:5185): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:13:52:220 Filesystem/(5185:5185): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:13:52:221 Filesystem/(5185:5185): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:13:52:223 Filesystem/(5185:5185): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:13:52:224 Filesystem/(5185:5185): Archivo de configuracion cargado correctamente
+[TRACE] 09:13:52:494 Filesystem/(5185:5185): FileSystem iniciado exitosamente
+[TRACE] 09:13:52:505 Filesystem/(5185:5185): Entre a crear archivo
+[TRACE] 09:13:52:564 Filesystem/(5185:5185): se ha creado el archivo
+[TRACE] 09:13:52:565 Filesystem/(5185:5185): Entre a truncar archivo
+[TRACE] 09:13:52:617 Filesystem/(5185:5185): Archivo truncado
+[TRACE] 09:13:52:619 Filesystem/(5185:5185): Entre a truncar archivo
+[TRACE] 09:13:52:643 Filesystem/(5185:5185): Archivo aumentado de tamanio
+[TRACE] 09:13:52:645 Filesystem/(5185:5185): Entre a truncar archivo
+[TRACE] 09:13:52:670 Filesystem/(5185:5185): Archivo disminuido de tamanio
+[TRACE] 09:13:52:680 Filesystem/(5185:5185): Entre a escribir archivo
+[TRACE] 09:13:52:697 Filesystem/(5185:5185): Archivo escrito
+[TRACE] 09:13:52:707 Filesystem/(5185:5185): Entre a leer archivo uwu
+[TRACE] 09:13:52:810 Filesystem/(5185:5185): Entre a leer bloque de swap
+[TRACE] 09:13:52:825 Filesystem/(5185:5185): Entre a escribir bloque swap
+[TRACE] 09:15:59:134 Filesystem/(5260:5260): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:15:59:258 Filesystem/(5260:5260): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:15:59:260 Filesystem/(5260:5260): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:15:59:268 Filesystem/(5260:5260): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:15:59:269 Filesystem/(5260:5260): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:15:59:270 Filesystem/(5260:5260): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:15:59:271 Filesystem/(5260:5260): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:15:59:272 Filesystem/(5260:5260): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:15:59:274 Filesystem/(5260:5260): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:15:59:275 Filesystem/(5260:5260): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:15:59:276 Filesystem/(5260:5260): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:15:59:276 Filesystem/(5260:5260): Archivo de configuracion cargado correctamente
+[TRACE] 09:15:59:432 Filesystem/(5260:5260): FileSystem iniciado exitosamente
+[TRACE] 09:15:59:433 Filesystem/(5260:5260): Entre a crear archivo
+[TRACE] 09:15:59:467 Filesystem/(5260:5260): se ha creado el archivo
+[TRACE] 09:15:59:469 Filesystem/(5260:5260): Entre a truncar archivo
+[TRACE] 09:15:59:517 Filesystem/(5260:5260): Archivo truncado
+[TRACE] 09:15:59:518 Filesystem/(5260:5260): Entre a truncar archivo
+[TRACE] 09:15:59:541 Filesystem/(5260:5260): Archivo aumentado de tamanio
+[TRACE] 09:15:59:542 Filesystem/(5260:5260): Entre a truncar archivo
+[TRACE] 09:15:59:567 Filesystem/(5260:5260): Archivo disminuido de tamanio
+[TRACE] 09:15:59:577 Filesystem/(5260:5260): Entre a escribir archivo
+[TRACE] 09:15:59:594 Filesystem/(5260:5260): Archivo escrito
+[TRACE] 09:15:59:604 Filesystem/(5260:5260): Entre a leer archivo uwu
+[TRACE] 09:15:59:737 Filesystem/(5260:5260): Entre a leer bloque de swap
+[TRACE] 09:15:59:751 Filesystem/(5260:5260): Entre a escribir bloque swap
+[TRACE] 09:17:24:321 Filesystem/(5318:5318): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:17:24:442 Filesystem/(5318:5318): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:17:24:444 Filesystem/(5318:5318): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:17:24:452 Filesystem/(5318:5318): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:17:24:453 Filesystem/(5318:5318): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:17:24:454 Filesystem/(5318:5318): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:17:24:455 Filesystem/(5318:5318): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:17:24:457 Filesystem/(5318:5318): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:17:24:458 Filesystem/(5318:5318): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:17:24:459 Filesystem/(5318:5318): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:17:24:460 Filesystem/(5318:5318): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:17:24:461 Filesystem/(5318:5318): Archivo de configuracion cargado correctamente
+[TRACE] 09:17:24:581 Filesystem/(5318:5318): FileSystem iniciado exitosamente
+[TRACE] 09:17:24:582 Filesystem/(5318:5318): Entre a crear archivo
+[TRACE] 09:17:24:608 Filesystem/(5318:5318): se ha creado el archivo
+[TRACE] 09:17:24:609 Filesystem/(5318:5318): Entre a truncar archivo
+[TRACE] 09:17:24:651 Filesystem/(5318:5318): Archivo truncado
+[TRACE] 09:17:24:652 Filesystem/(5318:5318): Entre a truncar archivo
+[TRACE] 09:17:24:673 Filesystem/(5318:5318): Archivo aumentado de tamanio
+[TRACE] 09:17:24:674 Filesystem/(5318:5318): Entre a truncar archivo
+[TRACE] 09:17:24:703 Filesystem/(5318:5318): Archivo disminuido de tamanio
+[TRACE] 09:17:24:714 Filesystem/(5318:5318): Entre a escribir archivo
+[TRACE] 09:17:24:729 Filesystem/(5318:5318): Archivo escrito
+[TRACE] 09:17:24:739 Filesystem/(5318:5318): Entre a leer archivo uwu
+[TRACE] 09:17:24:843 Filesystem/(5318:5318): Entre a leer bloque de swap
+[TRACE] 09:17:24:856 Filesystem/(5318:5318): Entre a escribir bloque swap
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:20:54:843 Filesystem/(5431:5431): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:20:54:844 Filesystem/(5431:5431): Archivo de configuracion cargado correctamente
+[TRACE] 09:20:54:853 Filesystem/(5431:5431): FileSystem iniciado exitosamente
+[TRACE] 09:20:54:853 Filesystem/(5431:5431): Entre a crear archivo
+[TRACE] 09:20:54:853 Filesystem/(5431:5431): se ha creado el archivo
+[TRACE] 09:20:54:853 Filesystem/(5431:5431): Entre a truncar archivo
+[TRACE] 09:20:54:857 Filesystem/(5431:5431): Archivo truncado
+[TRACE] 09:20:54:857 Filesystem/(5431:5431): Entre a truncar archivo
+[TRACE] 09:20:54:866 Filesystem/(5431:5431): Archivo aumentado de tamanio
+[TRACE] 09:20:54:866 Filesystem/(5431:5431): Entre a truncar archivo
+[TRACE] 09:20:54:875 Filesystem/(5431:5431): Archivo disminuido de tamanio
+[TRACE] 09:20:54:875 Filesystem/(5431:5431): Entre a escribir archivo
+[TRACE] 09:20:54:880 Filesystem/(5431:5431): Archivo escrito
+[TRACE] 09:20:54:880 Filesystem/(5431:5431): Entre a leer archivo uwu
+[TRACE] 09:20:54:893 Filesystem/(5431:5431): Entre a leer bloque de swap
+[TRACE] 09:20:54:894 Filesystem/(5431:5431): Entre a escribir bloque swap
+[TRACE] 09:20:58:472 Filesystem/(5434:5434): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:20:58:473 Filesystem/(5434:5434): Archivo de configuracion cargado correctamente
+[TRACE] 09:20:58:477 Filesystem/(5434:5434): FileSystem iniciado exitosamente
+[TRACE] 09:20:58:477 Filesystem/(5434:5434): Entre a crear archivo
+[TRACE] 09:20:58:478 Filesystem/(5434:5434): se ha creado el archivo
+[TRACE] 09:20:58:478 Filesystem/(5434:5434): Entre a truncar archivo
+[TRACE] 09:20:58:483 Filesystem/(5434:5434): Archivo truncado
+[TRACE] 09:20:58:483 Filesystem/(5434:5434): Entre a truncar archivo
+[TRACE] 09:20:58:487 Filesystem/(5434:5434): Archivo aumentado de tamanio
+[TRACE] 09:20:58:487 Filesystem/(5434:5434): Entre a truncar archivo
+[TRACE] 09:20:58:499 Filesystem/(5434:5434): Archivo disminuido de tamanio
+[TRACE] 09:20:58:500 Filesystem/(5434:5434): Entre a escribir archivo
+[TRACE] 09:20:58:504 Filesystem/(5434:5434): Archivo escrito
+[TRACE] 09:20:58:505 Filesystem/(5434:5434): Entre a leer archivo uwu
+[TRACE] 09:20:58:515 Filesystem/(5434:5434): Entre a leer bloque de swap
+[TRACE] 09:20:58:515 Filesystem/(5434:5434): Entre a escribir bloque swap
+[TRACE] 09:21:03:557 Filesystem/(5435:5435): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:21:03:679 Filesystem/(5435:5435): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:21:03:681 Filesystem/(5435:5435): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:21:03:688 Filesystem/(5435:5435): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:21:03:689 Filesystem/(5435:5435): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:21:03:691 Filesystem/(5435:5435): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:21:03:692 Filesystem/(5435:5435): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:21:03:693 Filesystem/(5435:5435): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:21:03:694 Filesystem/(5435:5435): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:21:03:695 Filesystem/(5435:5435): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:21:03:696 Filesystem/(5435:5435): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:21:03:697 Filesystem/(5435:5435): Archivo de configuracion cargado correctamente
+[TRACE] 09:21:03:825 Filesystem/(5435:5435): FileSystem iniciado exitosamente
+[TRACE] 09:21:03:827 Filesystem/(5435:5435): Entre a crear archivo
+[TRACE] 09:21:03:853 Filesystem/(5435:5435): se ha creado el archivo
+[TRACE] 09:21:03:854 Filesystem/(5435:5435): Entre a truncar archivo
+[TRACE] 09:21:03:900 Filesystem/(5435:5435): Archivo truncado
+[TRACE] 09:21:03:901 Filesystem/(5435:5435): Entre a truncar archivo
+[TRACE] 09:21:03:924 Filesystem/(5435:5435): Archivo aumentado de tamanio
+[TRACE] 09:21:03:925 Filesystem/(5435:5435): Entre a truncar archivo
+[TRACE] 09:21:03:952 Filesystem/(5435:5435): Archivo disminuido de tamanio
+[TRACE] 09:21:03:961 Filesystem/(5435:5435): Entre a escribir archivo
+[TRACE] 09:21:03:981 Filesystem/(5435:5435): Archivo escrito
+[TRACE] 09:21:03:990 Filesystem/(5435:5435): Entre a leer archivo uwu
+[TRACE] 09:21:04:087 Filesystem/(5435:5435): Entre a leer bloque de swap
+[TRACE] 09:21:04:100 Filesystem/(5435:5435): Entre a escribir bloque swap
+[TRACE] 09:28:15:752 Filesystem/(5638:5638): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:28:15:883 Filesystem/(5638:5638): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:28:15:885 Filesystem/(5638:5638): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:28:15:894 Filesystem/(5638:5638): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:28:15:895 Filesystem/(5638:5638): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:28:15:897 Filesystem/(5638:5638): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:28:15:898 Filesystem/(5638:5638): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:28:15:899 Filesystem/(5638:5638): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:28:15:901 Filesystem/(5638:5638): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:28:15:902 Filesystem/(5638:5638): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:28:15:903 Filesystem/(5638:5638): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:28:15:904 Filesystem/(5638:5638): Archivo de configuracion cargado correctamente
+[TRACE] 09:28:16:064 Filesystem/(5638:5638): FileSystem iniciado exitosamente
+[TRACE] 09:28:16:066 Filesystem/(5638:5638): Entre a crear archivo
+[TRACE] 09:28:16:093 Filesystem/(5638:5638): se ha creado el archivo
+[TRACE] 09:28:16:095 Filesystem/(5638:5638): Entre a truncar archivo
+[TRACE] 09:28:16:140 Filesystem/(5638:5638): Archivo truncado
+[TRACE] 09:28:16:141 Filesystem/(5638:5638): Entre a truncar archivo
+[TRACE] 09:28:16:161 Filesystem/(5638:5638): Archivo aumentado de tamanio
+[TRACE] 09:28:16:162 Filesystem/(5638:5638): Entre a truncar archivo
+[TRACE] 09:28:16:184 Filesystem/(5638:5638): Archivo disminuido de tamanio
+[TRACE] 09:28:16:195 Filesystem/(5638:5638): Entre a escribir archivo
+[TRACE] 09:28:16:214 Filesystem/(5638:5638): Archivo escrito
+[TRACE] 09:28:16:224 Filesystem/(5638:5638): Entre a leer archivo uwu
+[TRACE] 09:28:16:321 Filesystem/(5638:5638): Entre a leer bloque de swap
+[TRACE] 09:28:16:333 Filesystem/(5638:5638): Entre a escribir bloque swap
+[TRACE] 09:32:24:390 Filesystem/(6166:6166): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:32:24:510 Filesystem/(6166:6166): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:32:24:512 Filesystem/(6166:6166): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:32:24:520 Filesystem/(6166:6166): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:32:24:521 Filesystem/(6166:6166): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:32:24:522 Filesystem/(6166:6166): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:32:24:523 Filesystem/(6166:6166): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:32:24:524 Filesystem/(6166:6166): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:32:24:525 Filesystem/(6166:6166): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:32:24:526 Filesystem/(6166:6166): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:32:24:527 Filesystem/(6166:6166): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:32:24:528 Filesystem/(6166:6166): Archivo de configuracion cargado correctamente
+[TRACE] 09:32:24:646 Filesystem/(6166:6166): FileSystem iniciado exitosamente
+[TRACE] 09:32:24:648 Filesystem/(6166:6166): Entre a crear archivo
+[TRACE] 09:32:24:673 Filesystem/(6166:6166): se ha creado el archivo
+[TRACE] 09:32:24:675 Filesystem/(6166:6166): Entre a truncar archivo
+[TRACE] 09:32:24:719 Filesystem/(6166:6166): Archivo truncado
+[TRACE] 09:32:24:720 Filesystem/(6166:6166): Entre a truncar archivo
+[TRACE] 09:32:24:747 Filesystem/(6166:6166): Archivo aumentado de tamanio
+[TRACE] 09:32:24:748 Filesystem/(6166:6166): Entre a truncar archivo
+[TRACE] 09:32:24:774 Filesystem/(6166:6166): Archivo disminuido de tamanio
+[TRACE] 09:32:24:784 Filesystem/(6166:6166): Entre a escribir archivo
+[TRACE] 09:32:24:803 Filesystem/(6166:6166): Archivo escrito
+[TRACE] 09:32:24:813 Filesystem/(6166:6166): Entre a leer archivo uwu
+[TRACE] 09:32:24:907 Filesystem/(6166:6166): Entre a leer bloque de swap
+[TRACE] 09:32:24:924 Filesystem/(6166:6166): Entre a escribir bloque swap
+[TRACE] 09:44:56:939 Filesystem/(6789:6789): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:44:57:058 Filesystem/(6789:6789): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:44:57:063 Filesystem/(6789:6789): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:44:57:070 Filesystem/(6789:6789): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:44:57:071 Filesystem/(6789:6789): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:44:57:072 Filesystem/(6789:6789): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:44:57:074 Filesystem/(6789:6789): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:44:57:075 Filesystem/(6789:6789): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:44:57:076 Filesystem/(6789:6789): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:44:57:077 Filesystem/(6789:6789): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:44:57:078 Filesystem/(6789:6789): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:44:57:078 Filesystem/(6789:6789): Archivo de configuracion cargado correctamente
+[TRACE] 09:44:57:208 Filesystem/(6789:6789): FileSystem iniciado exitosamente
+[TRACE] 09:44:57:210 Filesystem/(6789:6789): Entre a crear archivo
+[TRACE] 09:44:57:236 Filesystem/(6789:6789): se ha creado el archivo
+[TRACE] 09:44:57:237 Filesystem/(6789:6789): Entre a truncar archivo
+[TRACE] 09:44:57:280 Filesystem/(6789:6789): Archivo truncado
+[TRACE] 09:44:57:281 Filesystem/(6789:6789): Entre a truncar archivo
+[TRACE] 09:44:57:306 Filesystem/(6789:6789): Archivo aumentado de tamanio
+[TRACE] 09:44:57:307 Filesystem/(6789:6789): Entre a truncar archivo
+[TRACE] 09:44:57:336 Filesystem/(6789:6789): Archivo disminuido de tamanio
+[TRACE] 09:44:57:346 Filesystem/(6789:6789): Entre a escribir archivo
+[TRACE] 09:44:57:369 Filesystem/(6789:6789): Archivo escrito
+[TRACE] 09:44:57:378 Filesystem/(6789:6789): Entre a leer archivo uwu
+[TRACE] 09:44:57:484 Filesystem/(6789:6789): Entre a leer bloque de swap
+[TRACE] 09:44:57:501 Filesystem/(6789:6789): Entre a escribir bloque swap
+[TRACE] 09:46:27:612 Filesystem/(6824:6824): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:46:27:735 Filesystem/(6824:6824): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:46:27:737 Filesystem/(6824:6824): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:46:27:745 Filesystem/(6824:6824): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:46:27:746 Filesystem/(6824:6824): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:46:27:747 Filesystem/(6824:6824): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:46:27:749 Filesystem/(6824:6824): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:46:27:750 Filesystem/(6824:6824): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:46:27:751 Filesystem/(6824:6824): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:46:27:752 Filesystem/(6824:6824): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:46:27:753 Filesystem/(6824:6824): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:46:27:754 Filesystem/(6824:6824): Archivo de configuracion cargado correctamente
+[TRACE] 09:46:27:881 Filesystem/(6824:6824): FileSystem iniciado exitosamente
+[TRACE] 09:46:27:883 Filesystem/(6824:6824): Entre a crear archivo
+[TRACE] 09:46:27:908 Filesystem/(6824:6824): se ha creado el archivo
+[TRACE] 09:46:27:909 Filesystem/(6824:6824): Entre a truncar archivo
+[TRACE] 09:46:27:952 Filesystem/(6824:6824): Archivo truncado
+[TRACE] 09:46:27:953 Filesystem/(6824:6824): Entre a truncar archivo
+[TRACE] 09:46:27:980 Filesystem/(6824:6824): Archivo aumentado de tamanio
+[TRACE] 09:46:27:981 Filesystem/(6824:6824): Entre a truncar archivo
+[TRACE] 09:46:28:010 Filesystem/(6824:6824): Archivo disminuido de tamanio
+[TRACE] 09:46:28:022 Filesystem/(6824:6824): Entre a escribir archivo
+[TRACE] 09:46:28:041 Filesystem/(6824:6824): Archivo escrito
+[TRACE] 09:46:28:055 Filesystem/(6824:6824): Entre a leer archivo uwu
+[TRACE] 09:46:28:150 Filesystem/(6824:6824): Entre a leer bloque de swap
+[TRACE] 09:46:28:162 Filesystem/(6824:6824): Entre a escribir bloque swap
+[TRACE] 09:48:18:925 Filesystem/(6862:6862): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:48:19:044 Filesystem/(6862:6862): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:48:19:049 Filesystem/(6862:6862): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:48:19:056 Filesystem/(6862:6862): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:48:19:058 Filesystem/(6862:6862): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:48:19:059 Filesystem/(6862:6862): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:48:19:060 Filesystem/(6862:6862): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:48:19:061 Filesystem/(6862:6862): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:48:19:062 Filesystem/(6862:6862): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:48:19:063 Filesystem/(6862:6862): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:48:19:064 Filesystem/(6862:6862): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:48:19:065 Filesystem/(6862:6862): Archivo de configuracion cargado correctamente
+[TRACE] 09:48:19:186 Filesystem/(6862:6862): FileSystem iniciado exitosamente
+[TRACE] 09:48:19:187 Filesystem/(6862:6862): Entre a crear archivo
+[TRACE] 09:48:19:213 Filesystem/(6862:6862): se ha creado el archivo
+[TRACE] 09:48:19:215 Filesystem/(6862:6862): Entre a truncar archivo
+[TRACE] 09:48:19:257 Filesystem/(6862:6862): Archivo truncado
+[TRACE] 09:48:19:258 Filesystem/(6862:6862): Entre a truncar archivo
+[TRACE] 09:48:19:276 Filesystem/(6862:6862): Archivo aumentado de tamanio
+[TRACE] 09:48:19:277 Filesystem/(6862:6862): Entre a truncar archivo
+[TRACE] 09:48:19:303 Filesystem/(6862:6862): Archivo disminuido de tamanio
+[TRACE] 09:48:19:313 Filesystem/(6862:6862): Entre a escribir archivo
+[TRACE] 09:48:19:332 Filesystem/(6862:6862): Archivo escrito
+[TRACE] 09:48:19:342 Filesystem/(6862:6862): Entre a leer archivo uwu
+[TRACE] 09:48:19:439 Filesystem/(6862:6862): Entre a leer bloque de swap
+[TRACE] 09:48:19:451 Filesystem/(6862:6862): Entre a escribir bloque swap
+[TRACE] 09:52:12:769 Filesystem/(7004:7004): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:52:12:888 Filesystem/(7004:7004): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:52:12:890 Filesystem/(7004:7004): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:52:12:898 Filesystem/(7004:7004): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:52:12:899 Filesystem/(7004:7004): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:52:12:900 Filesystem/(7004:7004): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:52:12:901 Filesystem/(7004:7004): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:52:12:903 Filesystem/(7004:7004): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:52:12:904 Filesystem/(7004:7004): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:52:12:905 Filesystem/(7004:7004): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:52:12:906 Filesystem/(7004:7004): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:52:12:907 Filesystem/(7004:7004): Archivo de configuracion cargado correctamente
+[TRACE] 09:52:13:028 Filesystem/(7004:7004): FileSystem iniciado exitosamente
+[TRACE] 09:52:13:029 Filesystem/(7004:7004): Entre a crear archivo
+[TRACE] 09:52:13:056 Filesystem/(7004:7004): se ha creado el archivo
+[TRACE] 09:52:13:057 Filesystem/(7004:7004): Entre a truncar archivo
+[TRACE] 09:52:13:103 Filesystem/(7004:7004): Archivo truncado
+[TRACE] 09:52:13:104 Filesystem/(7004:7004): Entre a truncar archivo
+[TRACE] 09:52:13:124 Filesystem/(7004:7004): Archivo aumentado de tamanio
+[TRACE] 09:52:13:125 Filesystem/(7004:7004): Entre a truncar archivo
+[TRACE] 09:52:13:152 Filesystem/(7004:7004): Archivo disminuido de tamanio
+[TRACE] 09:52:13:162 Filesystem/(7004:7004): Entre a escribir archivo
+[TRACE] 09:52:13:181 Filesystem/(7004:7004): Archivo escrito
+[TRACE] 09:52:13:192 Filesystem/(7004:7004): Entre a leer archivo uwu
+[TRACE] 09:52:13:302 Filesystem/(7004:7004): Entre a leer bloque de swap
+[TRACE] 09:52:13:317 Filesystem/(7004:7004): Entre a escribir bloque swap
+[TRACE] 09:53:48:440 Filesystem/(7072:7072): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:53:48:557 Filesystem/(7072:7072): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:53:48:559 Filesystem/(7072:7072): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:53:48:567 Filesystem/(7072:7072): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:53:48:568 Filesystem/(7072:7072): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:53:48:569 Filesystem/(7072:7072): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:53:48:570 Filesystem/(7072:7072): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:53:48:572 Filesystem/(7072:7072): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:53:48:573 Filesystem/(7072:7072): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:53:48:574 Filesystem/(7072:7072): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:53:48:575 Filesystem/(7072:7072): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:53:48:576 Filesystem/(7072:7072): Archivo de configuracion cargado correctamente
+[TRACE] 09:53:48:695 Filesystem/(7072:7072): FileSystem iniciado exitosamente
+[TRACE] 09:53:48:697 Filesystem/(7072:7072): Entre a crear archivo
+[TRACE] 09:53:48:723 Filesystem/(7072:7072): se ha creado el archivo
+[TRACE] 09:53:48:725 Filesystem/(7072:7072): Entre a truncar archivo
+[TRACE] 09:53:48:766 Filesystem/(7072:7072): Archivo truncado
+[TRACE] 09:53:48:767 Filesystem/(7072:7072): Entre a truncar archivo
+[TRACE] 09:53:48:790 Filesystem/(7072:7072): Archivo aumentado de tamanio
+[TRACE] 09:53:48:791 Filesystem/(7072:7072): Entre a truncar archivo
+[TRACE] 09:53:48:817 Filesystem/(7072:7072): Archivo disminuido de tamanio
+[TRACE] 09:53:48:826 Filesystem/(7072:7072): Entre a escribir archivo
+[TRACE] 09:53:48:846 Filesystem/(7072:7072): Archivo escrito
+[TRACE] 09:53:48:857 Filesystem/(7072:7072): Entre a leer archivo uwu
+[TRACE] 09:53:48:954 Filesystem/(7072:7072): Entre a leer bloque de swap
+[TRACE] 09:53:48:967 Filesystem/(7072:7072): Entre a escribir bloque swap
+[TRACE] 09:54:16:320 Filesystem/(7091:7091): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:54:16:438 Filesystem/(7091:7091): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:54:16:440 Filesystem/(7091:7091): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:54:16:448 Filesystem/(7091:7091): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:54:16:449 Filesystem/(7091:7091): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:54:16:450 Filesystem/(7091:7091): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:54:16:451 Filesystem/(7091:7091): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:54:16:452 Filesystem/(7091:7091): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:54:16:453 Filesystem/(7091:7091): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:54:16:454 Filesystem/(7091:7091): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:54:16:455 Filesystem/(7091:7091): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:54:16:456 Filesystem/(7091:7091): Archivo de configuracion cargado correctamente
+[TRACE] 09:54:16:577 Filesystem/(7091:7091): FileSystem iniciado exitosamente
+[TRACE] 09:54:16:579 Filesystem/(7091:7091): Entre a crear archivo
+[TRACE] 09:54:16:604 Filesystem/(7091:7091): se ha creado el archivo
+[TRACE] 09:54:16:605 Filesystem/(7091:7091): Entre a truncar archivo
+[TRACE] 09:54:16:650 Filesystem/(7091:7091): Archivo truncado
+[TRACE] 09:54:16:652 Filesystem/(7091:7091): Entre a truncar archivo
+[TRACE] 09:54:16:677 Filesystem/(7091:7091): Archivo aumentado de tamanio
+[TRACE] 09:54:16:679 Filesystem/(7091:7091): Entre a truncar archivo
+[TRACE] 09:54:16:707 Filesystem/(7091:7091): Archivo disminuido de tamanio
+[TRACE] 09:54:16:716 Filesystem/(7091:7091): Entre a escribir archivo
+[TRACE] 09:54:16:736 Filesystem/(7091:7091): Archivo escrito
+[TRACE] 09:54:16:746 Filesystem/(7091:7091): Entre a leer archivo uwu
+[TRACE] 09:54:16:845 Filesystem/(7091:7091): Entre a leer bloque de swap
+[TRACE] 09:54:16:857 Filesystem/(7091:7091): Entre a escribir bloque swap
+[TRACE] 09:54:32:344 Filesystem/(7114:7114): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:54:32:463 Filesystem/(7114:7114): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:54:32:465 Filesystem/(7114:7114): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:54:32:472 Filesystem/(7114:7114): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:54:32:473 Filesystem/(7114:7114): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:54:32:474 Filesystem/(7114:7114): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:54:32:475 Filesystem/(7114:7114): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:54:32:476 Filesystem/(7114:7114): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:54:32:478 Filesystem/(7114:7114): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:54:32:479 Filesystem/(7114:7114): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:54:32:480 Filesystem/(7114:7114): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:54:32:480 Filesystem/(7114:7114): Archivo de configuracion cargado correctamente
+[TRACE] 09:54:32:601 Filesystem/(7114:7114): FileSystem iniciado exitosamente
+[TRACE] 09:54:32:603 Filesystem/(7114:7114): Entre a crear archivo
+[TRACE] 09:54:32:628 Filesystem/(7114:7114): se ha creado el archivo
+[TRACE] 09:54:32:630 Filesystem/(7114:7114): Entre a truncar archivo
+[TRACE] 09:54:32:672 Filesystem/(7114:7114): Archivo truncado
+[TRACE] 09:54:32:673 Filesystem/(7114:7114): Entre a truncar archivo
+[TRACE] 09:54:32:692 Filesystem/(7114:7114): Archivo aumentado de tamanio
+[TRACE] 09:54:32:693 Filesystem/(7114:7114): Entre a truncar archivo
+[TRACE] 09:54:32:713 Filesystem/(7114:7114): Archivo disminuido de tamanio
+[TRACE] 09:54:32:723 Filesystem/(7114:7114): Entre a escribir archivo
+[TRACE] 09:54:32:743 Filesystem/(7114:7114): Archivo escrito
+[TRACE] 09:54:32:754 Filesystem/(7114:7114): Entre a leer archivo uwu
+[TRACE] 09:54:32:853 Filesystem/(7114:7114): Entre a leer bloque de swap
+[TRACE] 09:54:32:865 Filesystem/(7114:7114): Entre a escribir bloque swap
+[TRACE] 09:56:13:498 Filesystem/(7124:7124): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:56:13:620 Filesystem/(7124:7124): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:56:13:622 Filesystem/(7124:7124): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:56:13:630 Filesystem/(7124:7124): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:56:13:631 Filesystem/(7124:7124): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:56:13:632 Filesystem/(7124:7124): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:56:13:634 Filesystem/(7124:7124): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:56:13:635 Filesystem/(7124:7124): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:56:13:636 Filesystem/(7124:7124): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:56:13:637 Filesystem/(7124:7124): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:56:13:638 Filesystem/(7124:7124): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:56:13:639 Filesystem/(7124:7124): Archivo de configuracion cargado correctamente
+[TRACE] 09:56:13:759 Filesystem/(7124:7124): FileSystem iniciado exitosamente
+[TRACE] 09:56:13:761 Filesystem/(7124:7124): Entre a crear archivo
+[TRACE] 09:56:13:787 Filesystem/(7124:7124): se ha creado el archivo
+[TRACE] 09:56:13:789 Filesystem/(7124:7124): Entre a truncar archivo
+[TRACE] 09:56:13:832 Filesystem/(7124:7124): Archivo truncado
+[TRACE] 09:56:13:833 Filesystem/(7124:7124): Entre a truncar archivo
+[TRACE] 09:56:13:853 Filesystem/(7124:7124): Archivo aumentado de tamanio
+[TRACE] 09:56:13:855 Filesystem/(7124:7124): Entre a truncar archivo
+[TRACE] 09:56:13:881 Filesystem/(7124:7124): Archivo disminuido de tamanio
+[TRACE] 09:56:13:891 Filesystem/(7124:7124): Entre a escribir archivo
+[TRACE] 09:56:13:911 Filesystem/(7124:7124): Archivo escrito
+[TRACE] 09:56:13:921 Filesystem/(7124:7124): Entre a leer archivo uwu
+[TRACE] 09:56:14:020 Filesystem/(7124:7124): Entre a leer bloque de swap
+[TRACE] 09:56:14:032 Filesystem/(7124:7124): Entre a escribir bloque swap
+[TRACE] 09:56:20:495 Filesystem/(7150:7150): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:56:20:620 Filesystem/(7150:7150): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:56:20:623 Filesystem/(7150:7150): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:56:20:632 Filesystem/(7150:7150): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:56:20:633 Filesystem/(7150:7150): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:56:20:634 Filesystem/(7150:7150): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:56:20:636 Filesystem/(7150:7150): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:56:20:637 Filesystem/(7150:7150): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:56:20:638 Filesystem/(7150:7150): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:56:20:639 Filesystem/(7150:7150): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:56:20:641 Filesystem/(7150:7150): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:56:20:642 Filesystem/(7150:7150): Archivo de configuracion cargado correctamente
+[TRACE] 09:56:20:778 Filesystem/(7150:7150): FileSystem iniciado exitosamente
+[TRACE] 09:56:20:779 Filesystem/(7150:7150): Entre a crear archivo
+[TRACE] 09:56:20:816 Filesystem/(7150:7150): se ha creado el archivo
+[TRACE] 09:56:20:817 Filesystem/(7150:7150): Entre a truncar archivo
+[TRACE] 09:56:20:857 Filesystem/(7150:7150): Archivo truncado
+[TRACE] 09:56:20:858 Filesystem/(7150:7150): Entre a truncar archivo
+[TRACE] 09:56:20:881 Filesystem/(7150:7150): Archivo aumentado de tamanio
+[TRACE] 09:56:20:882 Filesystem/(7150:7150): Entre a truncar archivo
+[TRACE] 09:56:20:909 Filesystem/(7150:7150): Archivo disminuido de tamanio
+[TRACE] 09:56:20:919 Filesystem/(7150:7150): Entre a escribir archivo
+[TRACE] 09:56:20:940 Filesystem/(7150:7150): Archivo escrito
+[TRACE] 09:56:20:950 Filesystem/(7150:7150): Entre a leer archivo uwu
+[TRACE] 09:56:21:049 Filesystem/(7150:7150): Entre a leer bloque de swap
+[TRACE] 09:56:21:063 Filesystem/(7150:7150): Entre a escribir bloque swap
+[TRACE] 09:57:38:175 Filesystem/(7184:7184): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 09:57:38:294 Filesystem/(7184:7184): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 09:57:38:296 Filesystem/(7184:7184): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 09:57:38:304 Filesystem/(7184:7184): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 09:57:38:305 Filesystem/(7184:7184): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 09:57:38:306 Filesystem/(7184:7184): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 09:57:38:307 Filesystem/(7184:7184): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 09:57:38:308 Filesystem/(7184:7184): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 09:57:38:309 Filesystem/(7184:7184): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 09:57:38:310 Filesystem/(7184:7184): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 09:57:38:311 Filesystem/(7184:7184): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 09:57:38:312 Filesystem/(7184:7184): Archivo de configuracion cargado correctamente
+[TRACE] 09:57:38:431 Filesystem/(7184:7184): FileSystem iniciado exitosamente
+[TRACE] 09:57:38:433 Filesystem/(7184:7184): Entre a crear archivo
+[TRACE] 09:57:38:458 Filesystem/(7184:7184): se ha creado el archivo
+[TRACE] 09:57:38:460 Filesystem/(7184:7184): Entre a truncar archivo
+[TRACE] 09:57:38:502 Filesystem/(7184:7184): Archivo truncado
+[TRACE] 09:57:38:503 Filesystem/(7184:7184): Entre a truncar archivo
+[TRACE] 09:57:38:523 Filesystem/(7184:7184): Archivo aumentado de tamanio
+[TRACE] 09:57:38:524 Filesystem/(7184:7184): Entre a truncar archivo
+[TRACE] 09:57:38:555 Filesystem/(7184:7184): Archivo disminuido de tamanio
+[TRACE] 09:57:38:564 Filesystem/(7184:7184): Entre a escribir archivo
+[TRACE] 09:57:38:586 Filesystem/(7184:7184): Archivo escrito
+[TRACE] 09:57:38:595 Filesystem/(7184:7184): Entre a leer archivo uwu
+[TRACE] 09:57:38:688 Filesystem/(7184:7184): Entre a leer bloque de swap
+[TRACE] 09:57:38:700 Filesystem/(7184:7184): Entre a escribir bloque swap
+[TRACE] 10:00:35:168 Filesystem/(7252:7252): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 10:00:35:286 Filesystem/(7252:7252): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 10:00:35:288 Filesystem/(7252:7252): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 10:00:35:296 Filesystem/(7252:7252): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 10:00:35:298 Filesystem/(7252:7252): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 10:00:35:299 Filesystem/(7252:7252): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 10:00:35:301 Filesystem/(7252:7252): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 10:00:35:302 Filesystem/(7252:7252): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 10:00:35:303 Filesystem/(7252:7252): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 10:00:35:304 Filesystem/(7252:7252): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 10:00:35:305 Filesystem/(7252:7252): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 10:00:35:306 Filesystem/(7252:7252): Archivo de configuracion cargado correctamente
+[TRACE] 10:00:35:427 Filesystem/(7252:7252): FileSystem iniciado exitosamente
+[TRACE] 10:00:35:428 Filesystem/(7252:7252): Entre a crear archivo
+[TRACE] 10:00:35:453 Filesystem/(7252:7252): se ha creado el archivo
+[TRACE] 10:00:35:455 Filesystem/(7252:7252): Entre a truncar archivo
+[TRACE] 10:00:35:497 Filesystem/(7252:7252): Archivo truncado
+[TRACE] 10:00:35:497 Filesystem/(7252:7252): Entre a truncar archivo
+[TRACE] 10:00:35:527 Filesystem/(7252:7252): Archivo aumentado de tamanio
+[TRACE] 10:00:35:528 Filesystem/(7252:7252): Entre a truncar archivo
+[TRACE] 10:00:35:553 Filesystem/(7252:7252): Archivo disminuido de tamanio
+[TRACE] 10:00:35:564 Filesystem/(7252:7252): Entre a escribir archivo
+[TRACE] 10:00:35:584 Filesystem/(7252:7252): Archivo escrito
+[TRACE] 10:00:35:593 Filesystem/(7252:7252): Entre a leer archivo uwu
+[TRACE] 10:00:35:693 Filesystem/(7252:7252): Entre a leer bloque de swap
+[TRACE] 10:00:35:706 Filesystem/(7252:7252): Entre a escribir bloque swap
+[TRACE] 10:03:13:230 Filesystem/(7416:7416): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 10:03:13:349 Filesystem/(7416:7416): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 10:03:13:351 Filesystem/(7416:7416): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 10:03:13:359 Filesystem/(7416:7416): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 10:03:13:360 Filesystem/(7416:7416): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 10:03:13:361 Filesystem/(7416:7416): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 10:03:13:362 Filesystem/(7416:7416): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 10:03:13:363 Filesystem/(7416:7416): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 10:03:13:364 Filesystem/(7416:7416): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 10:03:13:365 Filesystem/(7416:7416): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 10:03:13:366 Filesystem/(7416:7416): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 10:03:13:367 Filesystem/(7416:7416): Archivo de configuracion cargado correctamente
+[TRACE] 10:03:13:485 Filesystem/(7416:7416): FileSystem iniciado exitosamente
+[TRACE] 10:03:13:486 Filesystem/(7416:7416): Entre a crear archivo
+[TRACE] 10:03:13:511 Filesystem/(7416:7416): se ha creado el archivo
+[TRACE] 10:03:13:512 Filesystem/(7416:7416): Entre a truncar archivo
+[TRACE] 10:03:13:555 Filesystem/(7416:7416): Archivo truncado
+[TRACE] 10:03:13:556 Filesystem/(7416:7416): Entre a truncar archivo
+[TRACE] 10:03:13:576 Filesystem/(7416:7416): Archivo aumentado de tamanio
+[TRACE] 10:03:13:577 Filesystem/(7416:7416): Entre a truncar archivo
+[TRACE] 10:03:13:608 Filesystem/(7416:7416): Archivo disminuido de tamanio
+[TRACE] 10:03:13:618 Filesystem/(7416:7416): Entre a escribir archivo
+[TRACE] 10:03:13:639 Filesystem/(7416:7416): Archivo escrito
+[TRACE] 10:03:13:649 Filesystem/(7416:7416): Entre a leer archivo uwu
+[TRACE] 10:03:13:746 Filesystem/(7416:7416): Entre a leer bloque de swap
+[TRACE] 10:03:13:760 Filesystem/(7416:7416): Entre a escribir bloque swap
+[TRACE] 17:57:01:761 Filesystem/(2956:2956): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:57:01:897 Filesystem/(2956:2956): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:57:01:899 Filesystem/(2956:2956): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:57:01:909 Filesystem/(2956:2956): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:57:01:909 Filesystem/(2956:2956): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 17:57:01:911 Filesystem/(2956:2956): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:57:01:912 Filesystem/(2956:2956): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:57:01:913 Filesystem/(2956:2956): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:57:01:914 Filesystem/(2956:2956): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:57:01:915 Filesystem/(2956:2956): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:57:01:917 Filesystem/(2956:2956): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:57:01:919 Filesystem/(2956:2956): Archivo de configuracion cargado correctamente
+[TRACE] 17:57:02:078 Filesystem/(2956:2956): FileSystem iniciado exitosamente
+[TRACE] 17:57:02:079 Filesystem/(2956:2956): Entre a crear archivo
+[TRACE] 17:57:02:112 Filesystem/(2956:2956): se ha creado el archivo
+[TRACE] 17:57:02:114 Filesystem/(2956:2956): Entre a truncar archivo
+[TRACE] 17:57:02:183 Filesystem/(2956:2956): Archivo truncado
+[TRACE] 17:57:02:183 Filesystem/(2956:2956): Entre a truncar archivo
+[TRACE] 17:57:02:213 Filesystem/(2956:2956): Archivo aumentado de tamanio
+[TRACE] 17:57:02:214 Filesystem/(2956:2956): Entre a truncar archivo
+[TRACE] 17:57:02:254 Filesystem/(2956:2956): Archivo disminuido de tamanio
+[TRACE] 17:57:02:267 Filesystem/(2956:2956): Entre a escribir archivo
+[TRACE] 17:57:02:285 Filesystem/(2956:2956): Archivo escrito
+[TRACE] 17:57:02:296 Filesystem/(2956:2956): Entre a leer archivo uwu
+[TRACE] 17:57:02:404 Filesystem/(2956:2956): Entre a leer bloque de swap
+[TRACE] 17:57:02:420 Filesystem/(2956:2956): Entre a escribir bloque swap
+[TRACE] 17:58:51:827 Filesystem/(3004:3004): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:58:51:948 Filesystem/(3004:3004): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:58:51:950 Filesystem/(3004:3004): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:58:51:957 Filesystem/(3004:3004): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:58:51:958 Filesystem/(3004:3004): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 17:58:51:959 Filesystem/(3004:3004): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:58:51:961 Filesystem/(3004:3004): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:58:51:962 Filesystem/(3004:3004): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:58:51:963 Filesystem/(3004:3004): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:58:51:964 Filesystem/(3004:3004): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:58:51:965 Filesystem/(3004:3004): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:58:51:966 Filesystem/(3004:3004): Archivo de configuracion cargado correctamente
+[TRACE] 17:58:52:089 Filesystem/(3004:3004): FileSystem iniciado exitosamente
+[TRACE] 17:58:52:091 Filesystem/(3004:3004): Entre a crear archivo
+[TRACE] 17:58:52:118 Filesystem/(3004:3004): se ha creado el archivo
+[TRACE] 17:58:52:120 Filesystem/(3004:3004): Entre a truncar archivo
+[TRACE] 17:58:52:173 Filesystem/(3004:3004): Archivo truncado
+[TRACE] 17:58:52:175 Filesystem/(3004:3004): Entre a truncar archivo
+[TRACE] 17:58:52:199 Filesystem/(3004:3004): Archivo aumentado de tamanio
+[TRACE] 17:58:52:200 Filesystem/(3004:3004): Entre a truncar archivo
+[TRACE] 17:58:52:229 Filesystem/(3004:3004): Archivo disminuido de tamanio
+[TRACE] 17:58:52:239 Filesystem/(3004:3004): Entre a escribir archivo
+[TRACE] 17:58:52:257 Filesystem/(3004:3004): Archivo escrito
+[TRACE] 17:58:52:269 Filesystem/(3004:3004): Entre a leer archivo uwu
+[TRACE] 17:58:52:372 Filesystem/(3004:3004): Entre a leer bloque de swap
+[TRACE] 17:58:52:386 Filesystem/(3004:3004): Entre a escribir bloque swap
+[TRACE] 18:01:39:468 Filesystem/(3053:3053): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:01:39:591 Filesystem/(3053:3053): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:01:39:593 Filesystem/(3053:3053): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:01:39:604 Filesystem/(3053:3053): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:01:39:606 Filesystem/(3053:3053): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 18:01:39:607 Filesystem/(3053:3053): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:01:39:608 Filesystem/(3053:3053): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:01:39:609 Filesystem/(3053:3053): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:01:39:611 Filesystem/(3053:3053): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:01:39:612 Filesystem/(3053:3053): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:01:39:613 Filesystem/(3053:3053): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:01:39:614 Filesystem/(3053:3053): Archivo de configuracion cargado correctamente
+[TRACE] 18:01:39:748 Filesystem/(3053:3053): FileSystem iniciado exitosamente
+[TRACE] 18:01:39:750 Filesystem/(3053:3053): Entre a crear archivo
+[TRACE] 18:01:39:786 Filesystem/(3053:3053): se ha creado el archivo
+[TRACE] 18:01:39:788 Filesystem/(3053:3053): Entre a truncar archivo
+[TRACE] 18:01:39:841 Filesystem/(3053:3053): Archivo truncado
+[TRACE] 18:01:39:842 Filesystem/(3053:3053): Entre a truncar archivo
+[TRACE] 18:01:39:863 Filesystem/(3053:3053): Archivo aumentado de tamanio
+[TRACE] 18:01:39:864 Filesystem/(3053:3053): Entre a truncar archivo
+[TRACE] 18:01:39:890 Filesystem/(3053:3053): Archivo disminuido de tamanio
+[TRACE] 18:01:39:898 Filesystem/(3053:3053): Entre a escribir archivo
+[TRACE] 18:01:39:916 Filesystem/(3053:3053): Archivo escrito
+[TRACE] 18:01:39:926 Filesystem/(3053:3053): Entre a leer archivo uwu
+[TRACE] 18:01:40:028 Filesystem/(3053:3053): Entre a leer bloque de swap
+[TRACE] 18:01:40:042 Filesystem/(3053:3053): Entre a escribir bloque swap
+[TRACE] 18:02:31:563 Filesystem/(3089:3089): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:02:31:683 Filesystem/(3089:3089): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:02:31:685 Filesystem/(3089:3089): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:02:31:692 Filesystem/(3089:3089): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:02:31:693 Filesystem/(3089:3089): TAM_BLOQUE Cargada Correctamente: 1024
+[TRACE] 18:02:31:694 Filesystem/(3089:3089): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:02:31:695 Filesystem/(3089:3089): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:02:31:696 Filesystem/(3089:3089): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:02:31:698 Filesystem/(3089:3089): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:02:31:699 Filesystem/(3089:3089): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:02:31:699 Filesystem/(3089:3089): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:02:31:700 Filesystem/(3089:3089): Archivo de configuracion cargado correctamente
+[TRACE] 18:02:31:826 Filesystem/(3089:3089): FileSystem iniciado exitosamente
+[TRACE] 18:02:31:828 Filesystem/(3089:3089): Entre a crear archivo
+[TRACE] 18:02:31:856 Filesystem/(3089:3089): se ha creado el archivo
+[TRACE] 18:02:31:857 Filesystem/(3089:3089): Entre a truncar archivo
+[TRACE] 18:02:31:900 Filesystem/(3089:3089): Archivo truncado
+[TRACE] 18:02:31:901 Filesystem/(3089:3089): Entre a truncar archivo
+[TRACE] 18:02:31:922 Filesystem/(3089:3089): Archivo aumentado de tamanio
+[TRACE] 18:02:31:923 Filesystem/(3089:3089): Entre a truncar archivo
+[TRACE] 18:02:31:948 Filesystem/(3089:3089): Archivo disminuido de tamanio
+[TRACE] 18:02:31:958 Filesystem/(3089:3089): Entre a escribir archivo
+[TRACE] 18:02:31:977 Filesystem/(3089:3089): Archivo escrito
+[TRACE] 18:02:31:987 Filesystem/(3089:3089): Entre a leer archivo uwu
+[TRACE] 18:02:32:092 Filesystem/(3089:3089): Entre a leer bloque de swap
+[TRACE] 18:02:32:106 Filesystem/(3089:3089): Entre a escribir bloque swap
+[TRACE] 16:56:29:143 Filesystem/(2508:2508): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 16:56:29:270 Filesystem/(2508:2508): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 16:56:29:273 Filesystem/(2508:2508): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 16:56:29:284 Filesystem/(2508:2508): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 16:56:29:285 Filesystem/(2508:2508): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 16:56:29:287 Filesystem/(2508:2508): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 16:56:29:288 Filesystem/(2508:2508): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 16:56:29:289 Filesystem/(2508:2508): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 16:56:29:291 Filesystem/(2508:2508): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 16:56:29:292 Filesystem/(2508:2508): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 16:56:29:293 Filesystem/(2508:2508): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 16:56:29:298 Filesystem/(2508:2508): Archivo de configuracion cargado correctamente
+[TRACE] 16:56:29:578 Filesystem/(2508:2508): FileSystem iniciado exitosamente
+[TRACE] 16:57:44:872 Filesystem/(2614:2614): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 16:57:44:999 Filesystem/(2614:2614): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 16:57:45:001 Filesystem/(2614:2614): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 16:57:45:014 Filesystem/(2614:2614): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 16:57:45:015 Filesystem/(2614:2614): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 16:57:45:016 Filesystem/(2614:2614): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 16:57:45:017 Filesystem/(2614:2614): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 16:57:45:018 Filesystem/(2614:2614): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 16:57:45:020 Filesystem/(2614:2614): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 16:57:45:021 Filesystem/(2614:2614): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 16:57:45:022 Filesystem/(2614:2614): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 16:57:45:023 Filesystem/(2614:2614): Archivo de configuracion cargado correctamente
+[TRACE] 16:57:45:310 Filesystem/(2614:2614): FileSystem iniciado exitosamente
+[TRACE] 16:58:01:126 Filesystem/(2650:2650): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 16:58:01:257 Filesystem/(2650:2650): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 16:58:01:259 Filesystem/(2650:2650): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 16:58:01:267 Filesystem/(2650:2650): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 16:58:01:268 Filesystem/(2650:2650): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 16:58:01:269 Filesystem/(2650:2650): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 16:58:01:271 Filesystem/(2650:2650): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 16:58:01:272 Filesystem/(2650:2650): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 16:58:01:273 Filesystem/(2650:2650): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 16:58:01:275 Filesystem/(2650:2650): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 16:58:01:276 Filesystem/(2650:2650): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 16:58:01:276 Filesystem/(2650:2650): Archivo de configuracion cargado correctamente
+[TRACE] 16:58:01:560 Filesystem/(2650:2650): FileSystem iniciado exitosamente
+[TRACE] 16:58:01:572 Filesystem/(2650:2650): Entre a crear archivo
+[TRACE] 16:58:01:605 Filesystem/(2650:2650): se ha creado el archivo
+[TRACE] 16:58:01:606 Filesystem/(2650:2650): Entre a truncar archivo
+[TRACE] 16:58:01:651 Filesystem/(2650:2650): Archivo truncado
+[TRACE] 16:58:01:652 Filesystem/(2650:2650): Entre a truncar archivo
+[TRACE] 16:58:01:678 Filesystem/(2650:2650): Archivo aumentado de tamanio
+[TRACE] 16:58:01:679 Filesystem/(2650:2650): Entre a truncar archivo
+[TRACE] 16:58:01:705 Filesystem/(2650:2650): Archivo disminuido de tamanio
+[TRACE] 16:58:01:709 Filesystem/(2650:2650): Entre a escribir archivo
+[TRACE] 16:58:01:725 Filesystem/(2650:2650): Archivo escrito
+[TRACE] 16:58:01:729 Filesystem/(2650:2650): Entre a leer archivo uwu
+[TRACE] 17:07:23:093 Filesystem/(2798:2798): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:07:23:218 Filesystem/(2798:2798): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:07:23:220 Filesystem/(2798:2798): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:07:23:228 Filesystem/(2798:2798): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:07:23:229 Filesystem/(2798:2798): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:07:23:230 Filesystem/(2798:2798): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:07:23:231 Filesystem/(2798:2798): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:07:23:233 Filesystem/(2798:2798): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:07:23:234 Filesystem/(2798:2798): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:07:23:235 Filesystem/(2798:2798): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:07:23:236 Filesystem/(2798:2798): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:07:23:236 Filesystem/(2798:2798): Archivo de configuracion cargado correctamente
+[TRACE] 17:07:23:497 Filesystem/(2798:2798): FileSystem iniciado exitosamente
+[TRACE] 17:07:23:508 Filesystem/(2798:2798): Entre a crear archivo
+[TRACE] 17:07:23:539 Filesystem/(2798:2798): se ha creado el archivo
+[TRACE] 17:07:23:540 Filesystem/(2798:2798): Entre a truncar archivo
+[TRACE] 17:07:23:588 Filesystem/(2798:2798): Archivo truncado
+[TRACE] 17:07:23:589 Filesystem/(2798:2798): Entre a truncar archivo
+[TRACE] 17:07:23:622 Filesystem/(2798:2798): Archivo aumentado de tamanio
+[TRACE] 17:07:23:623 Filesystem/(2798:2798): Entre a truncar archivo
+[TRACE] 17:07:23:654 Filesystem/(2798:2798): Archivo disminuido de tamanio
+[TRACE] 17:07:23:659 Filesystem/(2798:2798): Entre a escribir archivo
+[TRACE] 17:07:23:675 Filesystem/(2798:2798): Archivo escrito
+[TRACE] 17:07:23:681 Filesystem/(2798:2798): Entre a leer archivo uwu
+[TRACE] 17:08:12:981 Filesystem/(2852:2852): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:08:13:105 Filesystem/(2852:2852): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:08:13:107 Filesystem/(2852:2852): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:08:13:115 Filesystem/(2852:2852): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:08:13:116 Filesystem/(2852:2852): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:08:13:118 Filesystem/(2852:2852): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:08:13:119 Filesystem/(2852:2852): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:08:13:120 Filesystem/(2852:2852): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:08:13:121 Filesystem/(2852:2852): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:08:13:123 Filesystem/(2852:2852): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:08:13:124 Filesystem/(2852:2852): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:08:13:124 Filesystem/(2852:2852): Archivo de configuracion cargado correctamente
+[TRACE] 17:08:13:384 Filesystem/(2852:2852): FileSystem iniciado exitosamente
+[TRACE] 17:12:45:310 Filesystem/(2954:2954): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:12:45:437 Filesystem/(2954:2954): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:12:45:439 Filesystem/(2954:2954): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:12:45:446 Filesystem/(2954:2954): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:12:45:448 Filesystem/(2954:2954): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:12:45:449 Filesystem/(2954:2954): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:12:45:450 Filesystem/(2954:2954): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:12:45:451 Filesystem/(2954:2954): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:12:45:452 Filesystem/(2954:2954): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:12:45:453 Filesystem/(2954:2954): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:12:45:455 Filesystem/(2954:2954): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:12:45:455 Filesystem/(2954:2954): Archivo de configuracion cargado correctamente
+[TRACE] 17:12:45:718 Filesystem/(2954:2954): FileSystem iniciado exitosamente
+[TRACE] 17:13:49:223 Filesystem/(2971:2971): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:13:49:348 Filesystem/(2971:2971): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:13:49:350 Filesystem/(2971:2971): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:13:49:358 Filesystem/(2971:2971): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:13:49:359 Filesystem/(2971:2971): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:13:49:361 Filesystem/(2971:2971): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:13:49:362 Filesystem/(2971:2971): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:13:49:363 Filesystem/(2971:2971): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:13:49:364 Filesystem/(2971:2971): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:13:49:365 Filesystem/(2971:2971): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:13:49:366 Filesystem/(2971:2971): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:13:49:367 Filesystem/(2971:2971): Archivo de configuracion cargado correctamente
+[TRACE] 17:13:49:658 Filesystem/(2971:2971): FileSystem iniciado exitosamente
+[TRACE] 17:14:06:478 Filesystem/(3012:3012): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:14:06:605 Filesystem/(3012:3012): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:14:06:607 Filesystem/(3012:3012): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:14:06:615 Filesystem/(3012:3012): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:14:06:616 Filesystem/(3012:3012): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:14:06:617 Filesystem/(3012:3012): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:14:06:618 Filesystem/(3012:3012): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:14:06:619 Filesystem/(3012:3012): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:14:06:621 Filesystem/(3012:3012): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:14:06:622 Filesystem/(3012:3012): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:14:06:623 Filesystem/(3012:3012): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:14:06:624 Filesystem/(3012:3012): Archivo de configuracion cargado correctamente
+[TRACE] 17:14:06:917 Filesystem/(3012:3012): FileSystem iniciado exitosamente
+[TRACE] 17:14:06:929 Filesystem/(3012:3012): Entre a crear archivo
+[TRACE] 17:14:06:958 Filesystem/(3012:3012): se ha creado el archivo
+[TRACE] 17:14:06:960 Filesystem/(3012:3012): Entre a truncar archivo
+[TRACE] 17:14:07:015 Filesystem/(3012:3012): Archivo truncado
+[TRACE] 17:14:07:016 Filesystem/(3012:3012): Entre a truncar archivo
+[TRACE] 17:14:07:043 Filesystem/(3012:3012): Archivo aumentado de tamanio
+[TRACE] 17:14:07:044 Filesystem/(3012:3012): Entre a truncar archivo
+[TRACE] 17:14:07:076 Filesystem/(3012:3012): Archivo disminuido de tamanio
+[TRACE] 17:14:07:080 Filesystem/(3012:3012): Entre a escribir archivo
+[TRACE] 17:14:07:094 Filesystem/(3012:3012): Archivo escrito
+[TRACE] 17:14:07:098 Filesystem/(3012:3012): Entre a leer archivo uwu
+[TRACE] 17:23:05:347 Filesystem/(3350:3350): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 17:23:05:475 Filesystem/(3350:3350): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 17:23:05:477 Filesystem/(3350:3350): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 17:23:05:485 Filesystem/(3350:3350): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 17:23:05:486 Filesystem/(3350:3350): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 17:23:05:487 Filesystem/(3350:3350): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 17:23:05:488 Filesystem/(3350:3350): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 17:23:05:489 Filesystem/(3350:3350): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 17:23:05:491 Filesystem/(3350:3350): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 17:23:05:492 Filesystem/(3350:3350): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 17:23:05:493 Filesystem/(3350:3350): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 17:23:05:494 Filesystem/(3350:3350): Archivo de configuracion cargado correctamente
+[TRACE] 17:23:05:777 Filesystem/(3350:3350): FileSystem iniciado exitosamente
+[TRACE] 17:23:05:789 Filesystem/(3350:3350): Entre a crear archivo
+[TRACE] 17:23:05:819 Filesystem/(3350:3350): se ha creado el archivo
+[TRACE] 17:23:05:821 Filesystem/(3350:3350): Entre a truncar archivo
+[TRACE] 17:23:05:870 Filesystem/(3350:3350): Archivo truncado
+[TRACE] 17:23:05:871 Filesystem/(3350:3350): Entre a truncar archivo
+[TRACE] 17:23:05:892 Filesystem/(3350:3350): Archivo aumentado de tamanio
+[TRACE] 17:23:05:893 Filesystem/(3350:3350): Entre a truncar archivo
+[TRACE] 17:23:05:920 Filesystem/(3350:3350): Archivo disminuido de tamanio
+[TRACE] 17:23:05:924 Filesystem/(3350:3350): Entre a escribir archivo
+[TRACE] 17:23:05:943 Filesystem/(3350:3350): Archivo escrito
+[TRACE] 17:23:05:947 Filesystem/(3350:3350): Entre a leer archivo uwu
+[TRACE] 18:09:34:870 Filesystem/(3698:3698): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:09:34:995 Filesystem/(3698:3698): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:09:34:997 Filesystem/(3698:3698): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:09:35:006 Filesystem/(3698:3698): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:09:35:010 Filesystem/(3698:3698): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:09:35:011 Filesystem/(3698:3698): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:09:35:013 Filesystem/(3698:3698): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:09:35:014 Filesystem/(3698:3698): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:09:35:015 Filesystem/(3698:3698): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:09:35:016 Filesystem/(3698:3698): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:09:35:017 Filesystem/(3698:3698): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:09:35:018 Filesystem/(3698:3698): Archivo de configuracion cargado correctamente
+[TRACE] 18:09:35:311 Filesystem/(3698:3698): FileSystem iniciado exitosamente
+[TRACE] 18:09:35:321 Filesystem/(3698:3698): Entre a crear archivo
+[TRACE] 18:09:35:352 Filesystem/(3698:3698): se ha creado el archivo
+[TRACE] 18:09:35:354 Filesystem/(3698:3698): Entre a truncar archivo
+[TRACE] 18:09:35:402 Filesystem/(3698:3698): Archivo truncado
+[TRACE] 18:09:35:403 Filesystem/(3698:3698): Entre a truncar archivo
+[TRACE] 18:09:35:423 Filesystem/(3698:3698): Archivo aumentado de tamanio
+[TRACE] 18:09:35:424 Filesystem/(3698:3698): Entre a truncar archivo
+[TRACE] 18:09:35:447 Filesystem/(3698:3698): Archivo disminuido de tamanio
+[TRACE] 18:09:35:453 Filesystem/(3698:3698): Entre a escribir archivo
+[TRACE] 18:09:35:466 Filesystem/(3698:3698): Archivo escrito
+[TRACE] 18:09:35:469 Filesystem/(3698:3698): Entre a leer archivo uwu
+[TRACE] 18:17:29:698 Filesystem/(3993:3993): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:17:29:699 Filesystem/(3993:3993): Archivo de configuracion cargado correctamente
+[TRACE] 18:17:29:703 Filesystem/(3993:3993): FileSystem iniciado exitosamente
+[TRACE] 18:17:29:704 Filesystem/(3993:3993): Entre a crear archivo
+[TRACE] 18:17:29:704 Filesystem/(3993:3993): se ha creado el archivo
+[TRACE] 18:17:29:704 Filesystem/(3993:3993): Entre a truncar archivo
+[TRACE] 18:17:29:709 Filesystem/(3993:3993): Archivo truncado
+[TRACE] 18:17:29:709 Filesystem/(3993:3993): Entre a truncar archivo
+[TRACE] 18:17:29:713 Filesystem/(3993:3993): Archivo aumentado de tamanio
+[TRACE] 18:17:29:715 Filesystem/(3993:3993): Entre a truncar archivo
+[TRACE] 18:17:29:725 Filesystem/(3993:3993): Archivo disminuido de tamanio
+[TRACE] 18:17:29:726 Filesystem/(3993:3993): Entre a escribir archivo
+[TRACE] 18:17:29:731 Filesystem/(3993:3993): Archivo escrito
+[TRACE] 18:17:29:732 Filesystem/(3993:3993): Entre a leer archivo uwu
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:20:32:121 Filesystem/(4225:4225): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:20:32:122 Filesystem/(4225:4225): Archivo de configuracion cargado correctamente
+[TRACE] 18:20:32:131 Filesystem/(4225:4225): FileSystem iniciado exitosamente
+[TRACE] 18:20:32:131 Filesystem/(4225:4225): Entre a crear archivo
+[TRACE] 18:20:32:132 Filesystem/(4225:4225): se ha creado el archivo
+[TRACE] 18:20:32:132 Filesystem/(4225:4225): Entre a truncar archivo
+[TRACE] 18:20:32:136 Filesystem/(4225:4225): Archivo truncado
+[TRACE] 18:20:32:136 Filesystem/(4225:4225): Entre a truncar archivo
+[TRACE] 18:20:32:140 Filesystem/(4225:4225): Archivo aumentado de tamanio
+[TRACE] 18:20:32:140 Filesystem/(4225:4225): Entre a truncar archivo
+[TRACE] 18:20:32:147 Filesystem/(4225:4225): Archivo disminuido de tamanio
+[TRACE] 18:20:32:147 Filesystem/(4225:4225): Entre a escribir archivo
+[TRACE] 18:20:32:155 Filesystem/(4225:4225): Archivo escrito
+[TRACE] 18:20:32:155 Filesystem/(4225:4225): Entre a leer archivo uwu
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:22:49:132 Filesystem/(4371:4371): Archivo de configuracion cargado correctamente
+[TRACE] 18:22:49:138 Filesystem/(4371:4371): FileSystem iniciado exitosamente
+[TRACE] 18:22:49:138 Filesystem/(4371:4371): Entre a crear archivo
+[TRACE] 18:22:49:138 Filesystem/(4371:4371): se ha creado el archivo
+[TRACE] 18:22:49:138 Filesystem/(4371:4371): Entre a truncar archivo
+[TRACE] 18:22:49:142 Filesystem/(4371:4371): Archivo truncado
+[TRACE] 18:22:49:142 Filesystem/(4371:4371): Entre a truncar archivo
+[TRACE] 18:22:49:147 Filesystem/(4371:4371): Archivo aumentado de tamanio
+[TRACE] 18:22:49:147 Filesystem/(4371:4371): Entre a truncar archivo
+[TRACE] 18:22:49:154 Filesystem/(4371:4371): Archivo disminuido de tamanio
+[TRACE] 18:22:49:155 Filesystem/(4371:4371): Entre a escribir archivo
+[TRACE] 18:22:49:159 Filesystem/(4371:4371): Archivo escrito
+[TRACE] 18:22:49:159 Filesystem/(4371:4371): Entre a leer archivo uwu
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:26:33:137 Filesystem/(4573:4573): Archivo de configuracion cargado correctamente
+[TRACE] 18:26:33:142 Filesystem/(4573:4573): FileSystem iniciado exitosamente
+[TRACE] 18:26:33:142 Filesystem/(4573:4573): Entre a crear archivo
+[TRACE] 18:26:33:143 Filesystem/(4573:4573): se ha creado el archivo
+[TRACE] 18:26:33:143 Filesystem/(4573:4573): Entre a truncar archivo
+[TRACE] 18:26:33:146 Filesystem/(4573:4573): Archivo truncado
+[TRACE] 18:26:33:146 Filesystem/(4573:4573): Entre a truncar archivo
+[TRACE] 18:26:33:149 Filesystem/(4573:4573): Archivo aumentado de tamanio
+[TRACE] 18:26:33:149 Filesystem/(4573:4573): Entre a truncar archivo
+[TRACE] 18:26:33:154 Filesystem/(4573:4573): Archivo disminuido de tamanio
+[TRACE] 18:26:33:155 Filesystem/(4573:4573): Entre a escribir archivo
+[TRACE] 18:26:33:159 Filesystem/(4573:4573): Archivo escrito
+[TRACE] 18:26:33:160 Filesystem/(4573:4573): Entre a leer archivo uwu
+[TRACE] 18:27:37:637 Filesystem/(4799:4799): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:27:37:756 Filesystem/(4799:4799): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:27:37:758 Filesystem/(4799:4799): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:27:37:766 Filesystem/(4799:4799): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:27:37:767 Filesystem/(4799:4799): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:27:37:768 Filesystem/(4799:4799): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:27:37:770 Filesystem/(4799:4799): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:27:37:771 Filesystem/(4799:4799): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:27:37:772 Filesystem/(4799:4799): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:27:37:773 Filesystem/(4799:4799): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:27:37:774 Filesystem/(4799:4799): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:27:37:775 Filesystem/(4799:4799): Archivo de configuracion cargado correctamente
+[TRACE] 18:27:38:044 Filesystem/(4799:4799): FileSystem iniciado exitosamente
+[TRACE] 18:27:38:051 Filesystem/(4799:4799): Entre a crear archivo
+[TRACE] 18:27:38:090 Filesystem/(4799:4799): se ha creado el archivo
+[TRACE] 18:27:38:091 Filesystem/(4799:4799): Entre a truncar archivo
+[TRACE] 18:27:38:138 Filesystem/(4799:4799): Archivo truncado
+[TRACE] 18:27:38:139 Filesystem/(4799:4799): Entre a truncar archivo
+[TRACE] 18:27:38:162 Filesystem/(4799:4799): Archivo aumentado de tamanio
+[TRACE] 18:27:38:163 Filesystem/(4799:4799): Entre a truncar archivo
+[TRACE] 18:27:38:190 Filesystem/(4799:4799): Archivo disminuido de tamanio
+[TRACE] 18:27:38:194 Filesystem/(4799:4799): Entre a escribir archivo
+[TRACE] 18:27:38:206 Filesystem/(4799:4799): Archivo escrito
+[TRACE] 18:27:38:209 Filesystem/(4799:4799): Entre a leer archivo uwu
+[TRACE] 18:28:44:098 Filesystem/(4856:4856): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:28:44:220 Filesystem/(4856:4856): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:28:44:222 Filesystem/(4856:4856): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:28:44:230 Filesystem/(4856:4856): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:28:44:231 Filesystem/(4856:4856): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:28:44:232 Filesystem/(4856:4856): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:28:44:234 Filesystem/(4856:4856): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:28:44:235 Filesystem/(4856:4856): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:28:44:236 Filesystem/(4856:4856): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:28:44:237 Filesystem/(4856:4856): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:28:44:238 Filesystem/(4856:4856): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:28:44:239 Filesystem/(4856:4856): Archivo de configuracion cargado correctamente
+[TRACE] 18:28:44:508 Filesystem/(4856:4856): FileSystem iniciado exitosamente
+[TRACE] 18:28:44:519 Filesystem/(4856:4856): Entre a crear archivo
+[TRACE] 18:28:44:548 Filesystem/(4856:4856): se ha creado el archivo
+[TRACE] 18:28:44:550 Filesystem/(4856:4856): Entre a truncar archivo
+[TRACE] 18:28:44:596 Filesystem/(4856:4856): Archivo truncado
+[TRACE] 18:28:44:597 Filesystem/(4856:4856): Entre a truncar archivo
+[TRACE] 18:28:44:620 Filesystem/(4856:4856): Archivo aumentado de tamanio
+[TRACE] 18:28:44:621 Filesystem/(4856:4856): Entre a truncar archivo
+[TRACE] 18:28:44:647 Filesystem/(4856:4856): Archivo disminuido de tamanio
+[TRACE] 18:28:44:652 Filesystem/(4856:4856): Entre a escribir archivo
+[TRACE] 18:28:44:668 Filesystem/(4856:4856): Archivo escrito
+[TRACE] 18:28:44:672 Filesystem/(4856:4856): Entre a leer archivo uwu
+[TRACE] 18:31:13:074 Filesystem/(4961:4961): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:31:13:197 Filesystem/(4961:4961): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:31:13:199 Filesystem/(4961:4961): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:31:13:207 Filesystem/(4961:4961): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:31:13:208 Filesystem/(4961:4961): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:31:13:209 Filesystem/(4961:4961): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:31:13:210 Filesystem/(4961:4961): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:31:13:211 Filesystem/(4961:4961): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:31:13:213 Filesystem/(4961:4961): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:31:13:214 Filesystem/(4961:4961): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:31:13:215 Filesystem/(4961:4961): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:31:13:216 Filesystem/(4961:4961): Archivo de configuracion cargado correctamente
+[TRACE] 18:31:13:483 Filesystem/(4961:4961): FileSystem iniciado exitosamente
+[TRACE] 18:31:13:494 Filesystem/(4961:4961): Entre a crear archivo
+[TRACE] 18:31:13:522 Filesystem/(4961:4961): se ha creado el archivo
+[TRACE] 18:31:13:524 Filesystem/(4961:4961): Entre a truncar archivo
+[TRACE] 18:31:13:580 Filesystem/(4961:4961): Archivo truncado
+[TRACE] 18:31:13:581 Filesystem/(4961:4961): Entre a truncar archivo
+[TRACE] 18:31:13:604 Filesystem/(4961:4961): Archivo aumentado de tamanio
+[TRACE] 18:31:13:605 Filesystem/(4961:4961): Entre a truncar archivo
+[TRACE] 18:31:13:633 Filesystem/(4961:4961): Archivo disminuido de tamanio
+[TRACE] 18:31:13:637 Filesystem/(4961:4961): Entre a escribir archivo
+[TRACE] 18:31:13:650 Filesystem/(4961:4961): Archivo escrito
+[TRACE] 18:31:13:654 Filesystem/(4961:4961): Entre a leer archivo uwu
+[TRACE] 18:36:10:499 Filesystem/(5130:5130): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:36:10:619 Filesystem/(5130:5130): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:36:10:621 Filesystem/(5130:5130): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:36:10:628 Filesystem/(5130:5130): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:36:10:629 Filesystem/(5130:5130): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:36:10:630 Filesystem/(5130:5130): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:36:10:632 Filesystem/(5130:5130): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:36:10:633 Filesystem/(5130:5130): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:36:10:634 Filesystem/(5130:5130): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:36:10:635 Filesystem/(5130:5130): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:36:10:636 Filesystem/(5130:5130): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:36:10:637 Filesystem/(5130:5130): Archivo de configuracion cargado correctamente
+[TRACE] 18:36:10:891 Filesystem/(5130:5130): FileSystem iniciado exitosamente
+[TRACE] 18:36:10:902 Filesystem/(5130:5130): Entre a crear archivo
+[TRACE] 18:36:10:932 Filesystem/(5130:5130): se ha creado el archivo
+[TRACE] 18:36:10:934 Filesystem/(5130:5130): Entre a truncar archivo
+[TRACE] 18:36:10:981 Filesystem/(5130:5130): Archivo truncado
+[TRACE] 18:36:10:982 Filesystem/(5130:5130): Entre a truncar archivo
+[TRACE] 18:36:11:010 Filesystem/(5130:5130): Archivo aumentado de tamanio
+[TRACE] 18:36:11:011 Filesystem/(5130:5130): Entre a truncar archivo
+[TRACE] 18:36:11:039 Filesystem/(5130:5130): Archivo disminuido de tamanio
+[TRACE] 18:36:11:043 Filesystem/(5130:5130): Entre a escribir archivo
+[TRACE] 18:36:11:056 Filesystem/(5130:5130): Archivo escrito
+[TRACE] 18:36:11:059 Filesystem/(5130:5130): Entre a leer archivo uwu
+[TRACE] 18:37:38:003 Filesystem/(5198:5198): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:37:38:126 Filesystem/(5198:5198): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:37:38:128 Filesystem/(5198:5198): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:37:38:136 Filesystem/(5198:5198): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:37:38:137 Filesystem/(5198:5198): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:37:38:138 Filesystem/(5198:5198): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:37:38:139 Filesystem/(5198:5198): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:37:38:140 Filesystem/(5198:5198): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:37:38:141 Filesystem/(5198:5198): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:37:38:142 Filesystem/(5198:5198): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:37:38:143 Filesystem/(5198:5198): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:37:38:144 Filesystem/(5198:5198): Archivo de configuracion cargado correctamente
+[TRACE] 18:37:38:421 Filesystem/(5198:5198): FileSystem iniciado exitosamente
+[TRACE] 18:37:38:432 Filesystem/(5198:5198): Entre a crear archivo
+[TRACE] 18:37:38:462 Filesystem/(5198:5198): se ha creado el archivo
+[TRACE] 18:37:38:463 Filesystem/(5198:5198): Entre a truncar archivo
+[TRACE] 18:37:38:509 Filesystem/(5198:5198): Archivo truncado
+[TRACE] 18:37:38:510 Filesystem/(5198:5198): Entre a truncar archivo
+[TRACE] 18:37:38:532 Filesystem/(5198:5198): Archivo aumentado de tamanio
+[TRACE] 18:37:38:533 Filesystem/(5198:5198): Entre a truncar archivo
+[TRACE] 18:37:38:562 Filesystem/(5198:5198): Archivo disminuido de tamanio
+[TRACE] 18:37:38:566 Filesystem/(5198:5198): Entre a escribir archivo
+[TRACE] 18:37:38:581 Filesystem/(5198:5198): Archivo escrito
+[TRACE] 18:37:38:585 Filesystem/(5198:5198): Entre a leer archivo uwu
+[TRACE] 18:38:31:514 Filesystem/(5235:5235): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:38:31:638 Filesystem/(5235:5235): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:38:31:641 Filesystem/(5235:5235): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:38:31:649 Filesystem/(5235:5235): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:38:31:650 Filesystem/(5235:5235): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:38:31:651 Filesystem/(5235:5235): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:38:31:652 Filesystem/(5235:5235): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:38:31:653 Filesystem/(5235:5235): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:38:31:654 Filesystem/(5235:5235): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:38:31:655 Filesystem/(5235:5235): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:38:31:656 Filesystem/(5235:5235): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:38:31:657 Filesystem/(5235:5235): Archivo de configuracion cargado correctamente
+[TRACE] 18:38:31:952 Filesystem/(5235:5235): FileSystem iniciado exitosamente
+[TRACE] 18:38:31:962 Filesystem/(5235:5235): Entre a crear archivo
+[TRACE] 18:38:31:992 Filesystem/(5235:5235): se ha creado el archivo
+[TRACE] 18:38:31:994 Filesystem/(5235:5235): Entre a truncar archivo
+[TRACE] 18:38:32:044 Filesystem/(5235:5235): Archivo truncado
+[TRACE] 18:38:32:045 Filesystem/(5235:5235): Entre a truncar archivo
+[TRACE] 18:38:32:068 Filesystem/(5235:5235): Archivo aumentado de tamanio
+[TRACE] 18:38:32:069 Filesystem/(5235:5235): Entre a truncar archivo
+[TRACE] 18:38:32:096 Filesystem/(5235:5235): Archivo disminuido de tamanio
+[TRACE] 18:38:32:101 Filesystem/(5235:5235): Entre a escribir archivo
+[TRACE] 18:38:32:116 Filesystem/(5235:5235): Archivo escrito
+[TRACE] 18:38:32:119 Filesystem/(5235:5235): Entre a leer archivo uwu
+[TRACE] 18:43:07:438 Filesystem/(5329:5329): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:43:07:560 Filesystem/(5329:5329): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:43:07:562 Filesystem/(5329:5329): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:43:07:570 Filesystem/(5329:5329): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:43:07:571 Filesystem/(5329:5329): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:43:07:572 Filesystem/(5329:5329): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:43:07:573 Filesystem/(5329:5329): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:43:07:574 Filesystem/(5329:5329): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:43:07:575 Filesystem/(5329:5329): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:43:07:576 Filesystem/(5329:5329): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:43:07:577 Filesystem/(5329:5329): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:43:07:578 Filesystem/(5329:5329): Archivo de configuracion cargado correctamente
+[TRACE] 18:43:07:703 Filesystem/(5329:5329): Bitmap creado
+[TRACE] 18:43:07:852 Filesystem/(5329:5329): FileSystem iniciado exitosamente
+[TRACE] 18:43:07:864 Filesystem/(5329:5329): Entre a crear archivo
+[TRACE] 18:43:07:893 Filesystem/(5329:5329): se ha creado el archivo
+[TRACE] 18:43:07:894 Filesystem/(5329:5329): Entre a truncar archivo
+[TRACE] 18:43:07:939 Filesystem/(5329:5329): Archivo truncado
+[TRACE] 18:43:07:940 Filesystem/(5329:5329): Entre a truncar archivo
+[TRACE] 18:43:07:962 Filesystem/(5329:5329): Archivo aumentado de tamanio
+[TRACE] 18:43:07:963 Filesystem/(5329:5329): Entre a truncar archivo
+[TRACE] 18:43:07:988 Filesystem/(5329:5329): Archivo disminuido de tamanio
+[TRACE] 18:43:07:992 Filesystem/(5329:5329): Entre a escribir archivo
+[TRACE] 18:43:08:008 Filesystem/(5329:5329): Archivo escrito
+[TRACE] 18:43:08:011 Filesystem/(5329:5329): Entre a leer archivo uwu
+[TRACE] 18:48:49:103 Filesystem/(5452:5452): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:48:49:237 Filesystem/(5452:5452): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:48:49:240 Filesystem/(5452:5452): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:48:49:248 Filesystem/(5452:5452): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:48:49:249 Filesystem/(5452:5452): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:48:49:250 Filesystem/(5452:5452): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:48:49:252 Filesystem/(5452:5452): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:48:49:253 Filesystem/(5452:5452): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:48:49:254 Filesystem/(5452:5452): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:48:49:255 Filesystem/(5452:5452): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:48:49:257 Filesystem/(5452:5452): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:48:49:258 Filesystem/(5452:5452): Archivo de configuracion cargado correctamente
+[TRACE] 18:48:49:393 Filesystem/(5452:5452): Bitmap creado
+[TRACE] 18:48:49:553 Filesystem/(5452:5452): FileSystem iniciado exitosamente
+[TRACE] 18:48:49:566 Filesystem/(5452:5452): Entre a crear archivo
+[TRACE] 18:48:49:616 Filesystem/(5452:5452): se ha creado el archivo
+[TRACE] 18:48:49:619 Filesystem/(5452:5452): Entre a truncar archivo
+[TRACE] 18:48:49:679 Filesystem/(5452:5452): Archivo truncado
+[TRACE] 18:48:49:680 Filesystem/(5452:5452): Entre a truncar archivo
+[TRACE] 18:48:49:702 Filesystem/(5452:5452): Archivo aumentado de tamanio
+[TRACE] 18:48:49:703 Filesystem/(5452:5452): Entre a truncar archivo
+[TRACE] 18:48:49:728 Filesystem/(5452:5452): Archivo disminuido de tamanio
+[TRACE] 18:48:49:732 Filesystem/(5452:5452): Entre a escribir archivo
+[TRACE] 18:48:49:746 Filesystem/(5452:5452): Archivo escrito
+[TRACE] 18:48:49:750 Filesystem/(5452:5452): Entre a leer archivo uwu
+[TRACE] 18:49:36:439 Filesystem/(5547:5547): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:49:36:559 Filesystem/(5547:5547): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:49:36:561 Filesystem/(5547:5547): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:49:36:569 Filesystem/(5547:5547): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:49:36:570 Filesystem/(5547:5547): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:49:36:571 Filesystem/(5547:5547): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:49:36:572 Filesystem/(5547:5547): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:49:36:574 Filesystem/(5547:5547): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:49:36:575 Filesystem/(5547:5547): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:49:36:576 Filesystem/(5547:5547): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:49:36:577 Filesystem/(5547:5547): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:49:36:578 Filesystem/(5547:5547): Archivo de configuracion cargado correctamente
+[TRACE] 18:49:36:698 Filesystem/(5547:5547): Bitmap creado
+[TRACE] 18:49:36:846 Filesystem/(5547:5547): FileSystem iniciado exitosamente
+[TRACE] 18:49:36:857 Filesystem/(5547:5547): Entre a crear archivo
+[TRACE] 18:49:36:887 Filesystem/(5547:5547): se ha creado el archivo
+[TRACE] 18:49:36:889 Filesystem/(5547:5547): Entre a truncar archivo
+[TRACE] 18:49:36:939 Filesystem/(5547:5547): Archivo truncado
+[TRACE] 18:49:36:940 Filesystem/(5547:5547): Entre a truncar archivo
+[TRACE] 18:49:36:961 Filesystem/(5547:5547): Archivo aumentado de tamanio
+[TRACE] 18:49:36:962 Filesystem/(5547:5547): Entre a truncar archivo
+[TRACE] 18:49:36:990 Filesystem/(5547:5547): Archivo disminuido de tamanio
+[TRACE] 18:49:36:994 Filesystem/(5547:5547): Entre a escribir archivo
+[TRACE] 18:49:37:011 Filesystem/(5547:5547): Archivo escrito
+[TRACE] 18:49:37:015 Filesystem/(5547:5547): Entre a leer archivo uwu
+[TRACE] 18:54:13:195 Filesystem/(5646:5646): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:54:13:319 Filesystem/(5646:5646): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:54:13:321 Filesystem/(5646:5646): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:54:13:331 Filesystem/(5646:5646): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:54:13:332 Filesystem/(5646:5646): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:54:13:334 Filesystem/(5646:5646): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:54:13:335 Filesystem/(5646:5646): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:54:13:336 Filesystem/(5646:5646): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:54:13:337 Filesystem/(5646:5646): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:54:13:338 Filesystem/(5646:5646): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:54:13:339 Filesystem/(5646:5646): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:54:13:340 Filesystem/(5646:5646): Archivo de configuracion cargado correctamente
+[TRACE] 18:54:13:460 Filesystem/(5646:5646): Bitmap creado
+[TRACE] 18:54:13:619 Filesystem/(5646:5646): FileSystem iniciado exitosamente
+[TRACE] 18:54:13:630 Filesystem/(5646:5646): Entre a crear archivo
+[TRACE] 18:54:13:661 Filesystem/(5646:5646): se ha creado el archivo
+[TRACE] 18:54:13:662 Filesystem/(5646:5646): Entre a truncar archivo
+[TRACE] 18:54:13:710 Filesystem/(5646:5646): Archivo truncado
+[TRACE] 18:54:13:710 Filesystem/(5646:5646): Entre a truncar archivo
+[TRACE] 18:54:13:733 Filesystem/(5646:5646): Archivo aumentado de tamanio
+[TRACE] 18:54:13:734 Filesystem/(5646:5646): Entre a truncar archivo
+[TRACE] 18:54:13:765 Filesystem/(5646:5646): Archivo disminuido de tamanio
+[TRACE] 18:54:13:770 Filesystem/(5646:5646): Entre a escribir archivo
+[TRACE] 18:54:13:783 Filesystem/(5646:5646): Archivo escrito
+[TRACE] 18:54:13:786 Filesystem/(5646:5646): Entre a leer archivo uwu
+[TRACE] 18:55:33:324 Filesystem/(5709:5709): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:55:33:444 Filesystem/(5709:5709): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:55:33:446 Filesystem/(5709:5709): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:55:33:454 Filesystem/(5709:5709): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:55:33:455 Filesystem/(5709:5709): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:55:33:456 Filesystem/(5709:5709): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:55:33:457 Filesystem/(5709:5709): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:55:33:458 Filesystem/(5709:5709): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:55:33:460 Filesystem/(5709:5709): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:55:33:461 Filesystem/(5709:5709): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:55:33:462 Filesystem/(5709:5709): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:55:33:463 Filesystem/(5709:5709): Archivo de configuracion cargado correctamente
+[TRACE] 18:55:33:581 Filesystem/(5709:5709): Bitmap creado
+[TRACE] 18:55:33:733 Filesystem/(5709:5709): FileSystem iniciado exitosamente
+[TRACE] 18:55:33:737 Filesystem/(5709:5709): Entre a crear archivo
+[TRACE] 18:55:33:778 Filesystem/(5709:5709): se ha creado el archivo
+[TRACE] 18:55:33:779 Filesystem/(5709:5709): Entre a truncar archivo
+[TRACE] 18:55:33:831 Filesystem/(5709:5709): Archivo truncado
+[TRACE] 18:55:33:832 Filesystem/(5709:5709): Entre a truncar archivo
+[TRACE] 18:55:33:856 Filesystem/(5709:5709): Archivo aumentado de tamanio
+[TRACE] 18:55:33:857 Filesystem/(5709:5709): Entre a truncar archivo
+[TRACE] 18:55:33:883 Filesystem/(5709:5709): Archivo disminuido de tamanio
+[TRACE] 18:55:33:888 Filesystem/(5709:5709): Entre a escribir archivo
+[TRACE] 18:55:33:903 Filesystem/(5709:5709): Archivo escrito
+[TRACE] 18:55:33:907 Filesystem/(5709:5709): Entre a leer archivo uwu
+[TRACE] 18:58:30:182 Filesystem/(5754:5754): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 18:58:30:307 Filesystem/(5754:5754): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 18:58:30:309 Filesystem/(5754:5754): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 18:58:30:316 Filesystem/(5754:5754): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 18:58:30:318 Filesystem/(5754:5754): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 18:58:30:319 Filesystem/(5754:5754): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 18:58:30:321 Filesystem/(5754:5754): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 18:58:30:322 Filesystem/(5754:5754): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 18:58:30:324 Filesystem/(5754:5754): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 18:58:30:325 Filesystem/(5754:5754): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 18:58:30:326 Filesystem/(5754:5754): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 18:58:30:327 Filesystem/(5754:5754): Archivo de configuracion cargado correctamente
+[TRACE] 18:58:30:452 Filesystem/(5754:5754): Bitmap creado
+[TRACE] 18:58:30:452 Filesystem/(5754:5754): FileSystem iniciado exitosamente
+[TRACE] 18:58:30:454 Filesystem/(5754:5754): Entre a crear archivo
+[TRACE] 18:58:30:482 Filesystem/(5754:5754): se ha creado el archivo
+[TRACE] 18:58:30:484 Filesystem/(5754:5754): Entre a truncar archivo
+[TRACE] 18:58:30:527 Filesystem/(5754:5754): Archivo truncado
+[TRACE] 18:58:30:530 Filesystem/(5754:5754): Entre a truncar archivo
+[TRACE] 18:58:30:551 Filesystem/(5754:5754): Archivo aumentado de tamanio
+[TRACE] 18:58:30:553 Filesystem/(5754:5754): Entre a truncar archivo
+[TRACE] 18:58:30:578 Filesystem/(5754:5754): Archivo disminuido de tamanio
+[TRACE] 18:58:30:583 Filesystem/(5754:5754): Entre a escribir archivo
+[TRACE] 18:58:30:598 Filesystem/(5754:5754): Archivo escrito
+[TRACE] 18:58:30:604 Filesystem/(5754:5754): Entre a leer archivo uwu
+[TRACE] 19:01:04:378 Filesystem/(5821:5821): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 19:01:04:502 Filesystem/(5821:5821): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 19:01:04:504 Filesystem/(5821:5821): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 19:01:04:512 Filesystem/(5821:5821): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 19:01:04:513 Filesystem/(5821:5821): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 19:01:04:514 Filesystem/(5821:5821): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 19:01:04:515 Filesystem/(5821:5821): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 19:01:04:517 Filesystem/(5821:5821): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 19:01:04:518 Filesystem/(5821:5821): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 19:01:04:519 Filesystem/(5821:5821): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 19:01:04:520 Filesystem/(5821:5821): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 19:01:04:520 Filesystem/(5821:5821): Archivo de configuracion cargado correctamente
+[TRACE] 19:01:04:637 Filesystem/(5821:5821): Bitmap creado
+[TRACE] 19:01:04:638 Filesystem/(5821:5821): FileSystem iniciado exitosamente
+[TRACE] 19:01:04:640 Filesystem/(5821:5821): Entre a crear archivo
+[TRACE] 19:01:04:666 Filesystem/(5821:5821): se ha creado el archivo
+[TRACE] 19:01:04:667 Filesystem/(5821:5821): Entre a truncar archivo
+[TRACE] 19:01:04:713 Filesystem/(5821:5821): Archivo truncado
+[TRACE] 19:01:04:714 Filesystem/(5821:5821): Entre a truncar archivo
+[TRACE] 19:01:04:735 Filesystem/(5821:5821): Archivo aumentado de tamanio
+[TRACE] 19:01:04:736 Filesystem/(5821:5821): Entre a truncar archivo
+[TRACE] 19:01:04:763 Filesystem/(5821:5821): Archivo disminuido de tamanio
+[TRACE] 19:01:04:768 Filesystem/(5821:5821): Entre a escribir archivo
+[TRACE] 19:01:04:784 Filesystem/(5821:5821): Archivo escrito
+[TRACE] 19:01:04:788 Filesystem/(5821:5821): Entre a leer archivo uwu
+[TRACE] 21:06:25:016 Filesystem/(8433:8433): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:06:25:141 Filesystem/(8433:8433): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:06:25:143 Filesystem/(8433:8433): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:06:25:151 Filesystem/(8433:8433): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:06:25:152 Filesystem/(8433:8433): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:06:25:153 Filesystem/(8433:8433): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:06:25:154 Filesystem/(8433:8433): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:06:25:155 Filesystem/(8433:8433): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:06:25:156 Filesystem/(8433:8433): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:06:25:157 Filesystem/(8433:8433): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:06:25:158 Filesystem/(8433:8433): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:06:25:159 Filesystem/(8433:8433): Archivo de configuracion cargado correctamente
+[TRACE] 21:06:25:285 Filesystem/(8433:8433): Bitmap creado
+[TRACE] 21:06:25:431 Filesystem/(8433:8433): FileSystem iniciado exitosamente
+[TRACE] 21:11:52:246 Filesystem/(8601:8601): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:11:52:370 Filesystem/(8601:8601): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:11:52:373 Filesystem/(8601:8601): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:11:52:381 Filesystem/(8601:8601): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:11:52:382 Filesystem/(8601:8601): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:11:52:383 Filesystem/(8601:8601): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:11:52:384 Filesystem/(8601:8601): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:11:52:385 Filesystem/(8601:8601): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:11:52:386 Filesystem/(8601:8601): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:11:52:387 Filesystem/(8601:8601): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:11:52:388 Filesystem/(8601:8601): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:11:52:389 Filesystem/(8601:8601): Archivo de configuracion cargado correctamente
+[TRACE] 21:11:52:506 Filesystem/(8601:8601): Bitmap creado
+[TRACE] 21:11:52:657 Filesystem/(8601:8601): FileSystem iniciado exitosamente
+[TRACE] 21:12:10:543 Filesystem/(8601:8602): Entre a crear archivo
+[TRACE] 21:12:11:604 Filesystem/(8601:8602): Entre a truncar archivo
+[TRACE] 21:12:13:672 Filesystem/(8601:8602): Entre a leer bloque de swap
+[TRACE] 21:25:51:788 Filesystem/(9019:9019): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:25:51:907 Filesystem/(9019:9019): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:25:51:909 Filesystem/(9019:9019): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:25:51:918 Filesystem/(9019:9019): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:25:51:919 Filesystem/(9019:9019): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:25:51:920 Filesystem/(9019:9019): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:25:51:921 Filesystem/(9019:9019): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:25:51:922 Filesystem/(9019:9019): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:25:51:923 Filesystem/(9019:9019): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:25:51:924 Filesystem/(9019:9019): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:25:51:925 Filesystem/(9019:9019): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:25:51:926 Filesystem/(9019:9019): Archivo de configuracion cargado correctamente
+[TRACE] 21:25:52:047 Filesystem/(9019:9019): Bitmap creado
+[TRACE] 21:25:52:197 Filesystem/(9019:9019): FileSystem iniciado exitosamente
+[TRACE] 21:28:54:251 Filesystem/(9130:9130): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:28:54:374 Filesystem/(9130:9130): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:28:54:376 Filesystem/(9130:9130): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:28:54:384 Filesystem/(9130:9130): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:28:54:385 Filesystem/(9130:9130): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:28:54:386 Filesystem/(9130:9130): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:28:54:388 Filesystem/(9130:9130): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:28:54:389 Filesystem/(9130:9130): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:28:54:390 Filesystem/(9130:9130): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:28:54:391 Filesystem/(9130:9130): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:28:54:392 Filesystem/(9130:9130): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:28:54:393 Filesystem/(9130:9130): Archivo de configuracion cargado correctamente
+[TRACE] 21:28:54:513 Filesystem/(9130:9130): Bitmap creado
+[TRACE] 21:28:54:666 Filesystem/(9130:9130): FileSystem iniciado exitosamente
+[TRACE] 21:30:34:228 Filesystem/(9252:9252): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:30:34:347 Filesystem/(9252:9252): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:30:34:349 Filesystem/(9252:9252): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:30:34:357 Filesystem/(9252:9252): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:30:34:358 Filesystem/(9252:9252): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:30:34:359 Filesystem/(9252:9252): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:30:34:360 Filesystem/(9252:9252): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:30:34:361 Filesystem/(9252:9252): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:30:34:362 Filesystem/(9252:9252): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:30:34:363 Filesystem/(9252:9252): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:30:34:364 Filesystem/(9252:9252): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:30:34:365 Filesystem/(9252:9252): Archivo de configuracion cargado correctamente
+[TRACE] 21:30:34:483 Filesystem/(9252:9252): Bitmap creado
+[TRACE] 21:30:34:632 Filesystem/(9252:9252): FileSystem iniciado exitosamente
+[TRACE] 21:40:08:263 Filesystem/(9504:9504): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 21:40:08:389 Filesystem/(9504:9504): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 21:40:08:391 Filesystem/(9504:9504): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 21:40:08:399 Filesystem/(9504:9504): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 21:40:08:401 Filesystem/(9504:9504): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 21:40:08:402 Filesystem/(9504:9504): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 21:40:08:404 Filesystem/(9504:9504): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 21:40:08:405 Filesystem/(9504:9504): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 21:40:08:406 Filesystem/(9504:9504): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 21:40:08:407 Filesystem/(9504:9504): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 21:40:08:408 Filesystem/(9504:9504): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 21:40:08:409 Filesystem/(9504:9504): Archivo de configuracion cargado correctamente
+[TRACE] 21:40:08:527 Filesystem/(9504:9504): Bitmap creado
+[TRACE] 21:40:08:680 Filesystem/(9504:9504): FileSystem iniciado exitosamente
+[TRACE] 22:11:14:627 Filesystem/(11072:11072): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:11:14:748 Filesystem/(11072:11072): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:11:14:750 Filesystem/(11072:11072): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:11:14:758 Filesystem/(11072:11072): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:11:14:759 Filesystem/(11072:11072): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:11:14:760 Filesystem/(11072:11072): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:11:14:761 Filesystem/(11072:11072): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:11:14:762 Filesystem/(11072:11072): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:11:14:763 Filesystem/(11072:11072): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:11:14:764 Filesystem/(11072:11072): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:11:14:765 Filesystem/(11072:11072): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:11:14:766 Filesystem/(11072:11072): Archivo de configuracion cargado correctamente
+[TRACE] 22:11:14:880 Filesystem/(11072:11072): Bitmap creado
+[TRACE] 22:11:15:024 Filesystem/(11072:11072): FileSystem iniciado exitosamente
+[TRACE] 22:13:20:929 Filesystem/(11168:11168): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:13:21:049 Filesystem/(11168:11168): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:13:21:054 Filesystem/(11168:11168): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:13:21:062 Filesystem/(11168:11168): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:13:21:064 Filesystem/(11168:11168): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:13:21:065 Filesystem/(11168:11168): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:13:21:066 Filesystem/(11168:11168): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:13:21:067 Filesystem/(11168:11168): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:13:21:068 Filesystem/(11168:11168): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:13:21:070 Filesystem/(11168:11168): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:13:21:071 Filesystem/(11168:11168): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:13:21:072 Filesystem/(11168:11168): Archivo de configuracion cargado correctamente
+[TRACE] 22:13:21:187 Filesystem/(11168:11168): Bitmap creado
+[TRACE] 22:13:21:340 Filesystem/(11168:11168): FileSystem iniciado exitosamente
+[TRACE] 22:13:46:113 Filesystem/(11212:11212): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:13:46:234 Filesystem/(11212:11212): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:13:46:236 Filesystem/(11212:11212): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:13:46:244 Filesystem/(11212:11212): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:13:46:245 Filesystem/(11212:11212): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:13:46:246 Filesystem/(11212:11212): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:13:46:247 Filesystem/(11212:11212): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:13:46:248 Filesystem/(11212:11212): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:13:46:250 Filesystem/(11212:11212): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:13:46:251 Filesystem/(11212:11212): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:13:46:252 Filesystem/(11212:11212): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:13:46:253 Filesystem/(11212:11212): Archivo de configuracion cargado correctamente
+[TRACE] 22:13:46:367 Filesystem/(11212:11212): Bitmap creado
+[TRACE] 22:13:46:516 Filesystem/(11212:11212): FileSystem iniciado exitosamente
+[TRACE] 22:15:27:364 Filesystem/(11345:11345): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:15:27:485 Filesystem/(11345:11345): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:15:27:487 Filesystem/(11345:11345): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:15:27:494 Filesystem/(11345:11345): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:15:27:495 Filesystem/(11345:11345): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:15:27:496 Filesystem/(11345:11345): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:15:27:497 Filesystem/(11345:11345): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:15:27:499 Filesystem/(11345:11345): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:15:27:500 Filesystem/(11345:11345): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:15:27:502 Filesystem/(11345:11345): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:15:27:503 Filesystem/(11345:11345): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:15:27:504 Filesystem/(11345:11345): Archivo de configuracion cargado correctamente
+[TRACE] 22:15:27:623 Filesystem/(11345:11345): Bitmap creado
+[TRACE] 22:15:27:772 Filesystem/(11345:11345): FileSystem iniciado exitosamente
+[TRACE] 22:20:50:862 Filesystem/(11577:11577): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:20:50:980 Filesystem/(11577:11577): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:20:50:983 Filesystem/(11577:11577): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:20:50:990 Filesystem/(11577:11577): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:20:50:991 Filesystem/(11577:11577): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:20:50:992 Filesystem/(11577:11577): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:20:50:993 Filesystem/(11577:11577): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:20:50:994 Filesystem/(11577:11577): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:20:50:996 Filesystem/(11577:11577): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:20:50:997 Filesystem/(11577:11577): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:20:50:998 Filesystem/(11577:11577): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:20:50:999 Filesystem/(11577:11577): Archivo de configuracion cargado correctamente
+[TRACE] 22:20:51:117 Filesystem/(11577:11577): Bitmap creado
+[TRACE] 22:20:51:264 Filesystem/(11577:11577): FileSystem iniciado exitosamente
+[TRACE] 22:22:18:481 Filesystem/(11690:11690): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 22:22:18:602 Filesystem/(11690:11690): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 22:22:18:604 Filesystem/(11690:11690): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 22:22:18:612 Filesystem/(11690:11690): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 22:22:18:613 Filesystem/(11690:11690): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 22:22:18:614 Filesystem/(11690:11690): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 22:22:18:616 Filesystem/(11690:11690): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 22:22:18:617 Filesystem/(11690:11690): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 22:22:18:618 Filesystem/(11690:11690): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 22:22:18:619 Filesystem/(11690:11690): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 22:22:18:620 Filesystem/(11690:11690): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 22:22:18:621 Filesystem/(11690:11690): Archivo de configuracion cargado correctamente
+[TRACE] 22:22:18:748 Filesystem/(11690:11690): Bitmap creado
+[TRACE] 22:22:18:896 Filesystem/(11690:11690): FileSystem iniciado exitosamente
+[TRACE] 22:22:42:147 Filesystem/(11690:11693): Entre a crear archivo
+[TRACE] 22:22:43:190 Filesystem/(11690:11693): Entre a truncar archivo
+[TRACE] 22:22:45:240 Filesystem/(11690:11693): Entre a leer bloque de swap
+[TRACE] 23:22:45:249 Filesystem/(14530:14530): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 23:22:45:371 Filesystem/(14530:14530): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 23:22:45:373 Filesystem/(14530:14530): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 23:22:45:381 Filesystem/(14530:14530): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 23:22:45:382 Filesystem/(14530:14530): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 23:22:45:383 Filesystem/(14530:14530): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 23:22:45:384 Filesystem/(14530:14530): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 23:22:45:385 Filesystem/(14530:14530): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 23:22:45:386 Filesystem/(14530:14530): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 23:22:45:387 Filesystem/(14530:14530): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 23:22:45:388 Filesystem/(14530:14530): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 23:22:45:389 Filesystem/(14530:14530): Archivo de configuracion cargado correctamente
+[TRACE] 23:22:45:501 Filesystem/(14530:14530): Bitmap creado
+[TRACE] 23:22:45:643 Filesystem/(14530:14530): FileSystem iniciado exitosamente
+[TRACE] 23:23:45:718 Filesystem/(14530:14531): Entre a crear archivo
+[TRACE] 23:23:46:763 Filesystem/(14530:14531): Entre a truncar archivo
+[TRACE] 23:23:48:831 Filesystem/(14530:14531): Entre a leer bloque de swap
+[TRACE] 23:37:25:729 Filesystem/(14988:14988): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 23:37:25:848 Filesystem/(14988:14988): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 23:37:25:851 Filesystem/(14988:14988): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 23:37:25:858 Filesystem/(14988:14988): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 23:37:25:860 Filesystem/(14988:14988): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 23:37:25:861 Filesystem/(14988:14988): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 23:37:25:862 Filesystem/(14988:14988): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 23:37:25:864 Filesystem/(14988:14988): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 23:37:25:865 Filesystem/(14988:14988): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 23:37:25:866 Filesystem/(14988:14988): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 23:37:25:867 Filesystem/(14988:14988): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 23:37:25:868 Filesystem/(14988:14988): Archivo de configuracion cargado correctamente
+[TRACE] 23:37:25:987 Filesystem/(14988:14988): Bitmap creado
+[TRACE] 23:37:26:139 Filesystem/(14988:14988): FileSystem iniciado exitosamente
+[TRACE] 23:37:57:661 Filesystem/(14988:14989): Entre a crear archivo
+[TRACE] 23:37:58:704 Filesystem/(14988:14989): Entre a truncar archivo
+[TRACE] 23:38:00:774 Filesystem/(14988:14989): Entre a leer bloque de swap
+[TRACE] 23:39:20:892 Filesystem/(15109:15109): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 23:39:21:019 Filesystem/(15109:15109): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 23:39:21:024 Filesystem/(15109:15109): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 23:39:21:032 Filesystem/(15109:15109): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 23:39:21:034 Filesystem/(15109:15109): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 23:39:21:035 Filesystem/(15109:15109): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 23:39:21:038 Filesystem/(15109:15109): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 23:39:21:040 Filesystem/(15109:15109): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 23:39:21:041 Filesystem/(15109:15109): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 23:39:21:042 Filesystem/(15109:15109): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 23:39:21:043 Filesystem/(15109:15109): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 23:39:21:045 Filesystem/(15109:15109): Archivo de configuracion cargado correctamente
+[TRACE] 23:39:21:158 Filesystem/(15109:15109): Bitmap creado
+[TRACE] 23:39:21:310 Filesystem/(15109:15109): FileSystem iniciado exitosamente
+[TRACE] 23:39:44:398 Filesystem/(15109:15111): Entre a crear archivo
+[TRACE] 23:39:45:444 Filesystem/(15109:15111): Entre a truncar archivo
+[TRACE] 23:39:47:511 Filesystem/(15109:15111): Entre a leer bloque de swap
+[TRACE] 00:33:21:105 Filesystem/(17020:17020): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 00:33:21:239 Filesystem/(17020:17020): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 00:33:21:243 Filesystem/(17020:17020): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 00:33:21:251 Filesystem/(17020:17020): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 00:33:21:252 Filesystem/(17020:17020): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 00:33:21:253 Filesystem/(17020:17020): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 00:33:21:254 Filesystem/(17020:17020): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 00:33:21:256 Filesystem/(17020:17020): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 00:33:21:257 Filesystem/(17020:17020): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 00:33:21:259 Filesystem/(17020:17020): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 00:33:21:260 Filesystem/(17020:17020): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 00:33:21:261 Filesystem/(17020:17020): Archivo de configuracion cargado correctamente
+[TRACE] 00:33:21:385 Filesystem/(17020:17020): Bitmap creado
+[TRACE] 00:33:21:537 Filesystem/(17020:17020): FileSystem iniciado exitosamente
+[TRACE] 00:33:49:801 Filesystem/(17020:17022): Entre a crear archivo
+[TRACE] 00:33:50:845 Filesystem/(17020:17022): Entre a truncar archivo
+[TRACE] 00:33:52:883 Filesystem/(17020:17022): Entre a leer bloque de swap
+[TRACE] 00:35:00:863 Filesystem/(17133:17133): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 00:35:00:991 Filesystem/(17133:17133): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 00:35:00:993 Filesystem/(17133:17133): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 00:35:01:001 Filesystem/(17133:17133): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 00:35:01:007 Filesystem/(17133:17133): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 00:35:01:008 Filesystem/(17133:17133): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 00:35:01:009 Filesystem/(17133:17133): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 00:35:01:010 Filesystem/(17133:17133): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 00:35:01:011 Filesystem/(17133:17133): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 00:35:01:013 Filesystem/(17133:17133): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 00:35:01:014 Filesystem/(17133:17133): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 00:35:01:015 Filesystem/(17133:17133): Archivo de configuracion cargado correctamente
+[TRACE] 00:35:01:136 Filesystem/(17133:17133): Bitmap creado
+[TRACE] 00:35:01:288 Filesystem/(17133:17133): FileSystem iniciado exitosamente
+[TRACE] 00:35:33:304 Filesystem/(17133:17134): Entre a crear archivo
+[TRACE] 00:35:34:346 Filesystem/(17133:17134): Entre a truncar archivo
+[TRACE] 00:35:36:390 Filesystem/(17133:17134): Entre a leer bloque de swap
+[TRACE] 00:36:29:431 Filesystem/(17231:17231): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 00:36:29:560 Filesystem/(17231:17231): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 00:36:29:562 Filesystem/(17231:17231): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 00:36:29:570 Filesystem/(17231:17231): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 00:36:29:571 Filesystem/(17231:17231): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 00:36:29:572 Filesystem/(17231:17231): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 00:36:29:573 Filesystem/(17231:17231): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 00:36:29:574 Filesystem/(17231:17231): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 00:36:29:576 Filesystem/(17231:17231): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 00:36:29:577 Filesystem/(17231:17231): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 00:36:29:577 Filesystem/(17231:17231): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 00:36:29:578 Filesystem/(17231:17231): Archivo de configuracion cargado correctamente
+[TRACE] 00:36:29:699 Filesystem/(17231:17231): Bitmap creado
+[TRACE] 00:36:29:854 Filesystem/(17231:17231): FileSystem iniciado exitosamente
+[TRACE] 00:36:50:796 Filesystem/(17231:17232): Entre a crear archivo
+[TRACE] 00:36:51:853 Filesystem/(17231:17232): Entre a truncar archivo
+[TRACE] 00:36:53:891 Filesystem/(17231:17232): Entre a leer bloque de swap
+[TRACE] 00:38:38:554 Filesystem/(17389:17389): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 00:38:38:680 Filesystem/(17389:17389): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 00:38:38:682 Filesystem/(17389:17389): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 00:38:38:690 Filesystem/(17389:17389): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 00:38:38:691 Filesystem/(17389:17389): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 00:38:38:692 Filesystem/(17389:17389): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 00:38:38:693 Filesystem/(17389:17389): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 00:38:38:695 Filesystem/(17389:17389): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 00:38:38:696 Filesystem/(17389:17389): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 00:38:38:697 Filesystem/(17389:17389): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 00:38:38:698 Filesystem/(17389:17389): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 00:38:38:699 Filesystem/(17389:17389): Archivo de configuracion cargado correctamente
+[TRACE] 00:38:38:820 Filesystem/(17389:17389): Bitmap creado
+[TRACE] 00:38:38:969 Filesystem/(17389:17389): FileSystem iniciado exitosamente
+[TRACE] 00:39:07:310 Filesystem/(17389:17390): Entre a crear archivo
+[TRACE] 00:39:08:381 Filesystem/(17389:17390): Entre a truncar archivo
+[TRACE] 00:39:10:476 Filesystem/(17389:17390): Entre a leer bloque de swap
+[TRACE] 01:34:57:254 Filesystem/(18844:18844): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 01:34:57:380 Filesystem/(18844:18844): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 01:34:57:382 Filesystem/(18844:18844): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 01:34:57:390 Filesystem/(18844:18844): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 01:34:57:392 Filesystem/(18844:18844): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 01:34:57:393 Filesystem/(18844:18844): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 01:34:57:394 Filesystem/(18844:18844): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 01:34:57:395 Filesystem/(18844:18844): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 01:34:57:396 Filesystem/(18844:18844): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 01:34:57:397 Filesystem/(18844:18844): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 01:34:57:398 Filesystem/(18844:18844): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 01:34:57:399 Filesystem/(18844:18844): Archivo de configuracion cargado correctamente
+[TRACE] 01:34:57:516 Filesystem/(18844:18844): Bitmap creado
+[TRACE] 01:34:57:663 Filesystem/(18844:18844): FileSystem iniciado exitosamente
+[TRACE] 01:35:25:913 Filesystem/(18844:18845): Entre a crear archivo
+[TRACE] 01:35:26:983 Filesystem/(18844:18845): Entre a truncar archivo
+[TRACE] 01:35:29:116 Filesystem/(18844:18845): Entre a leer bloque de swap
+[TRACE] 01:35:31:166 Filesystem/(18844:18845): Entre a escribir archivo
+[TRACE] 05:10:12:282 Filesystem/(8573:8573): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:10:12:411 Filesystem/(8573:8573): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:10:12:414 Filesystem/(8573:8573): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:10:12:422 Filesystem/(8573:8573): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:10:12:423 Filesystem/(8573:8573): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:10:12:424 Filesystem/(8573:8573): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:10:12:426 Filesystem/(8573:8573): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:10:12:427 Filesystem/(8573:8573): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:10:12:428 Filesystem/(8573:8573): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:10:12:429 Filesystem/(8573:8573): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:10:12:431 Filesystem/(8573:8573): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:10:12:432 Filesystem/(8573:8573): Archivo de configuracion cargado correctamente
+[TRACE] 05:10:12:553 Filesystem/(8573:8573): Bitmap creado
+[TRACE] 05:10:12:705 Filesystem/(8573:8573): FileSystem iniciado exitosamente
+[TRACE] 05:18:58:646 Filesystem/(8755:8755): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:18:58:770 Filesystem/(8755:8755): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:18:58:773 Filesystem/(8755:8755): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:18:58:781 Filesystem/(8755:8755): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:18:58:782 Filesystem/(8755:8755): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:18:58:783 Filesystem/(8755:8755): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:18:58:785 Filesystem/(8755:8755): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:18:58:786 Filesystem/(8755:8755): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:18:58:787 Filesystem/(8755:8755): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:18:58:788 Filesystem/(8755:8755): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:18:58:789 Filesystem/(8755:8755): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:18:58:790 Filesystem/(8755:8755): Archivo de configuracion cargado correctamente
+[TRACE] 05:18:58:910 Filesystem/(8755:8755): Bitmap creado
+[TRACE] 05:18:59:065 Filesystem/(8755:8755): FileSystem iniciado exitosamente
+[TRACE] 05:35:19:360 Filesystem/(9012:9012): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:35:19:485 Filesystem/(9012:9012): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:35:19:487 Filesystem/(9012:9012): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:35:19:495 Filesystem/(9012:9012): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:35:19:496 Filesystem/(9012:9012): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:35:19:497 Filesystem/(9012:9012): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:35:19:498 Filesystem/(9012:9012): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:35:19:500 Filesystem/(9012:9012): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:35:19:501 Filesystem/(9012:9012): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:35:19:502 Filesystem/(9012:9012): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:35:19:503 Filesystem/(9012:9012): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:35:19:504 Filesystem/(9012:9012): Archivo de configuracion cargado correctamente
+[TRACE] 05:35:19:624 Filesystem/(9012:9012): Bitmap creado
+[TRACE] 05:35:19:773 Filesystem/(9012:9012): FileSystem iniciado exitosamente
+[TRACE] 05:42:15:206 Filesystem/(9611:9611): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:42:15:207 Filesystem/(9611:9611): Archivo de configuracion cargado correctamente
+[TRACE] 05:42:15:212 Filesystem/(9611:9611): Bitmap creado
+[TRACE] 05:42:15:212 Filesystem/(9611:9611): FileSystem iniciado exitosamente
+[TRACE] 05:45:37:750 Filesystem/(9898:9898): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:45:37:751 Filesystem/(9898:9898): Archivo de configuracion cargado correctamente
+[TRACE] 05:45:37:755 Filesystem/(9898:9898): Bitmap creado
+[TRACE] 05:45:37:756 Filesystem/(9898:9898): FileSystem iniciado exitosamente
+[TRACE] 05:46:04:009 Filesystem/(9942:9942): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:46:04:009 Filesystem/(9942:9942): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:46:04:010 Filesystem/(9942:9942): Archivo de configuracion cargado correctamente
+[TRACE] 05:46:04:014 Filesystem/(9942:9942): Bitmap creado
+[TRACE] 05:46:04:014 Filesystem/(9942:9942): FileSystem iniciado exitosamente
+[TRACE] 05:47:28:815 Filesystem/(10039:10039): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:47:28:815 Filesystem/(10039:10039): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 05:47:28:816 Filesystem/(10039:10039): Archivo de configuracion cargado correctamente
+[TRACE] 05:47:28:820 Filesystem/(10039:10039): Bitmap creado
+[TRACE] 05:47:28:820 Filesystem/(10039:10039): FileSystem iniciado exitosamente
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): CANT_BLOQUES_TOTAL Cargada Correctamente: 1024
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): CANT_BLOQUES_SWAP Cargada Correctamente: 64
+[TRACE] 06:02:29:801 Filesystem/(10221:10221): Archivo de configuracion cargado correctamente
+[TRACE] 06:02:29:807 Filesystem/(10221:10221): Bitmap creado
+[TRACE] 06:02:29:807 Filesystem/(10221:10221): FileSystem iniciado exitosamente
+[TRACE] 05:46:38:870 Filesystem/(8944:8944): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): CANT_BLOQUES_TOTAL Cargada Correctamente: 8192
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): CANT_BLOQUES_SWAP Cargada Correctamente: 1024
+[TRACE] 05:46:38:872 Filesystem/(8944:8944): Archivo de configuracion cargado correctamente
+[TRACE] 05:46:39:026 Filesystem/(8944:8944): Bitmap creado
+[TRACE] 05:46:39:027 Filesystem/(8944:8944): FileSystem iniciado exitosamente
+[TRACE] 05:48:01:723 Filesystem/(8944:8945): Entre a crear archivo
+[TRACE] 05:48:03:766 Filesystem/(8944:8945): Entre a leer bloque de swap
+[TRACE] 05:48:06:787 Filesystem/(8944:8988): Peticion Lectura Archivo <GuiaPlatinoSagaDarkSouls> - Puntero <0> - Memoria: <0>
+[TRACE] 05:48:06:788 Filesystem/(8944:8945): Entre a leer archivo
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): IP_MEMORIA Cargada Correctamente: 127.0.0.1
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): PUERTO_MEMORIA Cargada Correctamente: 8002
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): PUERTO_ESCUCHA Cargada Correctamente: 8003
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): RETARDO_ACCESO_FAT Cargada Correctamente: 500
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): TAM_BLOQUE Cargada Correctamente: 16
+[TRACE] 05:50:29:112 Filesystem/(9061:9061): PATH_BLOQUES Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/bloques.dat
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): PATH_FAT Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fat.dat
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): PATH_FCB Cargada Correctamente: /home/utnso/tp-2023-2c-Operaneta/FileSystem/fs/fcbs
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): RETARDO_ACCESO_BLOQUE Cargada Correctamente: 2500
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): CANT_BLOQUES_TOTAL Cargada Correctamente: 8192
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): CANT_BLOQUES_SWAP Cargada Correctamente: 1024
+[TRACE] 05:50:29:113 Filesystem/(9061:9061): Archivo de configuracion cargado correctamente
+[TRACE] 05:50:29:265 Filesystem/(9061:9061): Bitmap creado
+[TRACE] 05:50:29:265 Filesystem/(9061:9061): FileSystem iniciado exitosamente
+[TRACE] 05:51:21:233 Filesystem/(9061:9062): Entre a crear archivo
+[TRACE] 05:51:23:283 Filesystem/(9061:9062): Entre a leer bloque de swap
+[TRACE] 05:51:26:300 Filesystem/(9061:9107): Peticion Lectura Archivo <GuiaPlatinoSagaDarkSouls> - Puntero <0> - Memoria: <0>
+[TRACE] 05:51:26:302 Filesystem/(9061:9062): Entre a leer archivo

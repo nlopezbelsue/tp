@@ -1,0 +1,115 @@
+==9012== Memcheck, a memory error detector
+==9012== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9012== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==9012== Command: ./FileSystem/Debug/FileSystem ./FileSystem/FileSystem.config
+==9012== Parent PID: 9002
+==9012== 
+==9012== 
+==9012== HEAP SUMMARY:
+==9012==     in use at exit: 29,386 bytes in 1,948 blocks
+==9012==   total heap usage: 2,751 allocs, 803 frees, 84,903 bytes allocated
+==9012== 
+==9012== 1 bytes in 1 blocks are definitely lost in loss record 1 of 23
+==9012==    at 0x484DCD3: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x486F62B: string_append (in /usr/lib/libcommons.so)
+==9012==    by 0x10BB62: crear_peticion (comunicacion.c:439)
+==9012==    by 0x10B5E1: iniciar_proceso (comunicacion.c:297)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== 3 bytes in 1 blocks are definitely lost in loss record 3 of 23
+==9012==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x497C58E: strdup (strdup.c:42)
+==9012==    by 0x486F5DD: string_duplicate (in /usr/lib/libcommons.so)
+==9012==    by 0x486EEB7: log_create (in /usr/lib/libcommons.so)
+==9012==    by 0x10BF9C: iniciar_logger (comunicacion.c:551)
+==9012==    by 0x10ABB3: conectarModulo (comunicacion.c:26)
+==9012==    by 0x10CCDD: conectarMemoria (init.c:138)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== 4 bytes in 4 blocks are definitely lost in loss record 4 of 23
+==9012==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x10CA84: crear_bitmap_swap (init.c:63)
+==9012==    by 0x10CC49: iniciarFileSystem (init.c:119)
+==9012==    by 0x10DD01: main (main.c:21)
+==9012== 
+==9012== 16 bytes in 1 blocks are definitely lost in loss record 11 of 23
+==9012==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x486D28E: list_create (in /usr/lib/libcommons.so)
+==9012==    by 0x10B329: finalizar_proceso (comunicacion.c:214)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== 16 bytes in 1 blocks are definitely lost in loss record 12 of 23
+==9012==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x486D28E: list_create (in /usr/lib/libcommons.so)
+==9012==    by 0x10B3A6: crear_peticion_fin_proceso (comunicacion.c:231)
+==9012==    by 0x10B34C: finalizar_proceso (comunicacion.c:217)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== 272 bytes in 1 blocks are possibly lost in loss record 15 of 23
+==9012==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==9012==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==9012==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==9012==    by 0x49697B4: allocate_stack (allocatestack.c:430)
+==9012==    by 0x49697B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==9012==    by 0x10BC93: iniciar_atencion_peticiones (comunicacion.c:472)
+==9012==    by 0x10CC7F: iniciarFileSystem (init.c:124)
+==9012==    by 0x10DD01: main (main.c:21)
+==9012== 
+==9012== 272 bytes in 1 blocks are possibly lost in loss record 16 of 23
+==9012==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==9012==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==9012==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==9012==    by 0x49697B4: allocate_stack (allocatestack.c:430)
+==9012==    by 0x49697B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==9012==    by 0x10DD3B: main (main.c:32)
+==9012== 
+==9012== 272 bytes in 1 blocks are possibly lost in loss record 17 of 23
+==9012==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==9012==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==9012==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==9012==    by 0x49697B4: allocate_stack (allocatestack.c:430)
+==9012==    by 0x49697B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==9012==    by 0x10DD5C: main (main.c:33)
+==9012== 
+==9012== 272 bytes in 1 blocks are possibly lost in loss record 18 of 23
+==9012==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==9012==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==9012==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==9012==    by 0x49697B4: allocate_stack (allocatestack.c:430)
+==9012==    by 0x49697B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==9012==    by 0x10ADCF: recibirConexion (comunicacion.c:69)
+==9012==    by 0x10CCBF: recibir (init.c:133)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== 272 bytes in 1 blocks are possibly lost in loss record 19 of 23
+==9012==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9012==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==9012==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==9012==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==9012==    by 0x49697B4: allocate_stack (allocatestack.c:430)
+==9012==    by 0x49697B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==9012==    by 0x10ADF0: recibirConexion (comunicacion.c:70)
+==9012==    by 0x10CCBF: recibir (init.c:133)
+==9012==    by 0x4968AC2: start_thread (pthread_create.c:442)
+==9012==    by 0x49F9813: clone (clone.S:100)
+==9012== 
+==9012== LEAK SUMMARY:
+==9012==    definitely lost: 40 bytes in 8 blocks
+==9012==    indirectly lost: 0 bytes in 0 blocks
+==9012==      possibly lost: 1,360 bytes in 5 blocks
+==9012==    still reachable: 27,986 bytes in 1,935 blocks
+==9012==         suppressed: 0 bytes in 0 blocks
+==9012== Reachable blocks (those to which a pointer was found) are not shown.
+==9012== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==9012== 
+==9012== For lists of detected and suppressed errors, rerun with: -s
+==9012== ERROR SUMMARY: 10 errors from 10 contexts (suppressed: 0 from 0)

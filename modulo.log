@@ -1,0 +1,802 @@
+[INFO] 16:56:29:962 -/(2508:2510): Servidor listo para recibir a los clientes
+[INFO] 16:57:45:724 -/(2614:2616): Servidor listo para recibir a los clientes
+[INFO] 17:12:46:090 -/(2954:2956): Servidor listo para recibir a los clientes
+[INFO] 17:13:50:031 -/(2971:2973): Servidor listo para recibir a los clientes
+[INFO] 17:14:07:513 -/(3012:3014): Servidor listo para recibir a los clientes
+[INFO] 17:23:06:371 -/(3350:3352): Servidor listo para recibir a los clientes
+[INFO] 18:09:35:898 -/(3698:3700): Servidor listo para recibir a los clientes
+[INFO] 18:17:29:751 -/(3993:3995): Servidor listo para recibir a los clientes
+[INFO] 18:26:33:173 -/(4573:4575): Servidor listo para recibir a los clientes
+[INFO] 18:27:38:630 -/(4799:4801): Servidor listo para recibir a los clientes
+[INFO] 18:28:45:105 -/(4856:4858): Servidor listo para recibir a los clientes
+[INFO] 18:31:14:058 -/(4961:4963): Servidor listo para recibir a los clientes
+[INFO] 18:49:37:427 -/(5547:5549): Servidor listo para recibir a los clientes
+[INFO] 18:54:14:209 -/(5646:5648): Servidor listo para recibir a los clientes
+[INFO] 21:06:11:926 -/(8410:8411): Servidor listo para recibir a los clientes
+[INFO] 21:06:17:437 -/(8418:8420): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:06:18:442 -/(8410:8411): Se conecto un cliente!
+[INFO] 21:06:18:443 -/(8410:8421): HANDSHAKE con CPU acontecido
+[INFO] 21:06:25:788 -/(8433:8435): Servidor listo para recibir a los clientes
+[INFO] 21:06:26:816 -/(8410:8411): Se conecto un cliente!
+[INFO] 21:06:33:370 -/(8410:8411): Se conecto un cliente!
+[INFO] 21:06:34:378 -/(8433:8435): Se conecto un cliente!
+[ERROR] 21:06:47:906 -/(8433:8450): el cliente se desconecto.
+[ERROR] 21:06:47:907 -/(8433:8450): Terminando servidor.
+[ERROR] 21:07:33:204 -/(8433:8451): el cliente se desconecto.
+[ERROR] 21:07:33:205 -/(8433:8451): Terminando servidor.
+[INFO] 21:11:35:349 -/(8577:8578): Servidor listo para recibir a los clientes
+[INFO] 21:11:39:930 -/(8585:8587): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:11:40:931 -/(8577:8578): Se conecto un cliente!
+[INFO] 21:11:41:048 -/(8577:8588): HANDSHAKE con CPU acontecido
+[INFO] 21:11:53:018 -/(8601:8603): Servidor listo para recibir a los clientes
+[INFO] 21:11:54:045 -/(8577:8578): Se conecto un cliente!
+[INFO] 21:11:56:246 -/(8577:8578): Se conecto un cliente!
+[INFO] 21:11:57:251 -/(8601:8603): Se conecto un cliente!
+[INFO] 21:12:07:490 -/(8577:8588): 0 0
+[INFO] 21:12:08:510 -/(8577:8588): 0 1
+[INFO] 21:12:09:518 -/(8577:8588): 0 2
+[INFO] 21:12:10:569 -/(8577:8588): 0 3
+[INFO] 21:12:11:630 -/(8577:8588): 0 4
+[INFO] 21:12:12:635 -/(8577:8588): 0 5
+[INFO] 21:12:13:666 -/(8577:8588): 0 5
+[WARNING] 21:12:13:691 -/(8577:8605): Operacion desconocida. No quieras meter la pata 44 
+[WARNING] 21:12:13:692 -/(8577:8605): Operacion desconocida. No quieras meter la pata 21 
+[WARNING] 21:12:13:693 -/(8577:8605): Operacion desconocida. No quieras meter la pata 4096 
+[WARNING] 21:12:13:694 -/(8577:8605): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 21:12:13:694 -/(8577:8605): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 21:12:13:695 -/(8577:8605): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 21:12:13:695 -/(8577:8605): Operacion desconocida. No quieras meter la pata 0 
+[INFO] 21:12:14:671 -/(8577:8588): 0 5
+[WARNING] 21:12:14:701 -/(8577:8605): Operacion desconocida. No quieras meter la pata 4352 
+[WARNING] 21:12:14:703 -/(8577:8605): Operacion desconocida. No quieras meter la pata 4352 
+[WARNING] 21:12:14:704 -/(8577:8605): Operacion desconocida. No quieras meter la pata 1024 
+[WARNING] 21:12:14:705 -/(8577:8605): Operacion desconocida. No quieras meter la pata 1048576 
+[WARNING] 21:12:14:706 -/(8577:8605): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 21:12:14:707 -/(8577:8605): Operacion desconocida. No quieras meter la pata 131072 
+[ERROR] 21:12:16:002 -/(8577:8615): el cliente se desconecto.
+[ERROR] 21:12:16:002 -/(8601:8618): el cliente se desconecto.
+[ERROR] 21:12:16:003 -/(8577:8615): Terminando servidor KERNEL
+[ERROR] 21:12:16:003 -/(8601:8618): Terminando servidor.
+[ERROR] 21:12:16:297 -/(8577:8588): el cliente se desconecto.
+[ERROR] 21:12:16:298 -/(8577:8588): Terminando servidor.CPU
+[WARNING] 21:25:26:552 -/(8577:8605): Operacion desconocida. No quieras meter la pata 131072 
+[ERROR] 21:25:26:553 -/(8577:8605): el cliente se desconecto.
+[ERROR] 21:25:26:553 -/(8577:8605): Terminando servidor.FILESYSTEM
+[INFO] 21:25:42:380 -/(8996:8997): Servidor listo para recibir a los clientes
+[INFO] 21:25:45:090 -/(9004:9006): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:25:46:092 -/(8996:8997): Se conecto un cliente!
+[INFO] 21:25:46:232 -/(8996:9007): HANDSHAKE con CPU acontecido
+[INFO] 21:25:52:558 -/(9019:9021): Servidor listo para recibir a los clientes
+[INFO] 21:25:53:584 -/(8996:8997): Se conecto un cliente!
+[INFO] 21:27:11:048 -/(8996:8997): Se conecto un cliente!
+[INFO] 21:27:12:053 -/(9019:9021): Se conecto un cliente!
+[ERROR] 21:27:29:589 -/(9019:9069): el cliente se desconecto.
+[ERROR] 21:27:29:590 -/(9019:9069): Terminando servidor.
+[ERROR] 21:28:21:768 -/(9019:9070): el cliente se desconecto.
+[ERROR] 21:28:21:769 -/(9019:9070): Terminando servidor.
+[INFO] 21:28:43:416 -/(9107:9108): Servidor listo para recibir a los clientes
+[INFO] 21:28:44:946 -/(9115:9117): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:28:46:072 -/(9107:9108): Se conecto un cliente!
+[INFO] 21:28:46:207 -/(9107:9118): HANDSHAKE con CPU acontecido
+[INFO] 21:28:55:026 -/(9130:9132): Servidor listo para recibir a los clientes
+[INFO] 21:28:56:048 -/(9107:9108): Se conecto un cliente!
+[INFO] 21:28:58:811 -/(9107:9108): Se conecto un cliente!
+[INFO] 21:28:59:842 -/(9130:9132): Se conecto un cliente!
+[ERROR] 21:29:11:277 -/(9130:9147): el cliente se desconecto.
+[ERROR] 21:29:11:278 -/(9130:9147): Terminando servidor.
+[ERROR] 21:29:11:278 -/(9107:9144): el cliente se desconecto.
+[ERROR] 21:29:11:279 -/(9107:9144): Terminando servidor KERNEL
+[INFO] 21:29:21:451 -/(9156:9157): Servidor listo para recibir a los clientes
+[INFO] 21:29:22:472 -/(9164:9166): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:29:41:711 -/(9173:9175): Servidor listo para recibir a los clientes
+[INFO] 21:29:42:412 -/(9182:9184): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:29:53:541 -/(9191:9192): Servidor listo para recibir a los clientes
+[INFO] 21:29:58:232 -/(9199:9201): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:30:12:737 -/(9208:9209): Servidor listo para recibir a los clientes
+[INFO] 21:30:15:141 -/(9216:9218): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:30:25:618 -/(9236:9238): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:30:26:772 -/(9227:9239): Servidor listo para recibir a los clientes
+[INFO] 21:30:27:620 -/(9227:9239): Se conecto un cliente!
+[INFO] 21:30:27:733 -/(9227:9240): HANDSHAKE con CPU acontecido
+[INFO] 21:30:35:006 -/(9252:9254): Servidor listo para recibir a los clientes
+[INFO] 21:30:35:912 -/(9227:9239): Se conecto un cliente!
+[INFO] 21:30:37:512 -/(9227:9239): Se conecto un cliente!
+[INFO] 21:30:38:521 -/(9252:9254): Se conecto un cliente!
+[ERROR] 21:30:51:134 -/(9252:9268): el cliente se desconecto.
+[ERROR] 21:30:51:135 -/(9252:9268): Terminando servidor.
+[INFO] 21:39:42:702 -/(9480:9481): Servidor listo para recibir a los clientes
+[INFO] 21:40:01:188 -/(9489:9491): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 21:40:02:193 -/(9480:9481): Se conecto un cliente!
+[INFO] 21:40:02:338 -/(9480:9492): HANDSHAKE con CPU acontecido
+[INFO] 21:40:09:081 -/(9504:9506): Servidor listo para recibir a los clientes
+[INFO] 21:40:09:988 -/(9480:9481): Se conecto un cliente!
+[INFO] 21:40:13:049 -/(9480:9481): Se conecto un cliente!
+[INFO] 21:40:14:052 -/(9504:9506): Se conecto un cliente!
+[ERROR] 21:40:27:352 -/(9504:9521): el cliente se desconecto.
+[ERROR] 21:40:27:353 -/(9504:9521): Terminando servidor.
+[ERROR] 21:40:52:629 -/(9504:9522): el cliente se desconecto.
+[ERROR] 21:40:52:630 -/(9504:9522): Terminando servidor.
+[INFO] 22:10:35:014 -/(11015:11016): Servidor listo para recibir a los clientes
+[INFO] 22:10:40:148 -/(11023:11025): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:10:47:538 -/(11032:11033): Servidor listo para recibir a los clientes
+[INFO] 22:10:50:807 -/(11040:11042): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:11:00:321 -/(11049:11050): Servidor listo para recibir a los clientes
+[INFO] 22:11:04:694 -/(11057:11059): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:11:05:697 -/(11049:11050): Se conecto un cliente!
+[INFO] 22:11:05:698 -/(11049:11060): HANDSHAKE con CPU acontecido
+[INFO] 22:11:15:377 -/(11072:11074): Servidor listo para recibir a los clientes
+[INFO] 22:11:16:398 -/(11049:11050): Se conecto un cliente!
+[INFO] 22:11:20:887 -/(11049:11050): Se conecto un cliente!
+[INFO] 22:11:21:897 -/(11072:11074): Se conecto un cliente!
+[INFO] 22:11:52:402 -/(11049:11060): 0 0
+[ERROR] 22:11:52:850 -/(11072:11090): el cliente se desconecto.
+[ERROR] 22:11:52:851 -/(11072:11090): Terminando servidor.
+[INFO] 22:12:52:312 -/(11128:11129): Servidor listo para recibir a los clientes
+[INFO] 22:13:00:311 -/(11136:11138): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:13:10:298 -/(11145:11146): Servidor listo para recibir a los clientes
+[INFO] 22:13:10:433 -/(11153:11155): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:13:11:443 -/(11145:11146): Se conecto un cliente!
+[INFO] 22:13:11:581 -/(11145:11156): HANDSHAKE con CPU acontecido
+[INFO] 22:13:21:712 -/(11168:11170): Servidor listo para recibir a los clientes
+[INFO] 22:13:22:621 -/(11145:11146): Se conecto un cliente!
+[INFO] 22:13:24:913 -/(11145:11146): Se conecto un cliente!
+[ERROR] 22:13:31:178 -/(11145:11182): el cliente se desconecto.
+[ERROR] 22:13:31:180 -/(11145:11182): Terminando servidor KERNEL
+[ERROR] 22:13:32:099 -/(11145:11172): el cliente se desconecto.
+[ERROR] 22:13:32:104 -/(11145:11172): Terminando servidor.FILESYSTEM
+[ERROR] 22:13:32:527 -/(11145:11156): el cliente se desconecto.
+[ERROR] 22:13:32:528 -/(11145:11156): Terminando servidor.CPU
+[INFO] 22:13:38:116 -/(11196:11198): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:13:38:421 -/(11189:11199): Servidor listo para recibir a los clientes
+[INFO] 22:13:39:121 -/(11189:11199): Se conecto un cliente!
+[INFO] 22:13:39:253 -/(11189:11200): HANDSHAKE con CPU acontecido
+[INFO] 22:13:46:886 -/(11212:11215): Servidor listo para recibir a los clientes
+[INFO] 22:13:47:803 -/(11189:11199): Se conecto un cliente!
+[INFO] 22:13:50:213 -/(11189:11199): Se conecto un cliente!
+[ERROR] 22:13:53:825 -/(11189:11227): el cliente se desconecto.
+[ERROR] 22:13:53:828 -/(11189:11227): Terminando servidor KERNEL
+[ERROR] 22:13:54:739 -/(11189:11217): el cliente se desconecto.
+[ERROR] 22:13:54:739 -/(11189:11217): Terminando servidor.FILESYSTEM
+[INFO] 22:14:01:867 -/(11242:11244): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:14:01:784 -/(11234:11235): Servidor listo para recibir a los clientes
+[INFO] 22:14:08:919 -/(11251:11252): Servidor listo para recibir a los clientes
+[INFO] 22:14:09:200 -/(11259:11261): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:14:15:630 -/(11275:11277): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:14:16:893 -/(11268:11278): Servidor listo para recibir a los clientes
+[INFO] 22:14:33:863 -/(11286:11288): Servidor listo para recibir a los clientes
+[INFO] 22:14:34:624 -/(11295:11297): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:14:50:695 -/(11304:11305): Servidor listo para recibir a los clientes
+[INFO] 22:14:52:846 -/(11312:11314): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:15:10:839 -/(11321:11322): Servidor listo para recibir a los clientes
+[INFO] 22:15:11:951 -/(11329:11331): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:15:12:955 -/(11321:11322): Se conecto un cliente!
+[INFO] 22:15:13:084 -/(11321:11332): HANDSHAKE con CPU acontecido
+[INFO] 22:15:28:141 -/(11345:11347): Servidor listo para recibir a los clientes
+[INFO] 22:15:29:163 -/(11321:11322): Se conecto un cliente!
+[INFO] 22:15:32:246 -/(11321:11322): Se conecto un cliente!
+[INFO] 22:15:33:250 -/(11345:11347): Se conecto un cliente!
+[INFO] 22:15:46:455 -/(11321:11332): 0 0
+[ERROR] 22:15:47:372 -/(11345:11361): el cliente se desconecto.
+[ERROR] 22:15:47:374 -/(11345:11361): Terminando servidor.
+[INFO] 22:20:39:413 -/(11551:11552): Servidor listo para recibir a los clientes
+[INFO] 22:20:40:730 -/(11559:11561): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:20:41:740 -/(11551:11552): Se conecto un cliente!
+[INFO] 22:20:41:868 -/(11551:11562): HANDSHAKE con CPU acontecido
+[INFO] 22:20:51:627 -/(11577:11579): Servidor listo para recibir a los clientes
+[INFO] 22:20:52:654 -/(11551:11552): Se conecto un cliente!
+[INFO] 22:20:54:604 -/(11551:11552): Se conecto un cliente!
+[ERROR] 22:21:03:877 -/(11551:11591): el cliente se desconecto.
+[ERROR] 22:21:03:880 -/(11551:11591): Terminando servidor KERNEL
+[ERROR] 22:21:05:462 -/(11551:11581): el cliente se desconecto.
+[ERROR] 22:21:05:463 -/(11551:11581): Terminando servidor.FILESYSTEM
+[INFO] 22:21:12:458 -/(11598:11599): Servidor listo para recibir a los clientes
+[INFO] 22:21:13:266 -/(11606:11608): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:21:31:750 -/(11615:11616): Servidor listo para recibir a los clientes
+[INFO] 22:21:33:679 -/(11623:11625): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:21:42:767 -/(11639:11641): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:21:44:061 -/(11632:11642): Servidor listo para recibir a los clientes
+[INFO] 22:22:00:946 -/(11649:11650): Servidor listo para recibir a los clientes
+[INFO] 22:22:02:476 -/(11657:11659): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:22:11:907 -/(11667:11668): Servidor listo para recibir a los clientes
+[INFO] 22:22:12:175 -/(11675:11677): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 22:22:13:176 -/(11667:11668): Se conecto un cliente!
+[INFO] 22:22:13:323 -/(11667:11678): HANDSHAKE con CPU acontecido
+[INFO] 22:22:19:298 -/(11690:11694): Servidor listo para recibir a los clientes
+[INFO] 22:22:20:243 -/(11667:11668): Se conecto un cliente!
+[INFO] 22:22:22:101 -/(11667:11668): Se conecto un cliente!
+[INFO] 22:22:23:103 -/(11690:11694): Se conecto un cliente!
+[INFO] 22:22:39:063 -/(11667:11678): 0 0
+[INFO] 22:22:40:099 -/(11667:11678): 0 1
+[INFO] 22:22:41:103 -/(11667:11678): 0 2
+[INFO] 22:22:42:175 -/(11667:11678): 0 3
+[INFO] 22:22:43:203 -/(11667:11678): 0 4
+[INFO] 22:22:44:205 -/(11667:11678): 0 5
+[INFO] 22:22:45:222 -/(11667:11678): 0 5
+[WARNING] 22:22:45:255 -/(11667:11696): Operacion desconocida. No quieras meter la pata 44 
+[WARNING] 22:22:45:257 -/(11667:11696): Operacion desconocida. No quieras meter la pata 21 
+[WARNING] 22:22:45:258 -/(11667:11696): Operacion desconocida. No quieras meter la pata 4096 
+[WARNING] 22:22:45:259 -/(11667:11696): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 22:22:45:259 -/(11667:11696): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 22:22:45:260 -/(11667:11696): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 22:22:45:261 -/(11667:11696): Operacion desconocida. No quieras meter la pata 0 
+[INFO] 22:22:46:258 -/(11667:11678): 0 5
+[WARNING] 22:22:46:284 -/(11667:11696): Operacion desconocida. No quieras meter la pata 4352 
+[WARNING] 22:22:46:284 -/(11667:11696): Operacion desconocida. No quieras meter la pata 4352 
+[WARNING] 22:22:46:285 -/(11667:11696): Operacion desconocida. No quieras meter la pata 1024 
+[WARNING] 22:22:46:285 -/(11667:11696): Operacion desconocida. No quieras meter la pata 1048576 
+[WARNING] 22:22:46:286 -/(11667:11696): Operacion desconocida. No quieras meter la pata 0 
+[WARNING] 22:22:46:287 -/(11667:11696): Operacion desconocida. No quieras meter la pata 131072 
+[ERROR] 22:22:47:567 -/(11690:11709): el cliente se desconecto.
+[ERROR] 22:22:47:568 -/(11690:11709): Terminando servidor.
+[ERROR] 22:22:47:569 -/(11667:11706): el cliente se desconecto.
+[ERROR] 22:22:47:570 -/(11667:11706): Terminando servidor KERNEL
+[ERROR] 22:22:47:836 -/(11667:11678): el cliente se desconecto.
+[ERROR] 22:22:47:837 -/(11667:11678): Terminando servidor.CPU
+[ERROR] 22:22:50:733 -/(11690:11708): el cliente se desconecto.
+[ERROR] 22:22:50:734 -/(11690:11708): Terminando servidor.
+[INFO] 23:22:33:587 -/(14503:14504): Servidor listo para recibir a los clientes
+[INFO] 23:22:37:087 -/(14514:14516): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 23:22:38:089 -/(14503:14504): Se conecto un cliente!
+[INFO] 23:22:38:243 -/(14503:14517): HANDSHAKE con CPU acontecido
+[INFO] 23:22:46:010 -/(14530:14532): Servidor listo para recibir a los clientes
+[INFO] 23:22:47:048 -/(14503:14504): Se conecto un cliente!
+[INFO] 23:23:23:916 -/(14503:14504): Se conecto un cliente!
+[INFO] 23:23:24:925 -/(14530:14532): Se conecto un cliente!
+[INFO] 23:23:42:626 -/(14503:14517): 0 0
+[INFO] 23:23:43:658 -/(14503:14517): 0 1
+[INFO] 23:23:44:673 -/(14503:14517): 0 2
+[INFO] 23:23:45:743 -/(14503:14517): 0 3
+[INFO] 23:23:46:787 -/(14503:14517): 0 4
+[INFO] 23:23:47:792 -/(14503:14517): 0 5
+[INFO] 23:23:48:825 -/(14503:14517): 0 5
+[INFO] 23:23:49:829 -/(14503:14517): 0 5
+[ERROR] 23:23:51:124 -/(14503:14552): el cliente se desconecto.
+[ERROR] 23:23:51:126 -/(14503:14552): Terminando servidor KERNEL
+[ERROR] 23:23:51:387 -/(14503:14517): el cliente se desconecto.
+[ERROR] 23:23:51:387 -/(14503:14517): Terminando servidor.CPU
+[ERROR] 23:23:51:838 -/(14503:14534): el cliente se desconecto.
+[ERROR] 23:23:51:839 -/(14503:14534): Terminando servidor.FILESYSTEM
+[INFO] 23:37:15:948 -/(14890:14891): Servidor listo para recibir a los clientes
+[INFO] 23:37:17:482 -/(14898:14900): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 23:37:18:484 -/(14890:14891): Se conecto un cliente!
+[INFO] 23:37:18:603 -/(14890:14901): HANDSHAKE con CPU acontecido
+[INFO] 23:37:26:502 -/(14988:14990): Servidor listo para recibir a los clientes
+[INFO] 23:37:27:532 -/(14890:14891): Se conecto un cliente!
+[INFO] 23:37:35:965 -/(14890:14891): Se conecto un cliente!
+[INFO] 23:37:36:970 -/(14988:14990): Se conecto un cliente!
+[INFO] 23:37:54:544 -/(14890:14901): 0 0
+[INFO] 23:37:55:577 -/(14890:14901): 0 1
+[INFO] 23:37:56:615 -/(14890:14901): 0 2
+[INFO] 23:37:57:686 -/(14890:14901): 0 3
+[INFO] 23:37:58:717 -/(14890:14901): 0 4
+[INFO] 23:37:59:727 -/(14890:14901): 0 5
+[INFO] 23:38:00:766 -/(14890:14901): 0 5
+[INFO] 23:38:01:774 -/(14890:14901): 0 5
+[ERROR] 23:38:03:078 -/(14890:15004): el cliente se desconecto.
+[ERROR] 23:38:03:082 -/(14890:15004): Terminando servidor KERNEL
+[ERROR] 23:38:03:344 -/(14890:14901): el cliente se desconecto.
+[ERROR] 23:38:03:345 -/(14890:14901): Terminando servidor.CPU
+[ERROR] 23:38:03:811 -/(14890:14994): el cliente se desconecto.
+[ERROR] 23:38:03:811 -/(14890:14994): Terminando servidor.FILESYSTEM
+[INFO] 23:39:13:562 -/(15086:15087): Servidor listo para recibir a los clientes
+[INFO] 23:39:15:651 -/(15094:15096): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 23:39:16:676 -/(15086:15087): Se conecto un cliente!
+[INFO] 23:39:16:803 -/(15086:15097): HANDSHAKE con CPU acontecido
+[INFO] 23:39:21:674 -/(15109:15112): Servidor listo para recibir a los clientes
+[INFO] 23:39:22:703 -/(15086:15087): Se conecto un cliente!
+[INFO] 23:39:25:206 -/(15086:15087): Se conecto un cliente!
+[INFO] 23:39:26:212 -/(15109:15112): Se conecto un cliente!
+[INFO] 23:39:41:313 -/(15086:15097): 0 0
+[INFO] 23:39:42:342 -/(15086:15097): 0 1
+[INFO] 23:39:43:346 -/(15086:15097): 0 2
+[INFO] 23:39:44:424 -/(15086:15097): 0 3
+[INFO] 23:39:45:469 -/(15086:15097): 0 4
+[INFO] 23:39:46:472 -/(15086:15097): 0 5
+[INFO] 23:39:47:481 -/(15086:15097): 0 5
+[INFO] 23:39:48:512 -/(15086:15097): 0 5
+[ERROR] 23:39:49:798 -/(15086:15125): el cliente se desconecto.
+[ERROR] 23:39:49:800 -/(15086:15125): Terminando servidor KERNEL
+[ERROR] 23:39:50:077 -/(15086:15097): el cliente se desconecto.
+[ERROR] 23:39:50:081 -/(15086:15097): Terminando servidor.CPU
+[ERROR] 23:39:50:507 -/(15086:15114): el cliente se desconecto.
+[ERROR] 23:39:50:508 -/(15086:15114): Terminando servidor.FILESYSTEM
+[INFO] 00:33:13:206 -/(16997:16998): Servidor listo para recibir a los clientes
+[INFO] 00:33:14:686 -/(17005:17007): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 00:33:15:691 -/(16997:16998): Se conecto un cliente!
+[INFO] 00:33:15:822 -/(16997:17008): HANDSHAKE con CPU acontecido
+[INFO] 00:33:21:929 -/(17020:17023): Servidor listo para recibir a los clientes
+[INFO] 00:33:22:833 -/(16997:16998): Se conecto un cliente!
+[INFO] 00:33:29:196 -/(16997:16998): Se conecto un cliente!
+[INFO] 00:33:30:200 -/(17020:17023): Se conecto un cliente!
+[INFO] 00:33:46:744 -/(16997:17008): 0 0
+[INFO] 00:33:47:772 -/(16997:17008): 0 1
+[INFO] 00:33:48:777 -/(16997:17008): 0 2
+[INFO] 00:33:49:829 -/(16997:17008): 0 3
+[INFO] 00:33:50:860 -/(16997:17008): 0 4
+[INFO] 00:33:51:862 -/(16997:17008): 0 5
+[INFO] 00:33:52:871 -/(16997:17008): 0 5
+[INFO] 00:33:53:882 -/(16997:17008): 0 5
+[ERROR] 00:33:55:186 -/(16997:17035): el cliente se desconecto.
+[ERROR] 00:33:55:188 -/(16997:17035): Terminando servidor KERNEL
+[ERROR] 00:33:55:488 -/(16997:17008): el cliente se desconecto.
+[ERROR] 00:33:55:489 -/(16997:17008): Terminando servidor.CPU
+[ERROR] 00:33:55:931 -/(16997:17025): el cliente se desconecto.
+[ERROR] 00:33:55:932 -/(16997:17025): Terminando servidor.FILESYSTEM
+[INFO] 00:34:52:828 -/(17092:17095): Servidor listo para recibir a los clientes
+[INFO] 00:34:54:819 -/(17102:17104): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 00:34:55:829 -/(17092:17095): Se conecto un cliente!
+[INFO] 00:34:55:959 -/(17092:17105): HANDSHAKE con CPU acontecido
+[INFO] 00:35:01:648 -/(17133:17135): Servidor listo para recibir a los clientes
+[INFO] 00:35:02:667 -/(17092:17095): Se conecto un cliente!
+[INFO] 00:35:08:655 -/(17092:17095): Se conecto un cliente!
+[INFO] 00:35:09:659 -/(17133:17135): Se conecto un cliente!
+[INFO] 00:35:30:260 -/(17092:17105): 0 0
+[INFO] 00:35:31:277 -/(17092:17105): 0 1
+[INFO] 00:35:32:279 -/(17092:17105): 0 2
+[INFO] 00:35:33:330 -/(17092:17105): 0 3
+[INFO] 00:35:34:362 -/(17092:17105): 0 4
+[INFO] 00:35:35:367 -/(17092:17105): 0 5
+[INFO] 00:35:36:376 -/(17092:17105): 0 5
+[INFO] 00:35:37:392 -/(17092:17105): 0 5
+[ERROR] 00:35:38:695 -/(17092:17147): el cliente se desconecto.
+[ERROR] 00:35:38:696 -/(17092:17147): Terminando servidor KERNEL
+[ERROR] 00:35:38:973 -/(17092:17105): el cliente se desconecto.
+[ERROR] 00:35:38:973 -/(17092:17105): Terminando servidor.CPU
+[ERROR] 00:35:39:420 -/(17092:17137): el cliente se desconecto.
+[ERROR] 00:35:39:420 -/(17092:17137): Terminando servidor.FILESYSTEM
+[INFO] 00:36:21:415 -/(17192:17193): Servidor listo para recibir a los clientes
+[INFO] 00:36:23:405 -/(17200:17202): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 00:36:24:407 -/(17192:17193): Se conecto un cliente!
+[INFO] 00:36:24:525 -/(17192:17203): HANDSHAKE con CPU acontecido
+[INFO] 00:36:30:221 -/(17231:17233): Servidor listo para recibir a los clientes
+[INFO] 00:36:31:238 -/(17192:17193): Se conecto un cliente!
+[INFO] 00:36:35:241 -/(17192:17193): Se conecto un cliente!
+[INFO] 00:36:36:250 -/(17231:17233): Se conecto un cliente!
+[INFO] 00:36:47:731 -/(17192:17203): 0 0
+[INFO] 00:36:48:763 -/(17192:17203): 0 1
+[INFO] 00:36:49:767 -/(17192:17203): 0 2
+[INFO] 00:36:50:822 -/(17192:17203): 0 3
+[INFO] 00:36:51:866 -/(17192:17203): 0 4
+[INFO] 00:36:52:870 -/(17192:17203): 0 5
+[INFO] 00:36:53:876 -/(17192:17203): 0 5
+[INFO] 00:36:54:879 -/(17192:17203): 0 5
+[ERROR] 00:36:56:156 -/(17192:17245): el cliente se desconecto.
+[ERROR] 00:36:56:158 -/(17192:17245): Terminando servidor KERNEL
+[ERROR] 00:36:56:423 -/(17192:17203): el cliente se desconecto.
+[ERROR] 00:36:56:424 -/(17192:17203): Terminando servidor.CPU
+[ERROR] 00:36:56:885 -/(17192:17235): el cliente se desconecto.
+[ERROR] 00:36:56:886 -/(17192:17235): Terminando servidor.FILESYSTEM
+[INFO] 00:38:25:714 -/(17366:17367): Servidor listo para recibir a los clientes
+[INFO] 00:38:30:344 -/(17374:17376): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 00:38:31:530 -/(17366:17367): Se conecto un cliente!
+[INFO] 00:38:31:647 -/(17366:17377): HANDSHAKE con CPU acontecido
+[INFO] 00:38:39:339 -/(17389:17391): Servidor listo para recibir a los clientes
+[INFO] 00:38:40:357 -/(17366:17367): Se conecto un cliente!
+[INFO] 00:38:47:239 -/(17366:17367): Se conecto un cliente!
+[INFO] 00:38:48:272 -/(17389:17391): Se conecto un cliente!
+[INFO] 00:39:04:182 -/(17366:17377): 0 0
+[INFO] 00:39:05:234 -/(17366:17377): 0 1
+[INFO] 00:39:06:257 -/(17366:17377): 0 2
+[INFO] 00:39:07:343 -/(17366:17377): 0 3
+[INFO] 00:39:08:406 -/(17366:17377): 0 4
+[INFO] 00:39:09:415 -/(17366:17377): 0 5
+[INFO] 00:39:10:447 -/(17366:17377): 0 5
+[INFO] 00:39:11:460 -/(17366:17377): 0 5
+[ERROR] 00:39:13:510 -/(17366:17393): el cliente se desconecto.
+[ERROR] 00:39:13:512 -/(17366:17393): Terminando servidor.FILESYSTEM
+[ERROR] 00:39:13:575 -/(17366:17403): el cliente se desconecto.
+[ERROR] 00:39:13:575 -/(17366:17403): Terminando servidor KERNEL
+[ERROR] 00:39:13:626 -/(17366:17377): el cliente se desconecto.
+[ERROR] 00:39:13:626 -/(17366:17377): Terminando servidor.CPU
+[INFO] 01:33:51:336 -/(18767:18768): Servidor listo para recibir a los clientes
+[INFO] 01:34:01:102 -/(18775:18777): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 01:34:12:752 -/(18784:18785): Servidor listo para recibir a los clientes
+[INFO] 01:34:17:406 -/(18792:18794): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 01:34:26:873 -/(18802:18803): Servidor listo para recibir a los clientes
+[INFO] 01:34:30:440 -/(18810:18812): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 01:34:44:237 -/(18821:18822): Servidor listo para recibir a los clientes
+[INFO] 01:34:49:326 -/(18829:18831): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 01:34:50:363 -/(18821:18822): Se conecto un cliente!
+[INFO] 01:34:50:481 -/(18821:18832): HANDSHAKE con CPU acontecido
+[INFO] 01:34:58:025 -/(18844:18846): Servidor listo para recibir a los clientes
+[INFO] 01:34:59:047 -/(18821:18822): Se conecto un cliente!
+[INFO] 01:35:06:186 -/(18821:18822): Se conecto un cliente!
+[INFO] 01:35:07:233 -/(18844:18846): Se conecto un cliente!
+[INFO] 01:35:22:795 -/(18821:18832): 0 0
+[INFO] 01:35:23:849 -/(18821:18832): 0 1
+[INFO] 01:35:24:871 -/(18821:18832): 0 2
+[INFO] 01:35:25:948 -/(18821:18832): 0 3
+[INFO] 01:35:27:052 -/(18821:18832): 0 4
+[INFO] 01:35:28:064 -/(18821:18832): 0 5
+[INFO] 01:35:29:087 -/(18821:18832): 0 5
+[INFO] 01:35:30:102 -/(18821:18832): 0 5
+[ERROR] 01:35:32:171 -/(18844:18861): el cliente se desconecto.
+[ERROR] 01:35:32:172 -/(18821:18858): el cliente se desconecto.
+[ERROR] 01:35:32:172 -/(18844:18861): Terminando servidor.
+[ERROR] 01:35:32:173 -/(18821:18858): Terminando servidor KERNEL
+[ERROR] 01:35:32:244 -/(18821:18832): el cliente se desconecto.
+[ERROR] 01:35:32:245 -/(18821:18832): Terminando servidor.CPU
+[INFO] 19:15:46:036 -/(5900:5901): Servidor listo para recibir a los clientes
+[INFO] 19:15:49:643 -/(5900:5901): Se conecto un cliente!
+[INFO] 19:15:49:672 -/(5900:5918): HANDSHAKE con CPU acontecido
+[INFO] 19:15:53:899 -/(5900:5901): Se conecto un cliente!
+[INFO] 19:15:58:096 -/(5900:5901): Se conecto un cliente!
+[INFO] 19:16:08:966 -/(5900:5918): 0 0
+[INFO] 19:16:09:972 -/(5900:5918): 0 1
+[INFO] 19:16:10:974 -/(5900:5918): 0 2
+[INFO] 19:16:11:980 -/(5900:5918): 0 3
+[INFO] 19:16:13:053 -/(5900:5918): 0 4
+[INFO] 19:16:14:055 -/(5900:5918): 0 5
+[INFO] 19:16:15:070 -/(5900:5918): 0 5
+[INFO] 19:16:17:105 -/(5900:5918): 0 6
+[INFO] 19:16:18:107 -/(5900:5918): 0 7
+[INFO] 19:16:20:131 -/(5900:5918): 0 8
+[INFO] 19:16:21:133 -/(5900:5918): 0 9
+[INFO] 19:16:49:145 -/(5900:5918): 1 0
+[INFO] 19:16:50:150 -/(5900:5918): 1 1
+[INFO] 19:16:51:152 -/(5900:5918): 1 2
+[INFO] 19:16:52:158 -/(5900:5918): 1 3
+[INFO] 19:16:53:167 -/(5900:5918): 2 0
+[INFO] 19:16:54:172 -/(5900:5918): 2 1
+[INFO] 19:16:55:173 -/(5900:5918): 2 2
+[INFO] 19:16:56:177 -/(5900:5918): 2 3
+[INFO] 19:16:57:179 -/(5900:5918): 2 4
+[INFO] 19:16:58:192 -/(5900:5918): 1 4
+[INFO] 19:16:59:209 -/(5900:5918): 1 5
+[INFO] 19:17:00:212 -/(5900:5918): 2 4
+[INFO] 19:17:02:218 -/(5900:5918): 2 5
+[INFO] 19:17:04:230 -/(5900:5918): 2 6
+[INFO] 19:17:05:233 -/(5900:5918): 1 5
+[INFO] 19:17:15:235 -/(5900:5918): 2 7
+[INFO] 19:17:16:241 -/(5900:5918): 2 4
+[INFO] 19:17:18:248 -/(5900:5918): 2 5
+[INFO] 19:17:20:256 -/(5900:5918): 2 6
+[INFO] 19:17:21:268 -/(5900:5918): 1 6
+[INFO] 19:17:31:271 -/(5900:5918): 1 7
+[INFO] 19:17:32:278 -/(5900:5918): 2 7
+[INFO] 19:17:33:284 -/(5900:5918): 2 4
+[INFO] 19:17:35:297 -/(5900:5918): 2 5
+[INFO] 19:17:37:302 -/(5900:5918): 2 6
+[INFO] 19:17:38:308 -/(5900:5918): 1 8
+[INFO] 19:17:48:308 -/(5900:5918): 1 9
+[INFO] 19:17:49:313 -/(5900:5918): 2 7
+[INFO] 19:17:50:317 -/(5900:5918): 2 4
+[INFO] 19:17:52:328 -/(5900:5918): 2 5
+[INFO] 19:17:54:344 -/(5900:5918): 2 6
+[INFO] 19:18:05:352 -/(5900:5918): 2 7
+[INFO] 19:18:06:355 -/(5900:5918): 2 4
+[INFO] 19:18:08:365 -/(5900:5918): 2 5
+[INFO] 19:18:10:373 -/(5900:5918): 2 6
+[INFO] 19:18:21:381 -/(5900:5918): 2 7
+[INFO] 19:18:22:384 -/(5900:5918): 2 4
+[INFO] 19:18:24:393 -/(5900:5918): 2 5
+[INFO] 19:18:26:401 -/(5900:5918): 2 6
+[INFO] 19:18:37:405 -/(5900:5918): 2 7
+[INFO] 19:18:38:410 -/(5900:5918): 2 4
+[INFO] 19:18:40:418 -/(5900:5918): 2 5
+[INFO] 19:18:42:427 -/(5900:5918): 2 6
+[INFO] 19:18:53:435 -/(5900:5918): 2 7
+[INFO] 19:18:54:437 -/(5900:5918): 2 4
+[INFO] 19:18:56:453 -/(5900:5918): 2 5
+[INFO] 19:18:58:461 -/(5900:5918): 2 6
+[ERROR] 19:19:07:368 -/(5900:5918): el cliente se desconecto.
+[ERROR] 19:19:07:369 -/(5900:5918): Terminando servidor.CPU
+[ERROR] 19:19:09:494 -/(5900:5966): el cliente se desconecto.
+[ERROR] 19:19:09:495 -/(5900:5966): Terminando servidor KERNEL
+[ERROR] 19:19:10:614 -/(5900:5935): el cliente se desconecto.
+[ERROR] 19:19:10:615 -/(5900:5935): Terminando servidor.FILESYSTEM
+[INFO] 05:10:01:220 -/(8550:8551): Servidor listo para recibir a los clientes
+[INFO] 05:10:05:092 -/(8558:8560): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:10:06:113 -/(8550:8551): Se conecto un cliente!
+[INFO] 05:10:06:237 -/(8550:8561): HANDSHAKE con CPU acontecido
+[INFO] 05:10:13:079 -/(8573:8575): Servidor listo para recibir a los clientes
+[INFO] 05:10:14:117 -/(8550:8551): Se conecto un cliente!
+[INFO] 05:10:22:270 -/(8550:8551): Se conecto un cliente!
+[INFO] 05:10:23:333 -/(8573:8575): Se conecto un cliente!
+[INFO] 05:11:37:422 -/(8550:8561): 0 0
+[INFO] 05:11:38:458 -/(8550:8561): 0 1
+[INFO] 05:11:39:529 -/(8550:8561): 0 2
+[INFO] 05:11:40:543 -/(8550:8561): 0 3
+[INFO] 05:11:41:548 -/(8550:8561): 0 4
+[INFO] 05:11:42:555 -/(8550:8561): 0 5
+[INFO] 05:11:43:565 -/(8550:8561): 0 6
+[INFO] 05:11:44:575 -/(8550:8561): 0 7
+[INFO] 05:11:45:581 -/(8550:8561): 0 8
+[INFO] 05:11:46:619 -/(8550:8561): 1 0
+[INFO] 05:11:47:643 -/(8550:8561): 1 1
+[INFO] 05:11:48:657 -/(8550:8561): 1 2
+[INFO] 05:11:49:667 -/(8550:8561): 1 3
+[INFO] 05:11:50:672 -/(8550:8561): 1 4
+[INFO] 05:11:51:682 -/(8550:8561): 1 5
+[INFO] 05:11:52:689 -/(8550:8561): 1 6
+[INFO] 05:11:53:699 -/(8550:8561): 1 7
+[INFO] 05:11:54:713 -/(8550:8561): 2 0
+[INFO] 05:11:55:724 -/(8550:8561): 2 1
+[INFO] 05:11:56:729 -/(8550:8561): 2 2
+[INFO] 05:11:57:737 -/(8550:8561): 2 3
+[INFO] 05:11:58:747 -/(8550:8561): 2 4
+[INFO] 05:11:59:752 -/(8550:8561): 2 5
+[INFO] 05:12:00:762 -/(8550:8561): 2 6
+[INFO] 05:12:01:918 -/(8550:8561): 0 9
+[INFO] 05:12:02:925 -/(8550:8561): 0 10
+[INFO] 05:12:03:930 -/(8550:8561): 0 11
+[INFO] 05:12:04:937 -/(8550:8561): 0 12
+[INFO] 05:12:05:942 -/(8550:8561): 0 13
+[INFO] 05:12:06:946 -/(8550:8561): 0 14
+[INFO] 05:12:07:952 -/(8550:8561): 0 15
+[INFO] 05:12:08:958 -/(8550:8561): 1 8
+[INFO] 05:12:09:965 -/(8550:8561): 1 9
+[INFO] 05:12:10:972 -/(8550:8561): 1 10
+[INFO] 05:12:11:977 -/(8550:8561): 1 11
+[INFO] 05:12:12:986 -/(8550:8561): 1 12
+[INFO] 05:12:13:996 -/(8550:8561): 1 13
+[INFO] 05:12:15:002 -/(8550:8561): 1 14
+[INFO] 05:12:16:015 -/(8550:8561): 1 15
+[INFO] 05:12:17:028 -/(8550:8561): 0 16
+[INFO] 05:12:18:039 -/(8550:8561): 0 17
+[INFO] 05:12:19:047 -/(8550:8561): 0 18
+[INFO] 05:12:20:052 -/(8550:8561): 0 19
+[INFO] 05:12:21:057 -/(8550:8561): 0 20
+[INFO] 05:12:22:067 -/(8550:8561): 0 21
+[INFO] 05:12:23:072 -/(8550:8561): 0 22
+[INFO] 05:12:24:077 -/(8550:8561): 0 23
+[INFO] 05:12:25:090 -/(8550:8561): 1 16
+[INFO] 05:12:26:100 -/(8550:8561): 1 17
+[INFO] 05:12:27:107 -/(8550:8561): 1 18
+[INFO] 05:12:28:123 -/(8550:8561): 0 24
+[INFO] 05:12:29:129 -/(8550:8561): 0 25
+[INFO] 05:12:30:136 -/(8550:8561): 0 26
+[INFO] 05:12:31:146 -/(8550:8561): 0 27
+[INFO] 05:12:32:154 -/(8550:8561): 0 28
+[INFO] 05:12:33:159 -/(8550:8561): 0 29
+[INFO] 05:12:34:165 -/(8550:8561): 0 30
+[INFO] 05:12:35:174 -/(8550:8561): 0 31
+[INFO] 05:12:36:182 -/(8550:8561): 0 32
+[INFO] 05:12:37:187 -/(8550:8561): 0 33
+[INFO] 05:12:38:191 -/(8550:8561): 0 34
+[ERROR] 05:14:57:995 -/(8573:8605): el cliente se desconecto.
+[ERROR] 05:14:57:997 -/(8573:8605): Terminando servidor.
+[ERROR] 05:15:02:781 -/(8573:8606): el cliente se desconecto.
+[ERROR] 05:15:02:781 -/(8573:8606): Terminando servidor.
+[INFO] 05:18:50:016 -/(8732:8733): Servidor listo para recibir a los clientes
+[INFO] 05:18:53:954 -/(8740:8742): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:18:54:983 -/(8732:8733): Se conecto un cliente!
+[INFO] 05:18:55:113 -/(8732:8743): HANDSHAKE con CPU acontecido
+[INFO] 05:18:59:445 -/(8755:8757): Servidor listo para recibir a los clientes
+[INFO] 05:19:00:343 -/(8732:8733): Se conecto un cliente!
+[INFO] 05:19:06:125 -/(8732:8733): Se conecto un cliente!
+[INFO] 05:19:07:169 -/(8755:8757): Se conecto un cliente!
+[INFO] 05:20:02:123 -/(8732:8743): 0 0
+[INFO] 05:20:03:162 -/(8732:8743): 0 1
+[INFO] 05:20:04:169 -/(8732:8743): 0 2
+[INFO] 05:20:05:182 -/(8732:8743): 0 3
+[INFO] 05:20:06:191 -/(8732:8743): 0 4
+[INFO] 05:20:07:206 -/(8732:8743): 0 5
+[INFO] 05:20:08:219 -/(8732:8743): 0 6
+[INFO] 05:20:09:231 -/(8732:8743): 0 7
+[INFO] 05:20:10:247 -/(8732:8743): 0 8
+[INFO] 05:20:11:274 -/(8732:8743): 1 0
+[INFO] 05:20:12:283 -/(8732:8743): 1 1
+[INFO] 05:20:13:296 -/(8732:8743): 1 2
+[INFO] 05:20:14:302 -/(8732:8743): 1 3
+[INFO] 05:20:15:309 -/(8732:8743): 1 4
+[INFO] 05:20:16:318 -/(8732:8743): 1 5
+[INFO] 05:20:17:328 -/(8732:8743): 1 6
+[INFO] 05:20:18:335 -/(8732:8743): 1 7
+[INFO] 05:20:19:350 -/(8732:8743): 1 8
+[INFO] 05:20:20:357 -/(8732:8743): 2 0
+[INFO] 05:20:21:366 -/(8732:8743): 2 1
+[INFO] 05:20:22:371 -/(8732:8743): 2 2
+[INFO] 05:20:23:376 -/(8732:8743): 2 3
+[INFO] 05:20:24:382 -/(8732:8743): 2 4
+[INFO] 05:20:25:387 -/(8732:8743): 2 5
+[INFO] 05:20:26:393 -/(8732:8743): 2 6
+[INFO] 05:20:27:562 -/(8732:8743): 0 9
+[INFO] 05:20:28:578 -/(8732:8743): 1 9
+[INFO] 05:20:29:584 -/(8732:8743): 1 10
+[INFO] 05:20:30:588 -/(8732:8743): 1 11
+[INFO] 05:20:31:594 -/(8732:8743): 1 12
+[INFO] 05:20:32:599 -/(8732:8743): 1 13
+[INFO] 05:20:33:605 -/(8732:8743): 1 14
+[INFO] 05:20:34:610 -/(8732:8743): 1 15
+[INFO] 05:20:35:617 -/(8732:8743): 0 10
+[INFO] 05:20:36:625 -/(8732:8743): 1 16
+[INFO] 05:20:37:634 -/(8732:8743): 1 17
+[INFO] 05:20:38:641 -/(8732:8743): 1 18
+[INFO] 05:20:39:765 -/(8732:8743): 0 11
+[INFO] 05:20:40:772 -/(8732:8743): 0 12
+[INFO] 05:20:41:778 -/(8732:8743): 0 13
+[INFO] 05:20:42:787 -/(8732:8743): 0 14
+[INFO] 05:20:43:794 -/(8732:8743): 0 15
+[INFO] 05:20:44:800 -/(8732:8743): 0 16
+[INFO] 05:20:45:816 -/(8732:8743): 0 17
+[INFO] 05:20:46:822 -/(8732:8743): 0 18
+[INFO] 05:20:47:828 -/(8732:8743): 0 19
+[INFO] 05:20:48:835 -/(8732:8743): 0 20
+[INFO] 05:20:49:849 -/(8732:8743): 0 21
+[INFO] 05:20:50:864 -/(8732:8743): 0 22
+[INFO] 05:20:51:876 -/(8732:8743): 0 23
+[INFO] 05:20:52:882 -/(8732:8743): 0 24
+[INFO] 05:20:53:893 -/(8732:8743): 0 25
+[INFO] 05:20:54:903 -/(8732:8743): 0 26
+[INFO] 05:20:55:915 -/(8732:8743): 0 27
+[INFO] 05:20:56:923 -/(8732:8743): 0 28
+[INFO] 05:20:57:930 -/(8732:8743): 0 29
+[INFO] 05:20:58:935 -/(8732:8743): 0 30
+[INFO] 05:20:59:951 -/(8732:8743): 0 31
+[INFO] 05:21:00:961 -/(8732:8743): 0 32
+[INFO] 05:21:01:971 -/(8732:8743): 0 33
+[INFO] 05:21:02:977 -/(8732:8743): 0 34
+[ERROR] 05:22:52:253 -/(8755:8787): el cliente se desconecto.
+[ERROR] 05:22:52:254 -/(8755:8787): Terminando servidor.
+[INFO] 05:35:06:324 -/(8989:8990): Servidor listo para recibir a los clientes
+[INFO] 05:35:14:673 -/(8997:8999): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:35:15:611 -/(8989:8990): Se conecto un cliente!
+[INFO] 05:35:15:741 -/(8989:9000): HANDSHAKE con CPU acontecido
+[INFO] 05:35:20:154 -/(9012:9014): Servidor listo para recibir a los clientes
+[INFO] 05:35:21:056 -/(8989:8990): Se conecto un cliente!
+[INFO] 05:35:27:165 -/(8989:8990): Se conecto un cliente!
+[INFO] 05:35:28:226 -/(9012:9014): Se conecto un cliente!
+[INFO] 05:36:32:374 -/(8989:9000): 0 0
+[INFO] 05:36:33:436 -/(8989:9000): 0 1
+[INFO] 05:36:34:447 -/(8989:9000): 0 2
+[INFO] 05:36:35:466 -/(8989:9000): 0 3
+[INFO] 05:36:36:476 -/(8989:9000): 0 4
+[INFO] 05:36:37:506 -/(8989:9000): 0 5
+[INFO] 05:36:38:533 -/(8989:9000): 0 6
+[ERROR] 05:36:46:008 -/(9012:9045): el cliente se desconecto.
+[ERROR] 05:36:46:009 -/(9012:9045): Terminando servidor.
+[ERROR] 05:36:46:010 -/(8989:9042): el cliente se desconecto.
+[ERROR] 05:36:46:011 -/(8989:9042): Terminando servidor KERNEL
+[ERROR] 05:36:46:040 -/(8989:9000): el cliente se desconecto.
+[ERROR] 05:36:46:040 -/(8989:9000): Terminando servidor.CPU
+[ERROR] 05:39:56:098 -/(8989:9016): el cliente se desconecto.
+[ERROR] 05:39:56:099 -/(8989:9016): Terminando servidor.FILESYSTEM
+[INFO] 05:42:10:179 -/(9585:9586): Servidor listo para recibir a los clientes
+[INFO] 05:42:12:521 -/(9596:9598): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:42:13:522 -/(9585:9586): Se conecto un cliente!
+[INFO] 05:42:13:522 -/(9585:9599): HANDSHAKE con CPU acontecido
+[INFO] 05:42:15:212 -/(9611:9613): Servidor listo para recibir a los clientes
+[INFO] 05:42:16:212 -/(9585:9586): Se conecto un cliente!
+[INFO] 05:42:19:356 -/(9585:9586): Se conecto un cliente!
+[INFO] 05:42:20:361 -/(9611:9613): Se conecto un cliente!
+[INFO] 05:43:06:424 -/(9585:9599): 0 0
+[INFO] 05:43:07:426 -/(9585:9599): 0 1
+[INFO] 05:43:08:432 -/(9585:9599): 0 2
+[INFO] 05:43:09:441 -/(9585:9599): 0 3
+[ERROR] 05:43:27:666 -/(9611:9642): el cliente se desconecto.
+[ERROR] 05:43:27:667 -/(9611:9642): Terminando servidor.
+[INFO] 05:45:34:576 -/(9875:9876): Servidor listo para recibir a los clientes
+[INFO] 05:45:35:446 -/(9883:9885): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:45:36:447 -/(9875:9876): Se conecto un cliente!
+[INFO] 05:45:36:564 -/(9875:9886): HANDSHAKE con CPU acontecido
+[INFO] 05:45:37:756 -/(9898:9900): Servidor listo para recibir a los clientes
+[INFO] 05:45:38:760 -/(9875:9876): Se conecto un cliente!
+[INFO] 05:45:42:455 -/(9875:9876): Se conecto un cliente!
+[ERROR] 05:45:51:786 -/(9875:9912): el cliente se desconecto.
+[ERROR] 05:45:51:788 -/(9875:9912): Terminando servidor KERNEL
+[ERROR] 05:45:52:545 -/(9875:9902): el cliente se desconecto.
+[ERROR] 05:45:52:547 -/(9875:9902): Terminando servidor.FILESYSTEM
+[INFO] 05:46:00:329 -/(9926:9928): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:46:01:104 -/(9919:9929): Servidor listo para recibir a los clientes
+[INFO] 05:46:01:332 -/(9919:9929): Se conecto un cliente!
+[INFO] 05:46:01:451 -/(9919:9930): HANDSHAKE con CPU acontecido
+[INFO] 05:46:04:014 -/(9942:9944): Servidor listo para recibir a los clientes
+[INFO] 05:46:05:016 -/(9919:9929): Se conecto un cliente!
+[INFO] 05:46:07:678 -/(9919:9929): Se conecto un cliente!
+[ERROR] 05:46:16:650 -/(9919:9946): el cliente se desconecto.
+[ERROR] 05:46:16:652 -/(9919:9946): Terminando servidor.FILESYSTEM
+[ERROR] 05:46:17:568 -/(9919:9958): el cliente se desconecto.
+[ERROR] 05:46:17:569 -/(9919:9958): Terminando servidor KERNEL
+[INFO] 05:46:28:395 -/(9965:9966): Servidor listo para recibir a los clientes
+[INFO] 05:46:30:142 -/(9973:9975): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:46:47:401 -/(9990:9992): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:46:47:318 -/(9982:9983): Servidor listo para recibir a los clientes
+[INFO] 05:47:01:463 -/(10006:10008): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:47:02:665 -/(9999:10009): Servidor listo para recibir a los clientes
+[INFO] 05:47:24:931 -/(10016:10017): Servidor listo para recibir a los clientes
+[INFO] 05:47:25:540 -/(10024:10026): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:47:26:547 -/(10016:10017): Se conecto un cliente!
+[INFO] 05:47:26:666 -/(10016:10027): HANDSHAKE con CPU acontecido
+[INFO] 05:47:28:821 -/(10039:10041): Servidor listo para recibir a los clientes
+[INFO] 05:47:29:821 -/(10016:10017): Se conecto un cliente!
+[INFO] 05:47:33:679 -/(10016:10017): Se conecto un cliente!
+[INFO] 05:47:34:682 -/(10039:10041): Se conecto un cliente!
+[INFO] 05:47:47:268 -/(10016:10027): 0 0
+[INFO] 05:47:48:301 -/(10016:10027): 0 1
+[INFO] 05:47:49:305 -/(10016:10027): 0 2
+[INFO] 05:47:50:308 -/(10016:10027): 0 3
+[ERROR] 05:52:53:101 -/(10016:10043): el cliente se desconecto.
+[ERROR] 05:52:53:102 -/(10016:10043): Terminando servidor.FILESYSTEM
+[INFO] 06:02:21:597 -/(10198:10199): Servidor listo para recibir a los clientes
+[INFO] 06:02:25:181 -/(10206:10208): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 06:02:26:183 -/(10198:10199): Se conecto un cliente!
+[INFO] 06:02:26:303 -/(10198:10209): HANDSHAKE con CPU acontecido
+[INFO] 06:02:29:807 -/(10221:10223): Servidor listo para recibir a los clientes
+[INFO] 06:02:30:815 -/(10198:10199): Se conecto un cliente!
+[INFO] 06:02:37:360 -/(10198:10199): Se conecto un cliente!
+[INFO] 06:02:38:366 -/(10221:10223): Se conecto un cliente!
+[INFO] 06:05:05:376 -/(10198:10209): 0 0
+[INFO] 06:05:06:409 -/(10198:10209): 0 1
+[INFO] 06:05:07:428 -/(10198:10209): 1 0
+[INFO] 06:05:08:433 -/(10198:10209): 1 1
+[INFO] 06:05:09:437 -/(10198:10209): 2 0
+[INFO] 06:05:10:454 -/(10198:10209): 3 0
+[INFO] 06:05:11:457 -/(10198:10209): 3 1
+[INFO] 06:05:12:460 -/(10198:10209): 2 1
+[INFO] 06:05:13:468 -/(10198:10209): 2 2
+[ERROR] 06:05:14:754 -/(10221:10254): el cliente se desconecto.
+[ERROR] 06:05:14:754 -/(10221:10254): Terminando servidor.
+[ERROR] 06:05:14:758 -/(10198:10251): el cliente se desconecto.
+[ERROR] 06:05:14:759 -/(10198:10251): Terminando servidor KERNEL
+[ERROR] 06:05:15:021 -/(10198:10209): el cliente se desconecto.
+[ERROR] 06:05:15:025 -/(10198:10209): Terminando servidor.CPU
+[ERROR] 06:05:53:812 -/(10198:10225): el cliente se desconecto.
+[ERROR] 06:05:53:812 -/(10198:10225): Terminando servidor.FILESYSTEM
+[INFO] 05:44:05:369 -/(8451:8452): Servidor listo para recibir a los clientes
+[INFO] 05:46:31:219 -/(8921:8922): Servidor listo para recibir a los clientes
+[INFO] 05:46:34:852 -/(8929:8931): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:46:35:853 -/(8921:8922): Se conecto un cliente!
+[INFO] 05:46:35:968 -/(8921:8932): HANDSHAKE con CPU acontecido
+[INFO] 05:46:39:027 -/(8944:8946): Servidor listo para recibir a los clientes
+[INFO] 05:46:40:028 -/(8921:8922): Se conecto un cliente!
+[INFO] 05:46:42:978 -/(8921:8922): Se conecto un cliente!
+[INFO] 05:46:43:980 -/(8944:8946): Se conecto un cliente!
+[INFO] 05:48:00:696 -/(8921:8932): 2 0
+[INFO] 05:48:01:730 -/(8921:8932): 2 1
+[INFO] 05:48:02:736 -/(8921:8932): 2 2
+[INFO] 05:48:03:756 -/(8921:8932): 1 0
+[INFO] 05:48:05:777 -/(8921:8932): 2 2
+[INFO] 05:48:06:787 -/(8921:8932): 0 0
+[INFO] 05:48:07:791 -/(8921:8932): 0 1
+[INFO] 05:48:08:794 -/(8921:8932): 0 2
+[INFO] 05:48:09:796 -/(8921:8932): 0 3
+[INFO] 05:48:10:814 -/(8921:8932): 0 4
+[INFO] 05:48:11:820 -/(8921:8932): 0 2
+[INFO] 05:48:12:823 -/(8921:8932): 0 3
+[INFO] 05:48:13:827 -/(8921:8932): 0 4
+[INFO] 05:48:14:830 -/(8921:8932): 0 2
+[INFO] 05:48:15:832 -/(8921:8932): 0 3
+[INFO] 05:48:16:835 -/(8921:8932): 0 4
+[INFO] 05:48:17:843 -/(8921:8932): 0 2
+[INFO] 05:48:18:847 -/(8921:8932): 0 3
+[INFO] 05:48:19:851 -/(8921:8932): 0 4
+[INFO] 05:48:20:857 -/(8921:8932): 0 2
+[INFO] 05:48:21:872 -/(8921:8932): 0 3
+[ERROR] 05:48:22:573 -/(8944:8960): el cliente se desconecto.
+[ERROR] 05:48:22:573 -/(8944:8960): Terminando servidor.
+[INFO] 05:49:07:406 -/(9002:9003): Servidor listo para recibir a los clientes
+[INFO] 05:49:08:029 -/(9010:9012): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:49:42:694 -/(9019:9020): Servidor listo para recibir a los clientes
+[INFO] 05:49:42:842 -/(9027:9029): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:50:25:145 -/(9037:9038): Servidor listo para recibir a los clientes
+[INFO] 05:50:25:673 -/(9045:9047): CPU DISPATCH: Servidor listo para recibir a los clientes
+[INFO] 05:50:26:674 -/(9037:9038): Se conecto un cliente!
+[INFO] 05:50:26:795 -/(9037:9048): HANDSHAKE con CPU acontecido
+[INFO] 05:50:29:266 -/(9061:9063): Servidor listo para recibir a los clientes
+[INFO] 05:50:30:267 -/(9037:9038): Se conecto un cliente!
+[INFO] 05:50:32:667 -/(9037:9038): Se conecto un cliente!
+[INFO] 05:50:33:668 -/(9061:9063): Se conecto un cliente!
+[INFO] 05:51:20:202 -/(9037:9048): 2 0
+[INFO] 05:51:21:242 -/(9037:9048): 2 1
+[INFO] 05:51:22:246 -/(9037:9048): 2 2
+[INFO] 05:51:23:264 -/(9037:9048): 1 0
+[INFO] 05:51:25:289 -/(9037:9048): 2 2
+[INFO] 05:51:26:301 -/(9037:9048): 0 0
+[INFO] 05:51:27:310 -/(9037:9048): 0 1
+[INFO] 05:51:28:316 -/(9037:9048): 0 2
+[INFO] 05:51:29:330 -/(9037:9048): 0 3
+[INFO] 05:51:30:331 -/(9037:9048): 0 4
+[INFO] 05:51:31:335 -/(9037:9048): 0 2
+[INFO] 05:51:32:337 -/(9037:9048): 0 3
+[INFO] 05:51:33:340 -/(9037:9048): 0 4
+[INFO] 05:51:34:351 -/(9037:9048): 0 2
+[INFO] 05:51:35:367 -/(9037:9048): 0 3
+[INFO] 05:51:36:369 -/(9037:9048): 0 4
+[INFO] 05:51:37:370 -/(9037:9048): 0 2
+[INFO] 05:51:38:383 -/(9037:9048): 0 3
+[INFO] 05:51:39:389 -/(9037:9048): 0 4
+[INFO] 05:51:40:391 -/(9037:9048): 0 2
+[INFO] 05:51:41:394 -/(9037:9048): 0 3
+[ERROR] 05:51:42:106 -/(9061:9077): el cliente se desconecto.
+[ERROR] 05:51:42:106 -/(9061:9077): Terminando servidor.

@@ -1,0 +1,206 @@
+[INFO] 21:06:18:444 -/(8418:8422): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:06:35:383 -/(8418:8420): Se conecto un cliente!
+[INFO] 21:06:36:384 -/(8418:8422): Se conecto un cliente!
+[INFO] 21:11:41:068 -/(8585:8589): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:11:58:252 -/(8585:8587): Se conecto un cliente!
+[INFO] 21:11:59:255 -/(8585:8589): Se conecto un cliente!
+[INFO] 21:12:13:644 -/(8585:8587): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 21:12:14:671 -/(8585:8587): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 21:12:15:683 -/(8585:8587): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 21:12:15:998 -/(8585:8587): Cliente desconectado de SERVER CPU...
+[ERROR] 21:12:15:998 -/(8585:8589): el cliente se desconecto.
+[ERROR] 21:12:15:999 -/(8585:8589): Terminando servidor.
+[INFO] 21:25:46:249 -/(9004:9008): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:27:13:053 -/(9004:9006): Se conecto un cliente!
+[INFO] 21:27:14:054 -/(9004:9008): Se conecto un cliente!
+[INFO] 21:28:46:222 -/(9115:9119): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:29:00:853 -/(9115:9117): Se conecto un cliente!
+[ERROR] 21:29:11:272 -/(9115:9117): Cliente desconectado de SERVER CPU...
+[INFO] 21:30:27:750 -/(9236:9241): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:30:39:520 -/(9236:9238): Se conecto un cliente!
+[INFO] 21:30:40:561 -/(9236:9241): Se conecto un cliente!
+[INFO] 21:40:02:354 -/(9489:9493): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 21:40:15:051 -/(9489:9491): Se conecto un cliente!
+[INFO] 21:40:16:057 -/(9489:9493): Se conecto un cliente!
+[INFO] 22:11:05:700 -/(11057:11061): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:11:22:902 -/(11057:11059): Se conecto un cliente!
+[INFO] 22:11:23:903 -/(11057:11061): Se conecto un cliente!
+[INFO] 22:13:11:596 -/(11153:11157): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:13:39:268 -/(11196:11201): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:15:13:104 -/(11329:11333): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:15:34:249 -/(11329:11331): Se conecto un cliente!
+[INFO] 22:15:35:251 -/(11329:11333): Se conecto un cliente!
+[INFO] 22:20:41:884 -/(11559:11563): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:22:13:340 -/(11675:11679): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 22:22:24:116 -/(11675:11677): Se conecto un cliente!
+[INFO] 22:22:25:117 -/(11675:11679): Se conecto un cliente!
+[INFO] 22:22:45:214 -/(11675:11677): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 22:22:46:257 -/(11675:11677): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 22:22:47:261 -/(11675:11677): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 22:22:47:565 -/(11675:11679): el cliente se desconecto.
+[ERROR] 22:22:47:565 -/(11675:11679): Terminando servidor.
+[ERROR] 22:22:47:565 -/(11675:11677): Cliente desconectado de SERVER CPU...
+[INFO] 23:22:38:258 -/(14514:14518): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 23:23:25:926 -/(14514:14516): Se conecto un cliente!
+[INFO] 23:23:26:928 -/(14514:14518): Se conecto un cliente!
+[INFO] 23:23:48:800 -/(14514:14516): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 23:23:49:828 -/(14514:14516): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 23:23:50:831 -/(14514:14516): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 23:23:51:121 -/(14514:14516): Cliente desconectado de SERVER CPU...
+[ERROR] 23:23:51:121 -/(14514:14518): el cliente se desconecto.
+[ERROR] 23:23:51:121 -/(14514:14518): Terminando servidor.
+[INFO] 23:37:18:619 -/(14898:14902): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 23:37:37:973 -/(14898:14900): Se conecto un cliente!
+[INFO] 23:37:38:974 -/(14898:14902): Se conecto un cliente!
+[INFO] 23:38:00:736 -/(14898:14900): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 23:38:01:772 -/(14898:14900): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 23:38:02:788 -/(14898:14900): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 23:38:03:074 -/(14898:14900): Cliente desconectado de SERVER CPU...
+[ERROR] 23:38:03:074 -/(14898:14902): el cliente se desconecto.
+[ERROR] 23:38:03:075 -/(14898:14902): Terminando servidor.
+[INFO] 23:39:16:820 -/(15094:15098): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 23:39:27:216 -/(15094:15096): Se conecto un cliente!
+[INFO] 23:39:28:219 -/(15094:15098): Se conecto un cliente!
+[INFO] 23:39:47:480 -/(15094:15096): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 23:39:48:511 -/(15094:15096): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 23:39:49:514 -/(15094:15096): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 23:39:49:795 -/(15094:15098): el cliente se desconecto.
+[ERROR] 23:39:49:795 -/(15094:15098): Terminando servidor.
+[ERROR] 23:39:49:801 -/(15094:15096): Cliente desconectado de SERVER CPU...
+[INFO] 00:33:15:839 -/(17005:17009): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 00:33:31:214 -/(17005:17007): Se conecto un cliente!
+[INFO] 00:33:32:214 -/(17005:17009): Se conecto un cliente!
+[INFO] 00:33:52:867 -/(17005:17007): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 00:33:53:881 -/(17005:17007): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 00:33:54:890 -/(17005:17007): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 00:33:55:182 -/(17005:17007): Cliente desconectado de SERVER CPU...
+[ERROR] 00:33:55:182 -/(17005:17009): el cliente se desconecto.
+[ERROR] 00:33:55:182 -/(17005:17009): Terminando servidor.
+[INFO] 00:34:55:975 -/(17102:17106): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 00:35:10:660 -/(17102:17104): Se conecto un cliente!
+[INFO] 00:35:11:662 -/(17102:17106): Se conecto un cliente!
+[INFO] 00:35:36:371 -/(17102:17104): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 00:35:37:391 -/(17102:17104): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 00:35:38:402 -/(17102:17104): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 00:35:38:691 -/(17102:17104): Cliente desconectado de SERVER CPU...
+[ERROR] 00:35:38:692 -/(17102:17106): el cliente se desconecto.
+[ERROR] 00:35:38:692 -/(17102:17106): Terminando servidor.
+[INFO] 00:36:24:540 -/(17200:17204): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 00:36:37:263 -/(17200:17202): Se conecto un cliente!
+[INFO] 00:36:38:264 -/(17200:17204): Se conecto un cliente!
+[INFO] 00:36:53:875 -/(17200:17202): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 00:36:54:879 -/(17200:17202): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 00:36:55:883 -/(17200:17202): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 00:36:56:153 -/(17200:17202): Cliente desconectado de SERVER CPU...
+[ERROR] 00:36:56:153 -/(17200:17204): el cliente se desconecto.
+[ERROR] 00:36:56:153 -/(17200:17204): Terminando servidor.
+[INFO] 00:38:31:711 -/(17374:17378): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 00:38:49:285 -/(17374:17376): Se conecto un cliente!
+[INFO] 00:38:50:294 -/(17374:17378): Se conecto un cliente!
+[INFO] 00:39:10:439 -/(17374:17376): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 00:39:11:453 -/(17374:17376): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 00:39:12:467 -/(17374:17376): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 00:39:13:579 -/(17374:17376): Cliente desconectado de SERVER CPU...
+[ERROR] 00:39:13:580 -/(17374:17378): el cliente se desconecto.
+[ERROR] 00:39:13:586 -/(17374:17378): Terminando servidor.
+[INFO] 01:34:50:547 -/(18829:18833): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 01:35:08:241 -/(18829:18831): Se conecto un cliente!
+[INFO] 01:35:09:248 -/(18829:18833): Se conecto un cliente!
+[INFO] 01:35:29:079 -/(18829:18831): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 01:35:30:095 -/(18829:18831): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 01:35:31:107 -/(18829:18831): “PID: <0> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[ERROR] 01:35:32:166 -/(18829:18833): el cliente se desconecto.
+[ERROR] 01:35:32:167 -/(18829:18833): Terminando servidor.
+[ERROR] 01:35:32:169 -/(18829:18831): Cliente desconectado de SERVER CPU...
+[INFO] 05:10:06:321 -/(8558:8562): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:10:24:355 -/(8558:8560): Se conecto un cliente!
+[INFO] 05:10:25:368 -/(8558:8562): Se conecto un cliente!
+[INFO] 05:11:46:204 -/(8558:8562): Interrupcion detectada
+[INFO] 05:11:54:422 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:03:032 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:08:550 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:16:308 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:24:756 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:32:669 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:35:135 -/(8558:8562): Interrupcion detectada
+[INFO] 05:12:43:404 -/(8558:8562): Interrupcion detectada
+[INFO] 05:18:55:183 -/(8740:8744): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:19:08:177 -/(8740:8742): Se conecto un cliente!
+[INFO] 05:19:09:183 -/(8740:8744): Se conecto un cliente!
+[INFO] 05:20:10:858 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:19:866 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:27:653 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:35:481 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:36:376 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:43:154 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:43:156 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:43:598 -/(8740:8744): Interrupcion detectada
+[INFO] 05:20:53:287 -/(8740:8744): Interrupcion detectada
+[INFO] 05:21:03:293 -/(8740:8744): Interrupcion detectada
+[INFO] 05:35:15:809 -/(8997:9001): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:35:29:253 -/(8997:8999): Se conecto un cliente!
+[INFO] 05:35:30:260 -/(8997:9001): Se conecto un cliente!
+[INFO] 05:36:38:315 -/(8997:9001): Interrupcion detectada
+[ERROR] 05:36:46:009 -/(8997:8999): Cliente desconectado de SERVER CPU...
+[ERROR] 05:36:46:012 -/(8997:9001): el cliente se desconecto.
+[ERROR] 05:36:46:016 -/(8997:9001): Terminando servidor.
+[INFO] 05:42:13:523 -/(9596:9600): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:42:21:366 -/(9596:9598): Se conecto un cliente!
+[INFO] 05:42:22:368 -/(9596:9600): Se conecto un cliente!
+[INFO] 05:45:36:580 -/(9883:9887): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:46:01:470 -/(9926:9931): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:47:26:681 -/(10024:10028): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:47:35:694 -/(10024:10026): Se conecto un cliente!
+[INFO] 05:47:36:696 -/(10024:10028): Se conecto un cliente!
+[INFO] 06:02:26:320 -/(10206:10210): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 06:02:39:375 -/(10206:10208): Se conecto un cliente!
+[INFO] 06:02:40:381 -/(10206:10210): Se conecto un cliente!
+[INFO] 06:05:10:376 -/(10206:10210): Interrupcion detectada
+[INFO] 06:05:11:916 -/(10206:10210): Interrupcion detectada
+[ERROR] 06:05:14:754 -/(10206:10210): el cliente se desconecto.
+[ERROR] 06:05:14:754 -/(10206:10210): Terminando servidor.
+[ERROR] 06:05:14:754 -/(10206:10208): Cliente desconectado de SERVER CPU...
+[INFO] 05:46:35:985 -/(8929:8933): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:46:44:983 -/(8929:8931): Se conecto un cliente!
+[INFO] 05:46:45:985 -/(8929:8933): Se conecto un cliente!
+[INFO] 05:48:03:745 -/(8929:8931): “PID: <2> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 05:48:06:786 -/(8929:8931): “PID: <2> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+
+[INFO] 05:50:26:810 -/(9045:9049): CPU INTERRUPT: Servidor listo para recibir a los clientes
+[INFO] 05:50:34:671 -/(9045:9047): Se conecto un cliente!
+[INFO] 05:50:35:675 -/(9045:9049): Se conecto un cliente!
+[INFO] 05:51:23:255 -/(9045:9047): “PID: <2> - OBTENER MARCO - Página: <0> - Marco: <-1>”.
+
+[INFO] 05:51:26:299 -/(9045:9047): “PID: <2> - OBTENER MARCO - Página: <0> - Marco: <0>”.
+

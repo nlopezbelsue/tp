@@ -1,0 +1,172 @@
+==17517== Memcheck, a memory error detector
+==17517== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==17517== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==17517== Command: ./Kernel/Debug/Kernel ./Kernel/kernel.config
+==17517== Parent PID: 15476
+==17517== 
+==17517== Thread 2:
+==17517== Conditional jump or move depends on uninitialised value(s)
+==17517==    at 0x4848842: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x48778DE: recibir_stream (utilidades.c:41)
+==17517==    by 0x4877933: recibirOrden (utilidades.c:48)
+==17517==    by 0x10E4BF: planificadorLargoPlazo (planificador.c:23)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== Syscall param recvfrom(len) contains uninitialised byte(s)
+==17517==    at 0x49FA4CE: __libc_recv (recv.c:28)
+==17517==    by 0x49FA4CE: recv (recv.c:23)
+==17517==    by 0x48778FE: recibir_stream (utilidades.c:42)
+==17517==    by 0x4877933: recibirOrden (utilidades.c:48)
+==17517==    by 0x10E4BF: planificadorLargoPlazo (planificador.c:23)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== 
+==17517== Process terminating with default action of signal 2 (SIGINT)
+==17517==    at 0x4964117: __futex_abstimed_wait_common64 (futex-internal.c:57)
+==17517==    by 0x4964117: __futex_abstimed_wait_common (futex-internal.c:87)
+==17517==    by 0x4964117: __futex_abstimed_wait_cancelable64 (futex-internal.c:139)
+==17517==    by 0x4969623: __pthread_clockjoin_ex (pthread_join_common.c:105)
+==17517==    by 0x10DEB9: iniciarNecesidades (init.c:102)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== HEAP SUMMARY:
+==17517==     in use at exit: 236,686 bytes in 352 blocks
+==17517==   total heap usage: 911 allocs, 559 frees, 269,323 bytes allocated
+==17517== 
+==17517== Thread 1:
+==17517== 2 bytes in 1 blocks are definitely lost in loss record 3 of 139
+==17517==    at 0x484DCD3: realloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x486E62B: string_append (string.c:47)
+==17517==    by 0x486F441: _string_append_with_format_list (string.c:312)
+==17517==    by 0x486E81F: string_from_vformat (string.c:74)
+==17517==    by 0x486E7B0: string_from_format (string.c:67)
+==17517==    by 0x486E861: string_itoa (string.c:79)
+==17517==    by 0x10EF3B: guardarIds.0 (planificador.c:245)
+==17517==    by 0x486C5D5: list_iterate (list.c:88)
+==17517==    by 0x10F01D: mostrarEstadoColasAux (planificador.c:252)
+==17517==    by 0x10EEEB: mostrarEstadoColas (planificador.c:237)
+==17517==    by 0x10E89E: moverProceso_NewReady (planificador.c:116)
+==17517==    by 0x10E4C9: planificadorLargoPlazo (planificador.c:24)
+==17517== 
+==17517== 35 (32 direct, 3 indirect) bytes in 1 blocks are definitely lost in loss record 53 of 139
+==17517==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x486DE0C: log_create (log.c:54)
+==17517==    by 0x10C13D: iniciar_logger (comunicacion.c:492)
+==17517==    by 0x10AE8B: conectarModuloMemoria (comunicacion.c:88)
+==17517==    by 0x10E1A9: conectarMemoria (main.c:19)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== 35 (32 direct, 3 indirect) bytes in 1 blocks are definitely lost in loss record 54 of 139
+==17517==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x486DE0C: log_create (log.c:54)
+==17517==    by 0x10C13D: iniciar_logger (comunicacion.c:492)
+==17517==    by 0x10B03E: conectarModuloFilesystem (comunicacion.c:123)
+==17517==    by 0x10E1CC: conectarFilesystem (main.c:24)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== 35 (32 direct, 3 indirect) bytes in 1 blocks are definitely lost in loss record 55 of 139
+==17517==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x486DE0C: log_create (log.c:54)
+==17517==    by 0x10C13D: iniciar_logger (comunicacion.c:492)
+==17517==    by 0x10AB23: conectarModuloCPU (comunicacion.c:18)
+==17517==    by 0x10E1EF: conectarCPU (main.c:29)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== 35 (32 direct, 3 indirect) bytes in 1 blocks are definitely lost in loss record 56 of 139
+==17517==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x486DE0C: log_create (log.c:54)
+==17517==    by 0x10C13D: iniciar_logger (comunicacion.c:492)
+==17517==    by 0x10ACD6: conectarModuloCPUInterrupt (comunicacion.c:53)
+==17517==    by 0x10E212: conectarCPUInterrupt (main.c:34)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 79 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DC3F: iniciarNecesidades (init.c:73)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 80 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DD3B: iniciarNecesidades (init.c:83)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 81 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DD5E: iniciarNecesidades (init.c:84)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 82 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DD7F: iniciarNecesidades (init.c:86)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 83 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DDA0: iniciarNecesidades (init.c:87)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 84 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10DDC1: iniciarNecesidades (init.c:88)
+==17517==    by 0x10E177: main (main.c:11)
+==17517== 
+==17517== 272 bytes in 1 blocks are possibly lost in loss record 85 of 139
+==17517==    at 0x484DA83: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==17517==    by 0x40147D9: calloc (rtld-malloc.h:44)
+==17517==    by 0x40147D9: allocate_dtv (dl-tls.c:375)
+==17517==    by 0x40147D9: _dl_allocate_tls (dl-tls.c:634)
+==17517==    by 0x49687B4: allocate_stack (allocatestack.c:430)
+==17517==    by 0x49687B4: pthread_create@@GLIBC_2.34 (pthread_create.c:647)
+==17517==    by 0x10C4E1: iniciar_proceso (consola.c:54)
+==17517==    by 0x10CD33: iniciarConsola (consola.c:205)
+==17517==    by 0x4967AC2: start_thread (pthread_create.c:442)
+==17517==    by 0x49F8813: clone (clone.S:100)
+==17517== 
+==17517== LEAK SUMMARY:
+==17517==    definitely lost: 130 bytes in 5 blocks
+==17517==    indirectly lost: 12 bytes in 4 blocks
+==17517==      possibly lost: 1,904 bytes in 7 blocks
+==17517==    still reachable: 234,640 bytes in 336 blocks
+==17517==         suppressed: 0 bytes in 0 blocks
+==17517== Reachable blocks (those to which a pointer was found) are not shown.
+==17517== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==17517== 
+==17517== Use --track-origins=yes to see where uninitialised values come from
+==17517== For lists of detected and suppressed errors, rerun with: -s
+==17517== ERROR SUMMARY: 14 errors from 14 contexts (suppressed: 0 from 0)
