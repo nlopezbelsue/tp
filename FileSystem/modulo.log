@@ -1,0 +1,1800 @@
+[INFO] 00:55:24:054 -/(12128:12128): Servidor listo para recibir a los clientes
+[INFO] 00:55:37:581 -/(12128:12128): Se conecto un cliente!
+[INFO] 00:55:44:091 -/(12128:12128): Me llegaron los siguientes valores:
+
+[INFO] 00:55:44:092 -/(12128:12128): fs
+[ERROR] 00:55:44:092 -/(12128:12128): el cliente se desconecto. Terminando servidor
+[INFO] 02:32:05:517 -/(13693:13693): Servidor listo para recibir a los clientes
+[INFO] 02:32:21:878 -/(13709:13709): Servidor listo para recibir a los clientes
+[INFO] 02:32:37:023 -/(13747:13747): Servidor listo para recibir a los clientes
+[INFO] 02:33:20:808 -/(13809:13809): Servidor listo para recibir a los clientes
+[INFO] 02:38:57:281 -/(14027:14027): Servidor listo para recibir a los clientes
+[INFO] 02:42:18:685 -/(14219:14224): Servidor listo para recibir a los clientes
+[INFO] 02:46:48:111 -/(14350:14355): Servidor listo para recibir a los clientes
+[INFO] 02:46:48:113 -/(14350:14356): Servidor listo para recibir a los clientes
+[INFO] 02:54:14:108 -/(14559:14564): Servidor listo para recibir a los clientes
+[INFO] 02:54:14:110 -/(14559:14565): Servidor listo para recibir a los clientes
+[INFO] 02:55:19:659 -/(14625:14630): Servidor listo para recibir a los clientes
+[INFO] 02:55:19:659 -/(14625:14631): Servidor listo para recibir a los clientes
+[INFO] 02:56:10:233 -/(14722:14727): Servidor listo para recibir a los clientes
+[INFO] 02:56:10:234 -/(14722:14728): Servidor listo para recibir a los clientes
+[INFO] 02:57:16:030 -/(14811:14816): Servidor listo para recibir a los clientes
+[INFO] 02:57:16:030 -/(14811:14817): Servidor listo para recibir a los clientes
+[INFO] 03:03:45:677 -/(15280:15286): Servidor listo para recibir a los clientes
+[INFO] 03:03:45:678 -/(15280:15285): Servidor listo para recibir a los clientes
+[INFO] 18:19:03:966 -/(2746:2752): Servidor listo para recibir a los clientes
+[INFO] 18:19:03:968 -/(2746:2751): Servidor listo para recibir a los clientes
+[INFO] 18:40:00:906 -/(3430:3436): Servidor listo para recibir a los clientes
+[INFO] 18:40:00:910 -/(3430:3435): Servidor listo para recibir a los clientes
+[INFO] 18:40:58:396 -/(3466:3472): Servidor listo para recibir a los clientes
+[INFO] 18:40:58:398 -/(3466:3471): Servidor listo para recibir a los clientes
+[INFO] 18:47:54:486 -/(4113:4537): Servidor listo para recibir a los clientes
+[INFO] 18:47:54:486 -/(4113:4536): Servidor listo para recibir a los clientes
+[INFO] 18:50:01:549 -/(16599:16605): Servidor listo para recibir a los clientes
+[INFO] 18:50:01:550 -/(16599:16604): Servidor listo para recibir a los clientes
+[INFO] 18:52:32:126 -/(29131:29147): Servidor listo para recibir a los clientes
+[INFO] 18:52:32:139 -/(29131:29146): Servidor listo para recibir a los clientes
+[INFO] 18:56:49:120 -/(30732:30738): Servidor listo para recibir a los clientes
+[INFO] 18:56:49:125 -/(30732:30737): Servidor listo para recibir a los clientes
+[INFO] 18:57:18:126 -/(30765:30771): Servidor listo para recibir a los clientes
+[INFO] 18:57:18:128 -/(30765:30770): Servidor listo para recibir a los clientes
+[INFO] 18:57:32:734 -/(30765:30771): Se conecto un cliente!
+[ERROR] 18:59:27:794 -/(30765:30771): el cliente se desconecto. Terminando servidor
+[INFO] 18:59:49:284 -/(30905:30912): Servidor listo para recibir a los clientes
+[INFO] 18:59:49:287 -/(30905:30911): Servidor listo para recibir a los clientes
+[INFO] 19:00:21:265 -/(30905:30912): Se conecto un cliente!
+[INFO] 19:00:46:094 -/(30905:30912): Me llegaron los siguientes valores:
+
+[INFO] 19:00:46:094 -/(30905:30912): Pavo
+[ERROR] 19:00:46:094 -/(30905:30912): el cliente se desconecto. Terminando servidor
+[INFO] 19:11:42:619 -/(31267:31273): Servidor listo para recibir a los clientes
+[INFO] 19:11:42:623 -/(31267:31272): Servidor listo para recibir a los clientes
+[INFO] 19:12:01:739 -/(31267:31273): Se conecto un cliente!
+[INFO] 19:14:24:098 -/(31267:31273): Me llegaron los siguientes valores:
+
+[INFO] 19:14:24:098 -/(31267:31273): peke77
+[ERROR] 19:14:24:098 -/(31267:31273): el cliente se desconecto. Terminando servidor
+[INFO] 19:20:49:350 -/(31463:31469): Servidor listo para recibir a los clientes
+[INFO] 19:20:49:354 -/(31463:31468): Servidor listo para recibir a los clientes
+[INFO] 19:21:00:033 -/(31463:31469): Se conecto un cliente!
+[INFO] 19:21:23:929 -/(31463:31469): Me llegaron los siguientes valores:
+
+[INFO] 19:21:23:929 -/(31463:31469): asd
+[ERROR] 19:21:23:929 -/(31463:31469): el cliente se desconecto. Terminando servidor
+[INFO] 22:58:31:089 -/(3253:3257): Servidor listo para recibir a los clientes
+[INFO] 22:58:32:153 -/(3253:3257): Se conecto un cliente!
+[INFO] 23:02:13:619 -/(3253:3257): Me llegaron los siguientes valores:
+
+[INFO] 23:02:13:620 -/(3253:3257): a
+[INFO] 23:02:13:620 -/(3253:3257): a
+[INFO] 23:02:13:620 -/(3253:3257): a
+[ERROR] 23:02:13:621 -/(3253:3257): el cliente se desconecto.
+[INFO] 23:02:13:621 -/(3253:3257): Se conecto un cliente!
+[INFO] 23:02:13:621 -/(3253:3257): Me llegaron los siguientes valores:
+
+[INFO] 23:02:13:621 -/(3253:3257): holanuevo
+[ERROR] 23:02:13:621 -/(3253:3257): el cliente se desconecto.
+[ERROR] 23:02:13:621 -/(3253:3257): Terminando servidor.
+[INFO] 23:02:39:071 -/(3308:3313): Servidor listo para recibir a los clientes
+[INFO] 23:02:40:627 -/(3308:3313): Se conecto un cliente!
+[ERROR] 23:03:27:932 -/(3308:3313): el cliente se desconecto.
+[INFO] 23:03:40:956 -/(3356:3361): Servidor listo para recibir a los clientes
+[INFO] 23:03:44:627 -/(3356:3361): Se conecto un cliente!
+[INFO] 23:04:07:974 -/(3356:3361): Me llegaron los siguientes valores:
+
+[INFO] 23:04:07:975 -/(3356:3361): 8:03
+[ERROR] 23:04:07:975 -/(3356:3361): el cliente se desconecto.
+[INFO] 23:07:19:471 -/(3356:3361): Se conecto un cliente!
+[INFO] 23:07:30:814 -/(3356:3361): Me llegaron los siguientes valores:
+
+[INFO] 23:07:30:814 -/(3356:3361): kernel a fs
+[ERROR] 23:07:30:814 -/(3356:3361): el cliente se desconecto.
+[ERROR] 23:07:30:815 -/(3356:3361): Terminando servidor.
+[INFO] 23:43:54:159 -/(4920:4925): Servidor listo para recibir a los clientes
+[INFO] 23:43:55:837 -/(4920:4925): Se conecto un cliente!
+[INFO] 00:06:39:335 -/(5876:5880): Servidor listo para recibir a los clientes
+[INFO] 00:07:18:003 -/(5933:5938): Servidor listo para recibir a los clientes
+[INFO] 00:09:38:221 -/(6003:6008): Servidor listo para recibir a los clientes
+[INFO] 00:09:55:601 -/(6038:6043): Servidor listo para recibir a los clientes
+[INFO] 00:21:19:882 -/(6738:6743): Servidor listo para recibir a los clientes
+[INFO] 00:27:45:620 -/(7105:7110): Servidor listo para recibir a los clientes
+[INFO] 00:28:49:096 -/(7211:7216): Servidor listo para recibir a los clientes
+[INFO] 00:36:25:989 -/(7530:7535): Servidor listo para recibir a los clientes
+[INFO] 00:36:30:417 -/(7530:7535): Se conecto un cliente!
+[ERROR] 01:00:22:511 -/(7530:7535): el cliente se desconecto.
+[INFO] 01:00:22:511 -/(7530:7535): Se conecto un cliente!
+[ERROR] 01:00:22:511 -/(7530:7535): el cliente se desconecto.
+[ERROR] 01:00:22:511 -/(7530:7535): Terminando servidor.
+[INFO] 01:00:43:768 -/(8024:8029): Servidor listo para recibir a los clientes
+[INFO] 01:00:46:557 -/(8024:8029): Se conecto un cliente!
+[INFO] 01:01:43:413 -/(8076:8079): Servidor listo para recibir a los clientes
+[INFO] 01:55:47:221 -/(8520:8526): Servidor listo para recibir a los clientes
+[INFO] 01:55:47:388 -/(8520:8526): Se conecto un cliente!
+[INFO] 01:56:09:204 -/(8548:8553): Servidor listo para recibir a los clientes
+[INFO] 02:28:57:648 -/(14369:14371): Servidor listo para recibir a los clientes
+[INFO] 00:19:05:682 -/(1949:1954): Servidor listo para recibir a los clientes
+[INFO] 22:25:27:450 -/(31017:31022): Servidor listo para recibir a los clientes
+[INFO] 22:25:30:402 -/(31017:31022): Se conecto un cliente!
+[INFO] 22:26:13:631 -/(31017:31022): Me llegaron los siguientes valores:
+
+[INFO] 22:26:13:632 -/(31017:31022): hola hablo normal
+[ERROR] 22:26:13:632 -/(31017:31022): el cliente se desconecto.
+[INFO] 22:26:31:509 -/(31017:31022): Se conecto un cliente!
+[ERROR] 22:27:14:221 -/(31017:31022): el cliente se desconecto.
+[ERROR] 22:27:14:221 -/(31017:31022): Terminando servidor.
+[INFO] 22:28:13:481 -/(31074:31079): Servidor listo para recibir a los clientes
+[INFO] 22:28:16:275 -/(31074:31079): Se conecto un cliente!
+[INFO] 22:28:27:283 -/(31074:31079): Me llegaron los siguientes valores:
+
+[ERROR] 22:28:27:284 -/(31074:31079): el cliente se desconecto.
+[INFO] 22:28:28:350 -/(31074:31079): Se conecto un cliente!
+[INFO] 22:30:56:001 -/(31074:31079): Me llegaron los siguientes valores:
+
+[INFO] 22:30:56:001 -/(31074:31079): hola memoria 
+[ERROR] 22:30:56:001 -/(31074:31079): el cliente se desconecto.
+[ERROR] 22:30:56:001 -/(31074:31079): Terminando servidor.
+[INFO] 22:43:09:136 -/(31529:31534): Servidor listo para recibir a los clientes
+[INFO] 22:43:12:519 -/(31529:31534): Se conecto un cliente!
+[INFO] 22:43:23:957 -/(31529:31534): Me llegaron los siguientes valores:
+
+[INFO] 22:43:23:958 -/(31529:31534): hol f
+[ERROR] 22:43:23:958 -/(31529:31534): el cliente se desconecto.
+[INFO] 22:48:03:177 -/(31816:31821): Servidor listo para recibir a los clientes
+[INFO] 22:48:03:640 -/(31529:31534): Se conecto un cliente!
+[ERROR] 22:48:15:242 -/(31529:31534): el cliente se desconecto.
+[ERROR] 22:48:15:243 -/(31529:31534): Terminando servidor.
+[INFO] 22:48:24:674 -/(31894:31899): Servidor listo para recibir a los clientes
+[INFO] 22:48:26:710 -/(31894:31899): Se conecto un cliente!
+[INFO] 22:49:03:523 -/(31969:31974): Servidor listo para recibir a los clientes
+[INFO] 22:51:10:057 -/(32171:32176): Servidor listo para recibir a los clientes
+[INFO] 22:51:11:496 -/(32171:32176): Se conecto un cliente!
+[INFO] 22:51:28:497 -/(32171:32176): Me llegaron los siguientes valores:
+
+[INFO] 22:51:28:498 -/(32171:32176): hola fs
+[ERROR] 22:51:28:498 -/(32171:32176): el cliente se desconecto.
+[INFO] 22:51:28:498 -/(32171:32176): Se conecto un cliente!
+[ERROR] 22:55:39:130 -/(32171:32176): el cliente se desconecto.
+[ERROR] 22:55:39:130 -/(32171:32176): Terminando servidor.
+[INFO] 22:58:35:030 -/(32447:32452): Servidor listo para recibir a los clientes
+[INFO] 22:58:37:357 -/(32447:32452): Se conecto un cliente!
+[INFO] 22:58:54:700 -/(32447:32452): Me llegaron los siguientes valores:
+
+[INFO] 22:58:54:700 -/(32447:32452): hola fs
+[ERROR] 22:58:54:700 -/(32447:32452): el cliente se desconecto.
+[INFO] 22:59:39:731 -/(32447:32452): Se conecto un cliente!
+[INFO] 22:59:59:516 -/(32447:32452): Me llegaron los siguientes valores:
+
+[INFO] 22:59:59:516 -/(32447:32452): hello fs
+[ERROR] 22:59:59:517 -/(32447:32452): el cliente se desconecto.
+[ERROR] 22:59:59:517 -/(32447:32452): Terminando servidor.
+[INFO] 23:10:49:784 -/(32883:32888): Servidor listo para recibir a los clientes
+[INFO] 23:10:50:149 -/(32883:32888): Se conecto un cliente!
+[INFO] 23:11:12:021 -/(32883:32888): Me llegaron los siguientes valores:
+
+[INFO] 23:11:12:021 -/(32883:32888): holsa fs
+[ERROR] 23:11:12:021 -/(32883:32888): el cliente se desconecto.
+[INFO] 23:11:12:021 -/(32883:32888): Se conecto un cliente!
+[ERROR] 23:12:24:905 -/(32883:32888): el cliente se desconecto.
+[ERROR] 23:12:24:906 -/(32883:32888): Terminando servidor.
+[INFO] 23:13:35:316 -/(32997:33002): Servidor listo para recibir a los clientes
+[INFO] 23:13:37:087 -/(32997:33002): Se conecto un cliente!
+[INFO] 23:13:56:635 -/(32997:33002): Me llegaron los siguientes valores:
+
+[INFO] 23:13:56:636 -/(32997:33002): hola fs
+[ERROR] 23:13:56:636 -/(32997:33002): el cliente se desconecto.
+[INFO] 23:14:29:681 -/(32997:33002): Se conecto un cliente!
+[INFO] 23:14:36:528 -/(32997:33002): Me llegaron los siguientes valores:
+
+[INFO] 23:14:36:529 -/(32997:33002): hello fs
+[ERROR] 23:14:36:529 -/(32997:33002): el cliente se desconecto.
+[ERROR] 23:14:36:530 -/(32997:33002): Terminando servidor.
+[INFO] 00:46:41:170 -/(8992:8997): Servidor listo para recibir a los clientes
+[INFO] 01:25:30:452 -/(10712:10717): Servidor listo para recibir a los clientes
+[INFO] 01:28:59:581 -/(10843:10848): Servidor listo para recibir a los clientes
+[INFO] 01:29:02:110 -/(10843:10848): Se conecto un cliente!
+[INFO] 01:29:24:399 -/(10843:10848): Me llegaron los siguientes valores:
+
+[INFO] 01:29:24:399 -/(10843:10848): hola fs
+[ERROR] 01:29:24:399 -/(10843:10848): el cliente se desconecto.
+[INFO] 01:30:37:809 -/(10902:10907): Servidor listo para recibir a los clientes
+[INFO] 01:30:42:047 -/(10902:10907): Se conecto un cliente!
+[ERROR] 01:31:57:090 -/(10902:10907): el cliente se desconecto.
+[INFO] 01:33:24:456 -/(10998:11003): Servidor listo para recibir a los clientes
+[INFO] 19:12:16:100 -/(42937:42943): Servidor listo para recibir a los clientes
+[INFO] 19:12:19:869 -/(42937:42943): Se conecto un cliente!
+[ERROR] 19:12:19:886 -/(42937:42943): el cliente se desconecto.
+[ERROR] 19:12:19:894 -/(42937:42943): Terminando servidor.
+[INFO] 19:14:43:031 -/(42994:42999): Servidor listo para recibir a los clientes
+[INFO] 19:15:36:553 -/(42994:42999): Se conecto un cliente!
+[ERROR] 19:15:36:576 -/(42994:42999): el cliente se desconecto.
+[ERROR] 19:15:36:578 -/(42994:42999): Terminando servidor.
+[INFO] 19:24:38:520 -/(43176:43181): Servidor listo para recibir a los clientes
+[INFO] 19:25:22:809 -/(43194:43199): Servidor listo para recibir a los clientes
+[INFO] 19:27:04:520 -/(43304:43309): Servidor listo para recibir a los clientes
+[INFO] 19:27:09:063 -/(43321:43326): Servidor listo para recibir a los clientes
+[INFO] 19:27:28:412 -/(43343:43353): Servidor listo para recibir a los clientes
+[INFO] 19:27:34:841 -/(43360:43365): Servidor listo para recibir a los clientes
+[INFO] 19:27:50:222 -/(43343:43353): Se conecto un cliente!
+[ERROR] 19:28:29:673 -/(43343:43353): el cliente se desconecto.
+[ERROR] 19:28:29:673 -/(43343:43353): Terminando servidor.
+[INFO] 19:28:45:854 -/(43414:43419): Servidor listo para recibir a los clientes
+[INFO] 19:29:00:051 -/(43414:43419): Se conecto un cliente!
+[ERROR] 19:29:10:074 -/(43414:43419): el cliente se desconecto.
+[ERROR] 19:29:10:076 -/(43414:43419): Terminando servidor.
+[INFO] 19:30:45:325 -/(43465:43470): Servidor listo para recibir a los clientes
+[INFO] 19:31:12:441 -/(43465:43470): Se conecto un cliente!
+[ERROR] 19:31:38:120 -/(43465:43470): el cliente se desconecto.
+[ERROR] 19:31:38:121 -/(43465:43470): Terminando servidor.
+[INFO] 19:32:14:692 -/(43574:43579): Servidor listo para recibir a los clientes
+[INFO] 19:33:28:991 -/(43574:43579): Se conecto un cliente!
+[ERROR] 19:34:13:214 -/(43574:43579): el cliente se desconecto.
+[ERROR] 19:34:13:215 -/(43574:43579): Terminando servidor.
+[INFO] 19:44:52:755 -/(44111:44116): Servidor listo para recibir a los clientes
+[INFO] 19:45:20:772 -/(44111:44116): Se conecto un cliente!
+[INFO] 19:54:58:225 -/(44448:44453): Servidor listo para recibir a los clientes
+[INFO] 19:55:25:327 -/(44448:44453): Se conecto un cliente!
+[INFO] 00:17:11:113 -/(3241:3246): Servidor listo para recibir a los clientes
+[INFO] 00:19:10:993 -/(3241:3246): Se conecto un cliente!
+[INFO] 03:20:14:224 -/(8437:8442): Servidor listo para recibir a los clientes
+[INFO] 03:26:05:684 -/(9178:9183): Servidor listo para recibir a los clientes
+[INFO] 03:27:13:114 -/(9337:9343): Servidor listo para recibir a los clientes
+[INFO] 03:28:59:590 -/(9483:9488): Servidor listo para recibir a los clientes
+[INFO] 03:29:19:622 -/(9483:9488): Se conecto un cliente!
+[INFO] 04:34:28:825 -/(7403:7408): Servidor listo para recibir a los clientes
+[INFO] 04:34:55:171 -/(7403:7408): Se conecto un cliente!
+[INFO] 04:37:21:137 -/(7693:7694): Servidor listo para recibir a los clientes
+[INFO] 04:39:40:506 -/(7845:7847): Servidor listo para recibir a los clientes
+[INFO] 04:39:47:574 -/(7845:7847): Se conecto un cliente!
+[INFO] 05:09:26:859 -/(19822:19827): Servidor listo para recibir a los clientes
+[INFO] 05:13:54:757 -/(20120:20125): Servidor listo para recibir a los clientes
+[INFO] 05:14:04:342 -/(20120:20125): Se conecto un cliente!
+[INFO] 05:20:04:815 -/(20311:20316): Servidor listo para recibir a los clientes
+[INFO] 05:21:05:585 -/(20381:20386): Servidor listo para recibir a los clientes
+[INFO] 05:21:12:516 -/(20381:20386): Se conecto un cliente!
+[INFO] 05:30:16:125 -/(20634:20639): Servidor listo para recibir a los clientes
+[INFO] 05:30:24:512 -/(20634:20639): Se conecto un cliente!
+[INFO] 05:50:32:128 -/(21528:21533): Servidor listo para recibir a los clientes
+[INFO] 05:50:41:785 -/(21528:21533): Se conecto un cliente!
+[INFO] 05:55:25:678 -/(21672:21677): Servidor listo para recibir a los clientes
+[INFO] 05:55:33:683 -/(21672:21677): Se conecto un cliente!
+[INFO] 19:41:26:709 -/(4953:4959): Servidor listo para recibir a los clientes
+[INFO] 20:55:50:200 -/(7282:7288): Servidor listo para recibir a los clientes
+[INFO] 21:13:14:230 -/(7944:7950): Servidor listo para recibir a los clientes
+[INFO] 00:01:41:608 -/(6840:6846): Servidor listo para recibir a los clientes
+[INFO] 00:01:50:210 -/(6840:6846): Se conecto un cliente!
+[ERROR] 00:02:30:753 -/(6840:6884): el cliente se desconecto.
+[ERROR] 00:02:30:754 -/(6840:6884): Terminando servidor.
+[INFO] 00:11:42:842 -/(7338:7345): Servidor listo para recibir a los clientes
+[INFO] 00:12:10:064 -/(7352:7358): Servidor listo para recibir a los clientes
+[INFO] 00:15:08:772 -/(7530:7536): Servidor listo para recibir a los clientes
+[INFO] 00:18:09:617 -/(7682:7688): Servidor listo para recibir a los clientes
+[INFO] 00:18:54:392 -/(7722:7727): Servidor listo para recibir a los clientes
+[INFO] 00:35:27:330 -/(9676:9682): Servidor listo para recibir a los clientes
+[INFO] 00:35:50:792 -/(9676:9682): Se conecto un cliente!
+[ERROR] 00:36:08:671 -/(9676:9704): el cliente se desconecto.
+[ERROR] 00:36:08:671 -/(9676:9704): Terminando servidor.
+[INFO] 00:36:31:362 -/(9746:9752): Servidor listo para recibir a los clientes
+[INFO] 00:36:37:113 -/(9746:9752): Se conecto un cliente!
+[ERROR] 00:36:50:054 -/(9746:9774): el cliente se desconecto.
+[ERROR] 00:36:50:055 -/(9746:9774): Terminando servidor.
+[INFO] 00:40:00:914 -/(9874:9880): Servidor listo para recibir a los clientes
+[INFO] 00:40:08:772 -/(9874:9880): Se conecto un cliente!
+[ERROR] 00:40:33:628 -/(9874:9900): el cliente se desconecto.
+[ERROR] 00:40:33:628 -/(9874:9900): Terminando servidor.
+[INFO] 00:48:57:197 -/(10161:10168): Servidor listo para recibir a los clientes
+[INFO] 00:49:07:571 -/(10161:10168): Se conecto un cliente!
+[ERROR] 00:49:35:435 -/(10161:10190): el cliente se desconecto.
+[ERROR] 00:49:35:435 -/(10161:10190): Terminando servidor.
+[INFO] 02:18:46:590 -/(10462:10468): Servidor listo para recibir a los clientes
+[INFO] 02:18:53:029 -/(10462:10468): Se conecto un cliente!
+[ERROR] 02:20:09:978 -/(10462:10489): el cliente se desconecto.
+[ERROR] 02:20:09:979 -/(10462:10489): Terminando servidor.
+[INFO] 02:21:41:856 -/(10642:10648): Servidor listo para recibir a los clientes
+[INFO] 02:21:54:364 -/(10642:10648): Se conecto un cliente!
+[ERROR] 02:23:29:961 -/(10642:10671): el cliente se desconecto.
+[ERROR] 02:23:29:961 -/(10642:10671): Terminando servidor.
+[INFO] 02:24:02:425 -/(10781:10787): Servidor listo para recibir a los clientes
+[INFO] 02:24:08:465 -/(10781:10787): Se conecto un cliente!
+[ERROR] 02:24:37:385 -/(10781:10810): el cliente se desconecto.
+[ERROR] 02:24:37:385 -/(10781:10810): Terminando servidor.
+[INFO] 02:34:46:220 -/(11023:11030): Servidor listo para recibir a los clientes
+[INFO] 02:35:43:084 -/(11023:11030): Se conecto un cliente!
+[INFO] 02:38:16:378 -/(11166:11172): Servidor listo para recibir a los clientes
+[INFO] 02:39:46:559 -/(11166:11172): Se conecto un cliente!
+[INFO] 02:42:46:375 -/(11308:11315): Servidor listo para recibir a los clientes
+[INFO] 02:42:53:200 -/(11308:11315): Se conecto un cliente!
+[ERROR] 02:43:01:393 -/(11308:11334): el cliente se desconecto.
+[ERROR] 02:43:01:393 -/(11308:11334): Terminando servidor.
+[INFO] 02:44:27:858 -/(11454:11460): Servidor listo para recibir a los clientes
+[INFO] 02:44:47:681 -/(11454:11460): Se conecto un cliente!
+[ERROR] 02:47:03:751 -/(11454:11505): el cliente se desconecto.
+[ERROR] 02:47:03:751 -/(11454:11505): Terminando servidor.
+[INFO] 02:47:22:297 -/(11573:11579): Servidor listo para recibir a los clientes
+[INFO] 02:47:32:850 -/(11573:11579): Se conecto un cliente!
+[INFO] 02:49:53:525 -/(11742:11748): Servidor listo para recibir a los clientes
+[INFO] 02:50:04:123 -/(11742:11748): Se conecto un cliente!
+[INFO] 02:51:14:584 -/(11851:11857): Servidor listo para recibir a los clientes
+[INFO] 02:51:25:219 -/(11851:11857): Se conecto un cliente!
+[INFO] 02:59:59:715 -/(12043:12049): Servidor listo para recibir a los clientes
+[INFO] 03:01:33:171 -/(12204:12212): Servidor listo para recibir a los clientes
+[INFO] 03:01:45:452 -/(12204:12212): Se conecto un cliente!
+[INFO] 04:26:34:535 -/(8890:8896): Servidor listo para recibir a los clientes
+[INFO] 04:29:44:747 -/(9030:9036): Servidor listo para recibir a los clientes
+[INFO] 04:29:55:085 -/(9030:9036): Se conecto un cliente!
+[ERROR] 04:36:12:866 -/(9030:9075): el cliente se desconecto.
+[ERROR] 04:36:12:867 -/(9030:9075): Terminando servidor.
+[INFO] 04:37:05:825 -/(9348:9354): Servidor listo para recibir a los clientes
+[INFO] 04:37:13:546 -/(9348:9354): Se conecto un cliente!
+[ERROR] 04:43:03:066 -/(9348:9373): el cliente se desconecto.
+[ERROR] 04:43:03:081 -/(9348:9373): Terminando servidor.
+[INFO] 04:47:17:269 -/(9958:9965): Servidor listo para recibir a los clientes
+[INFO] 04:47:36:791 -/(9958:9965): Se conecto un cliente!
+[ERROR] 04:50:29:315 -/(9958:9987): el cliente se desconecto.
+[ERROR] 04:50:29:316 -/(9958:9987): Terminando servidor.
+[INFO] 04:51:20:842 -/(10459:10466): Servidor listo para recibir a los clientes
+[INFO] 04:52:38:402 -/(10576:10583): Servidor listo para recibir a los clientes
+[INFO] 04:52:55:613 -/(10576:10583): Se conecto un cliente!
+[ERROR] 04:54:51:530 -/(10576:10612): el cliente se desconecto.
+[ERROR] 04:54:51:531 -/(10576:10612): Terminando servidor.
+[INFO] 05:02:56:256 -/(11038:11047): Servidor listo para recibir a los clientes
+[INFO] 05:05:37:275 -/(11324:11331): Servidor listo para recibir a los clientes
+[INFO] 05:05:48:370 -/(11324:11331): Se conecto un cliente!
+[ERROR] 05:09:07:360 -/(11324:11352): el cliente se desconecto.
+[ERROR] 05:09:07:361 -/(11324:11352): Terminando servidor.
+[INFO] 05:10:10:630 -/(11509:11516): Servidor listo para recibir a los clientes
+[INFO] 05:10:20:063 -/(11509:11516): Se conecto un cliente!
+[ERROR] 05:12:22:853 -/(11509:11544): el cliente se desconecto.
+[ERROR] 05:12:22:855 -/(11509:11544): Terminando servidor.
+[INFO] 05:14:22:176 -/(11866:11873): Servidor listo para recibir a los clientes
+[INFO] 05:15:33:545 -/(11866:11873): Se conecto un cliente!
+[ERROR] 05:20:17:785 -/(11866:11965): el cliente se desconecto.
+[ERROR] 05:20:17:786 -/(11866:11965): Terminando servidor.
+[INFO] 05:24:28:503 -/(12620:12627): Servidor listo para recibir a los clientes
+[INFO] 05:24:46:769 -/(12620:12627): Se conecto un cliente!
+[ERROR] 05:26:19:873 -/(12620:12654): el cliente se desconecto.
+[ERROR] 05:26:19:876 -/(12620:12654): Terminando servidor.
+[INFO] 05:27:53:114 -/(12797:12805): Servidor listo para recibir a los clientes
+[INFO] 05:28:11:939 -/(12797:12805): Se conecto un cliente!
+[ERROR] 05:33:47:516 -/(12797:12849): el cliente se desconecto.
+[ERROR] 05:33:47:518 -/(12797:12849): Terminando servidor.
+[INFO] 05:34:15:202 -/(13186:13193): Servidor listo para recibir a los clientes
+[INFO] 05:34:25:098 -/(13186:13193): Se conecto un cliente!
+[INFO] 05:50:12:048 -/(13824:13831): Servidor listo para recibir a los clientes
+[INFO] 05:50:29:624 -/(13824:13831): Se conecto un cliente!
+[ERROR] 05:52:05:015 -/(13824:13858): el cliente se desconecto.
+[ERROR] 05:52:05:017 -/(13824:13858): Terminando servidor.
+[INFO] 06:10:07:831 -/(14993:15000): Servidor listo para recibir a los clientes
+[INFO] 06:10:23:043 -/(14993:15000): Se conecto un cliente!
+[INFO] 19:11:19:103 -/(1978:1984): Servidor listo para recibir a los clientes
+[INFO] 19:11:44:954 -/(1978:1984): Se conecto un cliente!
+[ERROR] 19:22:42:067 -/(1978:2051): el cliente se desconecto.
+[ERROR] 19:22:42:069 -/(1978:2051): Terminando servidor.
+[INFO] 19:23:21:208 -/(2289:2296): Servidor listo para recibir a los clientes
+[INFO] 19:23:32:868 -/(2289:2296): Se conecto un cliente!
+[ERROR] 19:25:23:409 -/(2289:2325): el cliente se desconecto.
+[ERROR] 19:25:23:410 -/(2289:2325): Terminando servidor.
+[INFO] 19:26:56:799 -/(2619:2626): Servidor listo para recibir a los clientes
+[INFO] 19:27:08:034 -/(2619:2626): Se conecto un cliente!
+[ERROR] 19:28:08:428 -/(2619:2654): el cliente se desconecto.
+[ERROR] 19:28:08:429 -/(2619:2654): Terminando servidor.
+[INFO] 19:29:55:257 -/(2927:2934): Servidor listo para recibir a los clientes
+[INFO] 19:30:04:250 -/(2927:2934): Se conecto un cliente!
+[ERROR] 19:32:23:265 -/(2927:2957): el cliente se desconecto.
+[ERROR] 19:32:23:266 -/(2927:2957): Terminando servidor.
+[INFO] 19:34:57:858 -/(3269:3276): Servidor listo para recibir a los clientes
+[INFO] 19:35:11:833 -/(3269:3276): Se conecto un cliente!
+[ERROR] 20:18:40:778 -/(3269:3299): el cliente se desconecto.
+[ERROR] 20:18:40:778 -/(3269:3299): Terminando servidor.
+[INFO] 20:22:37:898 -/(4088:4095): Servidor listo para recibir a los clientes
+[INFO] 20:22:52:061 -/(4088:4095): Se conecto un cliente!
+[ERROR] 20:23:37:627 -/(4088:4195): el cliente se desconecto.
+[ERROR] 20:23:37:628 -/(4088:4195): Terminando servidor.
+[INFO] 20:25:06:294 -/(4381:4393): Servidor listo para recibir a los clientes
+[INFO] 20:25:22:193 -/(4381:4393): Se conecto un cliente!
+[ERROR] 20:28:10:520 -/(4381:4431): el cliente se desconecto.
+[ERROR] 20:28:10:521 -/(4381:4431): Terminando servidor.
+[INFO] 02:54:45:032 -/(4300:4305): Servidor listo para recibir a los clientes
+[INFO] 02:56:16:846 -/(4450:4455): Servidor listo para recibir a los clientes
+[INFO] 02:56:24:310 -/(4450:4455): Se conecto un cliente!
+[ERROR] 02:56:46:410 -/(4450:4473): el cliente se desconecto.
+[ERROR] 02:56:46:410 -/(4450:4473): Terminando servidor.
+[INFO] 02:58:11:627 -/(4602:4607): Servidor listo para recibir a los clientes
+[INFO] 02:58:38:046 -/(4602:4607): Se conecto un cliente!
+[ERROR] 03:00:26:770 -/(4602:4625): el cliente se desconecto.
+[ERROR] 03:00:26:770 -/(4602:4625): Terminando servidor.
+[INFO] 03:00:46:962 -/(4680:4685): Servidor listo para recibir a los clientes
+[INFO] 03:01:03:623 -/(4680:4685): Se conecto un cliente!
+[INFO] 03:04:39:865 -/(4845:4851): Servidor listo para recibir a los clientes
+[INFO] 03:06:44:485 -/(5009:5013): Servidor listo para recibir a los clientes
+[INFO] 03:06:54:006 -/(5009:5013): Se conecto un cliente!
+[INFO] 03:11:54:283 -/(5228:5233): Servidor listo para recibir a los clientes
+[INFO] 03:12:02:696 -/(5228:5233): Se conecto un cliente!
+[INFO] 03:30:31:160 -/(5593:5599): Servidor listo para recibir a los clientes
+[INFO] 03:30:39:897 -/(5593:5599): Se conecto un cliente!
+[INFO] 03:37:09:191 -/(5790:5800): Servidor listo para recibir a los clientes
+[INFO] 03:40:14:794 -/(5988:5996): Servidor listo para recibir a los clientes
+[INFO] 03:40:22:539 -/(5988:5996): Se conecto un cliente!
+[INFO] 03:42:27:446 -/(6112:6121): Servidor listo para recibir a los clientes
+[INFO] 03:45:07:868 -/(6296:6305): Servidor listo para recibir a los clientes
+[INFO] 03:45:15:029 -/(6296:6305): Se conecto un cliente!
+[INFO] 03:47:29:351 -/(6501:6511): Servidor listo para recibir a los clientes
+[INFO] 03:47:36:117 -/(6501:6511): Se conecto un cliente!
+[ERROR] 03:48:08:674 -/(6501:6547): el cliente se desconecto.
+[ERROR] 03:48:08:675 -/(6501:6547): Terminando servidor.
+[INFO] 03:48:30:840 -/(6613:6622): Servidor listo para recibir a los clientes
+[INFO] 03:48:37:896 -/(6613:6622): Se conecto un cliente!
+[ERROR] 03:50:00:443 -/(6613:6668): el cliente se desconecto.
+[ERROR] 03:50:00:444 -/(6613:6668): Terminando servidor.
+[INFO] 03:50:59:888 -/(6776:6786): Servidor listo para recibir a los clientes
+[INFO] 03:51:07:490 -/(6776:6786): Se conecto un cliente!
+[INFO] 03:59:32:811 -/(7216:7225): Servidor listo para recibir a los clientes
+[INFO] 03:59:42:127 -/(7216:7225): Se conecto un cliente!
+[INFO] 04:03:46:456 -/(7416:7426): Servidor listo para recibir a los clientes
+[INFO] 04:03:53:460 -/(7416:7426): Se conecto un cliente!
+[INFO] 04:06:07:937 -/(7647:7657): Servidor listo para recibir a los clientes
+[INFO] 04:06:12:982 -/(7647:7657): Se conecto un cliente!
+[ERROR] 04:06:24:162 -/(7647:7680): el cliente se desconecto.
+[ERROR] 04:06:24:162 -/(7647:7680): Terminando servidor.
+[INFO] 04:07:54:553 -/(7857:7867): Servidor listo para recibir a los clientes
+[INFO] 04:08:01:663 -/(7857:7867): Se conecto un cliente!
+[INFO] 04:12:01:315 -/(8002:8009): Servidor listo para recibir a los clientes
+[INFO] 04:14:52:008 -/(8213:8219): Servidor listo para recibir a los clientes
+[INFO] 04:14:58:830 -/(8213:8219): Se conecto un cliente!
+[ERROR] 04:15:22:847 -/(8213:8236): el cliente se desconecto.
+[ERROR] 04:15:22:847 -/(8213:8236): Terminando servidor.
+[INFO] 04:18:43:705 -/(8309:8315): Servidor listo para recibir a los clientes
+[INFO] 04:18:51:913 -/(8324:8330): Servidor listo para recibir a los clientes
+[INFO] 04:20:45:222 -/(8595:8607): Servidor listo para recibir a los clientes
+[INFO] 04:20:50:447 -/(8595:8607): Se conecto un cliente!
+[INFO] 04:28:13:709 -/(3305:3313): Servidor listo para recibir a los clientes
+[INFO] 04:32:22:585 -/(3533:3553): Servidor listo para recibir a los clientes
+[INFO] 04:33:26:079 -/(3688:3705): Servidor listo para recibir a los clientes
+[INFO] 04:34:35:140 -/(3847:3865): Servidor listo para recibir a los clientes
+[INFO] 04:36:56:635 -/(4010:4027): Servidor listo para recibir a los clientes
+[INFO] 04:38:41:969 -/(4177:4193): Servidor listo para recibir a los clientes
+[INFO] 04:39:34:026 -/(4326:4341): Servidor listo para recibir a los clientes
+[ERROR] 04:39:34:028 -/(4326:4343): el cliente se desconecto.
+[ERROR] 04:39:34:028 -/(4326:4343): Terminando servidor.
+[INFO] 04:41:56:342 -/(4473:4518): Servidor listo para recibir a los clientes
+[INFO] 04:45:13:777 -/(4835:4847): Servidor listo para recibir a los clientes
+[INFO] 04:48:13:115 -/(5072:5082): Servidor listo para recibir a los clientes
+[INFO] 04:56:20:462 -/(5770:5778): Servidor listo para recibir a los clientes
+[INFO] 04:57:42:649 -/(5851:5859): Servidor listo para recibir a los clientes
+[INFO] 05:00:33:139 -/(6013:6025): Servidor listo para recibir a los clientes
+[INFO] 05:04:08:178 -/(6269:6281): Servidor listo para recibir a los clientes
+[INFO] 05:10:47:884 -/(6830:6837): Servidor listo para recibir a los clientes
+[INFO] 05:11:07:778 -/(6830:6837): Se conecto un cliente!
+[ERROR] 05:11:24:308 -/(6830:6854): el cliente se desconecto.
+[ERROR] 05:11:24:308 -/(6830:6854): Terminando servidor.
+[ERROR] 05:13:14:595 -/(6830:6855): el cliente se desconecto.
+[ERROR] 05:13:14:595 -/(6830:6855): Terminando servidor.
+[INFO] 05:13:39:173 -/(6916:6923): Servidor listo para recibir a los clientes
+[INFO] 05:13:47:434 -/(6916:6923): Se conecto un cliente!
+[INFO] 05:16:30:981 -/(7110:7117): Servidor listo para recibir a los clientes
+[INFO] 05:16:40:451 -/(7110:7117): Se conecto un cliente!
+[INFO] 05:18:31:123 -/(7263:7270): Servidor listo para recibir a los clientes
+[INFO] 05:18:37:944 -/(7263:7270): Se conecto un cliente!
+[INFO] 05:22:34:073 -/(7380:7387): Servidor listo para recibir a los clientes
+[INFO] 05:22:40:862 -/(7380:7387): Se conecto un cliente!
+[INFO] 05:28:01:715 -/(7509:7516): Servidor listo para recibir a los clientes
+[INFO] 05:28:08:218 -/(7509:7516): Se conecto un cliente!
+[INFO] 05:44:19:296 -/(8886:8893): Servidor listo para recibir a los clientes
+[INFO] 05:44:26:088 -/(8886:8893): Se conecto un cliente!
+[ERROR] 05:45:13:529 -/(8886:8910): el cliente se desconecto.
+[ERROR] 05:45:13:529 -/(8886:8910): Terminando servidor.
+[INFO] 05:45:59:927 -/(8969:8976): Servidor listo para recibir a los clientes
+[INFO] 05:46:07:621 -/(8969:8976): Se conecto un cliente!
+[INFO] 05:47:42:287 -/(9140:9147): Servidor listo para recibir a los clientes
+[INFO] 05:47:48:958 -/(9140:9147): Se conecto un cliente!
+[ERROR] 05:48:39:899 -/(9140:9163): el cliente se desconecto.
+[ERROR] 05:48:39:900 -/(9140:9163): Terminando servidor.
+[INFO] 05:50:41:758 -/(9279:9286): Servidor listo para recibir a los clientes
+[INFO] 05:50:51:375 -/(9279:9286): Se conecto un cliente!
+[ERROR] 05:51:32:515 -/(9279:9303): el cliente se desconecto.
+[ERROR] 05:51:32:515 -/(9279:9303): Terminando servidor.
+[INFO] 05:53:10:856 -/(9409:9416): Servidor listo para recibir a los clientes
+[INFO] 05:54:59:224 -/(9409:9416): Se conecto un cliente!
+[ERROR] 05:57:13:343 -/(9409:9449): el cliente se desconecto.
+[ERROR] 05:57:13:343 -/(9409:9449): Terminando servidor.
+[ERROR] 05:57:16:680 -/(9409:9448): el cliente se desconecto.
+[ERROR] 05:57:16:680 -/(9409:9448): Terminando servidor.
+[INFO] 19:13:07:220 -/(2282:2288): Servidor listo para recibir a los clientes
+[INFO] 19:15:13:457 -/(2445:2450): Servidor listo para recibir a los clientes
+[INFO] 19:15:29:197 -/(2445:2450): Se conecto un cliente!
+[ERROR] 19:23:50:790 -/(2445:2556): el cliente se desconecto.
+[ERROR] 19:23:50:790 -/(2445:2556): Terminando servidor.
+[ERROR] 19:23:51:965 -/(2445:2555): el cliente se desconecto.
+[ERROR] 19:23:51:966 -/(2445:2555): Terminando servidor.
+[INFO] 19:25:33:893 -/(2735:2740): Servidor listo para recibir a los clientes
+[INFO] 19:26:06:248 -/(2735:2740): Se conecto un cliente!
+[ERROR] 19:29:05:606 -/(2735:2765): el cliente se desconecto.
+[ERROR] 19:29:05:607 -/(2735:2765): Terminando servidor.
+[INFO] 19:34:34:559 -/(3284:3290): Servidor listo para recibir a los clientes
+[INFO] 19:34:44:418 -/(3284:3290): Se conecto un cliente!
+[ERROR] 19:35:17:207 -/(3284:3310): el cliente se desconecto.
+[ERROR] 19:35:17:207 -/(3284:3310): Terminando servidor.
+[ERROR] 19:35:19:574 -/(3284:3311): el cliente se desconecto.
+[ERROR] 19:35:19:575 -/(3284:3311): Terminando servidor.
+[INFO] 19:37:58:579 -/(3391:3398): Servidor listo para recibir a los clientes
+[INFO] 19:38:05:200 -/(3391:3398): Se conecto un cliente!
+[ERROR] 19:45:22:801 -/(3391:3415): el cliente se desconecto.
+[ERROR] 19:45:22:801 -/(3391:3415): Terminando servidor.
+[ERROR] 19:45:22:802 -/(3391:3414): el cliente se desconecto.
+[ERROR] 19:45:22:802 -/(3391:3414): Terminando servidor.
+[INFO] 19:45:43:654 -/(3629:3636): Servidor listo para recibir a los clientes
+[INFO] 19:45:54:839 -/(3629:3636): Se conecto un cliente!
+[ERROR] 19:49:03:157 -/(3629:3671): el cliente se desconecto.
+[ERROR] 19:49:03:157 -/(3629:3671): Terminando servidor.
+[ERROR] 19:49:03:158 -/(3629:3670): el cliente se desconecto.
+[ERROR] 19:49:03:158 -/(3629:3670): Terminando servidor.
+[INFO] 19:49:23:400 -/(3745:3751): Servidor listo para recibir a los clientes
+[INFO] 19:49:55:070 -/(3745:3751): Se conecto un cliente!
+[ERROR] 19:50:02:072 -/(3745:3773): el cliente se desconecto.
+[ERROR] 19:50:02:074 -/(3745:3773): Terminando servidor.
+[ERROR] 19:50:03:431 -/(3745:3772): el cliente se desconecto.
+[ERROR] 19:50:03:431 -/(3745:3772): Terminando servidor.
+[INFO] 19:51:29:305 -/(3921:3927): Servidor listo para recibir a los clientes
+[INFO] 19:51:35:573 -/(3921:3927): Se conecto un cliente!
+[ERROR] 19:52:32:048 -/(3921:3944): el cliente se desconecto.
+[ERROR] 19:52:32:048 -/(3921:3944): Terminando servidor.
+[ERROR] 19:52:32:257 -/(3921:3943): el cliente se desconecto.
+[ERROR] 19:52:32:257 -/(3921:3943): Terminando servidor.
+[INFO] 19:56:18:357 -/(4021:4027): Servidor listo para recibir a los clientes
+[INFO] 19:56:26:834 -/(4021:4027): Se conecto un cliente!
+[ERROR] 19:57:26:480 -/(4021:4045): el cliente se desconecto.
+[ERROR] 19:57:26:481 -/(4021:4045): Terminando servidor.
+[ERROR] 19:57:26:703 -/(4021:4044): el cliente se desconecto.
+[ERROR] 19:57:26:703 -/(4021:4044): Terminando servidor.
+[INFO] 19:58:51:331 -/(4117:4123): Servidor listo para recibir a los clientes
+[INFO] 19:59:15:447 -/(4117:4123): Se conecto un cliente!
+[ERROR] 20:00:32:683 -/(4117:4141): el cliente se desconecto.
+[ERROR] 20:00:32:684 -/(4117:4141): Terminando servidor.
+[ERROR] 20:00:32:923 -/(4117:4140): el cliente se desconecto.
+[ERROR] 20:00:32:923 -/(4117:4140): Terminando servidor.
+[INFO] 20:10:15:323 -/(4744:4753): Servidor listo para recibir a los clientes
+[INFO] 20:10:29:850 -/(4744:4753): Se conecto un cliente!
+[ERROR] 20:13:09:246 -/(4744:4773): el cliente se desconecto.
+[ERROR] 20:13:09:246 -/(4744:4773): Terminando servidor.
+[ERROR] 20:13:41:056 -/(4744:4772): el cliente se desconecto.
+[ERROR] 20:13:41:056 -/(4744:4772): Terminando servidor.
+[INFO] 20:16:38:385 -/(5220:5227): Servidor listo para recibir a los clientes
+[INFO] 20:16:52:435 -/(5220:5227): Se conecto un cliente!
+[ERROR] 20:17:43:404 -/(5220:5269): el cliente se desconecto.
+[ERROR] 20:17:43:404 -/(5220:5269): Terminando servidor.
+[ERROR] 20:17:43:406 -/(5220:5268): el cliente se desconecto.
+[ERROR] 20:17:43:406 -/(5220:5268): Terminando servidor.
+[INFO] 20:20:25:749 -/(5352:5360): Servidor listo para recibir a los clientes
+[INFO] 20:20:38:959 -/(5352:5360): Se conecto un cliente!
+[ERROR] 20:25:56:033 -/(5352:5407): el cliente se desconecto.
+[ERROR] 20:25:56:034 -/(5352:5407): Terminando servidor.
+[ERROR] 20:25:56:407 -/(5352:5406): el cliente se desconecto.
+[ERROR] 20:25:56:407 -/(5352:5406): Terminando servidor.
+[INFO] 20:31:24:882 -/(6012:6020): Servidor listo para recibir a los clientes
+[INFO] 20:31:32:955 -/(6012:6020): Se conecto un cliente!
+[ERROR] 20:32:19:148 -/(6012:6117): el cliente se desconecto.
+[ERROR] 20:32:19:148 -/(6012:6117): Terminando servidor.
+[ERROR] 20:32:19:347 -/(6012:6116): el cliente se desconecto.
+[ERROR] 20:32:19:347 -/(6012:6116): Terminando servidor.
+[INFO] 20:35:31:153 -/(6280:6287): Servidor listo para recibir a los clientes
+[INFO] 20:35:39:247 -/(6280:6287): Se conecto un cliente!
+[ERROR] 20:36:04:297 -/(6280:6317): el cliente se desconecto.
+[ERROR] 20:36:04:297 -/(6280:6317): Terminando servidor.
+[ERROR] 20:36:04:507 -/(6280:6316): el cliente se desconecto.
+[ERROR] 20:36:04:507 -/(6280:6316): Terminando servidor.
+[INFO] 20:37:21:609 -/(6421:6428): Servidor listo para recibir a los clientes
+[INFO] 20:37:46:257 -/(6421:6428): Se conecto un cliente!
+[ERROR] 20:39:14:551 -/(6421:6479): el cliente se desconecto.
+[ERROR] 20:39:14:552 -/(6421:6479): Terminando servidor.
+[ERROR] 20:39:14:961 -/(6421:6478): el cliente se desconecto.
+[ERROR] 20:39:14:961 -/(6421:6478): Terminando servidor.
+[INFO] 20:40:55:517 -/(6793:6800): Servidor listo para recibir a los clientes
+[INFO] 20:41:07:221 -/(6793:6800): Se conecto un cliente!
+[ERROR] 20:41:28:570 -/(6793:6826): el cliente se desconecto.
+[ERROR] 20:41:28:570 -/(6793:6826): Terminando servidor.
+[ERROR] 20:41:28:719 -/(6793:6825): el cliente se desconecto.
+[ERROR] 20:41:28:719 -/(6793:6825): Terminando servidor.
+[INFO] 20:43:39:057 -/(6897:6906): Servidor listo para recibir a los clientes
+[INFO] 20:43:55:087 -/(6897:6906): Se conecto un cliente!
+[ERROR] 20:45:35:644 -/(6897:6952): el cliente se desconecto.
+[ERROR] 20:45:35:645 -/(6897:6952): Terminando servidor.
+[ERROR] 20:45:35:964 -/(6897:6951): el cliente se desconecto.
+[ERROR] 20:45:35:964 -/(6897:6951): Terminando servidor.
+[INFO] 20:59:09:905 -/(7894:7901): Servidor listo para recibir a los clientes
+[INFO] 21:04:50:385 -/(7894:7901): Se conecto un cliente!
+[ERROR] 21:05:07:062 -/(7894:8423): el cliente se desconecto.
+[ERROR] 21:05:07:062 -/(7894:8423): Terminando servidor.
+[ERROR] 21:05:07:096 -/(7894:8422): el cliente se desconecto.
+[ERROR] 21:05:07:096 -/(7894:8422): Terminando servidor.
+[INFO] 21:06:40:613 -/(8546:8553): Servidor listo para recibir a los clientes
+[INFO] 21:06:53:314 -/(8546:8553): Se conecto un cliente!
+[ERROR] 21:08:21:829 -/(8546:8606): el cliente se desconecto.
+[ERROR] 21:08:21:831 -/(8546:8606): Terminando servidor.
+[ERROR] 21:08:21:832 -/(8546:8605): el cliente se desconecto.
+[ERROR] 21:08:21:832 -/(8546:8605): Terminando servidor.
+[INFO] 21:13:15:177 -/(9179:9187): Servidor listo para recibir a los clientes
+[INFO] 21:13:23:946 -/(9179:9187): Se conecto un cliente!
+[ERROR] 21:13:47:253 -/(9179:9226): el cliente se desconecto.
+[ERROR] 21:13:47:255 -/(9179:9226): Terminando servidor.
+[ERROR] 21:13:47:535 -/(9179:9225): el cliente se desconecto.
+[ERROR] 21:13:47:536 -/(9179:9225): Terminando servidor.
+[INFO] 21:21:23:051 -/(10093:10101): Servidor listo para recibir a los clientes
+[INFO] 21:21:29:931 -/(10093:10101): Se conecto un cliente!
+[INFO] 21:29:29:244 -/(10650:10657): Servidor listo para recibir a los clientes
+[INFO] 21:29:36:714 -/(10650:10657): Se conecto un cliente!
+[ERROR] 21:36:39:813 -/(10650:10704): el cliente se desconecto.
+[ERROR] 21:36:39:814 -/(10650:10704): Terminando servidor.
+[ERROR] 21:36:40:036 -/(10650:10703): el cliente se desconecto.
+[ERROR] 21:36:40:036 -/(10650:10703): Terminando servidor.
+[INFO] 21:38:12:833 -/(11151:11158): Servidor listo para recibir a los clientes
+[INFO] 21:38:30:087 -/(11151:11158): Se conecto un cliente!
+[ERROR] 21:46:43:799 -/(11151:11196): el cliente se desconecto.
+[ERROR] 21:46:43:800 -/(11151:11196): Terminando servidor.
+[ERROR] 21:46:44:011 -/(11151:11195): el cliente se desconecto.
+[ERROR] 21:46:44:012 -/(11151:11195): Terminando servidor.
+[INFO] 21:47:04:282 -/(11583:11590): Servidor listo para recibir a los clientes
+[INFO] 21:48:08:955 -/(11710:11717): Servidor listo para recibir a los clientes
+[INFO] 21:48:19:618 -/(11710:11717): Se conecto un cliente!
+[ERROR] 21:53:49:047 -/(11710:11764): el cliente se desconecto.
+[ERROR] 21:53:49:048 -/(11710:11764): Terminando servidor.
+[ERROR] 21:53:49:427 -/(11710:11763): el cliente se desconecto.
+[ERROR] 21:53:49:427 -/(11710:11763): Terminando servidor.
+[INFO] 21:55:37:080 -/(12122:12129): Servidor listo para recibir a los clientes
+[INFO] 21:55:58:522 -/(12122:12129): Se conecto un cliente!
+[ERROR] 21:56:16:433 -/(12122:12169): el cliente se desconecto.
+[ERROR] 21:56:16:434 -/(12122:12169): Terminando servidor.
+[ERROR] 21:56:16:719 -/(12122:12168): el cliente se desconecto.
+[ERROR] 21:56:16:719 -/(12122:12168): Terminando servidor.
+[INFO] 22:00:12:923 -/(12280:12287): Servidor listo para recibir a los clientes
+[INFO] 22:00:22:658 -/(12280:12287): Se conecto un cliente!
+[ERROR] 22:00:32:623 -/(12280:12326): el cliente se desconecto.
+[ERROR] 22:00:32:623 -/(12280:12326): Terminando servidor.
+[ERROR] 22:00:32:626 -/(12280:12325): el cliente se desconecto.
+[ERROR] 22:00:32:626 -/(12280:12325): Terminando servidor.
+[INFO] 22:02:55:648 -/(12452:12459): Servidor listo para recibir a los clientes
+[INFO] 22:03:06:477 -/(12452:12459): Se conecto un cliente!
+[ERROR] 22:03:25:436 -/(12452:12480): el cliente se desconecto.
+[ERROR] 22:03:25:437 -/(12452:12480): Terminando servidor.
+[ERROR] 22:03:25:723 -/(12452:12479): el cliente se desconecto.
+[ERROR] 22:03:25:723 -/(12452:12479): Terminando servidor.
+[INFO] 23:24:45:713 -/(13442:13450): Servidor listo para recibir a los clientes
+[INFO] 23:24:52:967 -/(13442:13450): Se conecto un cliente!
+[ERROR] 23:25:08:668 -/(13442:13468): el cliente se desconecto.
+[ERROR] 23:25:08:669 -/(13442:13468): Terminando servidor.
+[ERROR] 23:25:08:670 -/(13442:13467): el cliente se desconecto.
+[ERROR] 23:25:08:670 -/(13442:13467): Terminando servidor.
+[INFO] 23:26:22:056 -/(13669:13676): Servidor listo para recibir a los clientes
+[INFO] 23:26:32:232 -/(13669:13676): Se conecto un cliente!
+[ERROR] 23:29:22:113 -/(13669:13722): el cliente se desconecto.
+[ERROR] 23:29:22:113 -/(13669:13722): Terminando servidor.
+[ERROR] 23:29:22:460 -/(13669:13721): el cliente se desconecto.
+[ERROR] 23:29:22:461 -/(13669:13721): Terminando servidor.
+[INFO] 23:33:36:328 -/(13985:13996): Servidor listo para recibir a los clientes
+[INFO] 23:33:44:819 -/(13985:13996): Se conecto un cliente!
+[ERROR] 23:36:02:454 -/(13985:14014): el cliente se desconecto.
+[ERROR] 23:36:02:455 -/(13985:14014): Terminando servidor.
+[ERROR] 23:36:19:036 -/(13985:14013): el cliente se desconecto.
+[ERROR] 23:36:19:036 -/(13985:14013): Terminando servidor.
+[INFO] 23:41:46:568 -/(14278:14286): Servidor listo para recibir a los clientes
+[INFO] 23:41:56:854 -/(14278:14286): Se conecto un cliente!
+[ERROR] 23:44:20:881 -/(14278:14334): el cliente se desconecto.
+[ERROR] 23:44:20:881 -/(14278:14334): Terminando servidor.
+[ERROR] 23:44:21:259 -/(14278:14333): el cliente se desconecto.
+[ERROR] 23:44:21:259 -/(14278:14333): Terminando servidor.
+[INFO] 23:47:41:857 -/(14635:14642): Servidor listo para recibir a los clientes
+[INFO] 23:48:00:789 -/(14635:14642): Se conecto un cliente!
+[ERROR] 23:50:26:996 -/(14635:14710): el cliente se desconecto.
+[ERROR] 23:50:26:998 -/(14635:14710): Terminando servidor.
+[ERROR] 23:50:27:302 -/(14635:14709): el cliente se desconecto.
+[ERROR] 23:50:27:303 -/(14635:14709): Terminando servidor.
+[INFO] 00:05:34:471 -/(15209:15216): Servidor listo para recibir a los clientes
+[INFO] 00:05:41:635 -/(15209:15216): Se conecto un cliente!
+[ERROR] 00:06:00:238 -/(15209:15236): el cliente se desconecto.
+[ERROR] 00:06:00:239 -/(15209:15236): Terminando servidor.
+[ERROR] 00:06:01:190 -/(15209:15235): el cliente se desconecto.
+[ERROR] 00:06:01:190 -/(15209:15235): Terminando servidor.
+[INFO] 00:33:07:336 -/(15921:15928): Servidor listo para recibir a los clientes
+[INFO] 00:33:41:861 -/(15921:15928): Se conecto un cliente!
+[ERROR] 00:33:59:924 -/(15921:15973): el cliente se desconecto.
+[ERROR] 00:33:59:926 -/(15921:15973): Terminando servidor.
+[ERROR] 00:33:59:931 -/(15921:15972): el cliente se desconecto.
+[ERROR] 00:33:59:931 -/(15921:15972): Terminando servidor.
+[INFO] 00:36:44:395 -/(16186:16193): Servidor listo para recibir a los clientes
+[INFO] 00:36:53:304 -/(16186:16193): Se conecto un cliente!
+[ERROR] 00:37:15:590 -/(16186:16224): el cliente se desconecto.
+[ERROR] 00:37:15:590 -/(16186:16224): Terminando servidor.
+[ERROR] 00:37:15:838 -/(16186:16223): el cliente se desconecto.
+[ERROR] 00:37:15:839 -/(16186:16223): Terminando servidor.
+[INFO] 00:55:24:898 -/(17504:17511): Servidor listo para recibir a los clientes
+[INFO] 00:55:44:907 -/(17504:17511): Se conecto un cliente!
+[ERROR] 00:56:08:660 -/(17504:17522): el cliente se desconecto.
+[ERROR] 00:56:08:664 -/(17504:17522): Terminando servidor.
+[ERROR] 00:56:21:021 -/(17504:17523): el cliente se desconecto.
+[ERROR] 00:56:21:022 -/(17504:17523): Terminando servidor.
+[INFO] 02:44:17:741 -/(20295:20308): Servidor listo para recibir a los clientes
+[INFO] 02:46:00:430 -/(20295:20308): Se conecto un cliente!
+[ERROR] 02:47:49:196 -/(20295:20350): el cliente se desconecto.
+[ERROR] 02:47:49:196 -/(20295:20350): Terminando servidor.
+[ERROR] 02:48:06:195 -/(20295:20351): el cliente se desconecto.
+[ERROR] 02:48:06:195 -/(20295:20351): Terminando servidor.
+[INFO] 02:51:29:408 -/(20533:20540): Servidor listo para recibir a los clientes
+[INFO] 02:52:14:311 -/(20533:20540): Se conecto un cliente!
+[ERROR] 02:53:33:942 -/(20533:20551): el cliente se desconecto.
+[ERROR] 02:53:33:943 -/(20533:20551): Terminando servidor.
+[INFO] 02:58:21:199 -/(21022:21029): Servidor listo para recibir a los clientes
+[INFO] 02:59:00:520 -/(21022:21029): Se conecto un cliente!
+[ERROR] 03:02:02:432 -/(21022:21079): el cliente se desconecto.
+[ERROR] 03:02:02:432 -/(21022:21079): Terminando servidor.
+[ERROR] 03:02:02:886 -/(21022:21078): el cliente se desconecto.
+[ERROR] 03:02:02:887 -/(21022:21078): Terminando servidor.
+[INFO] 03:08:55:979 -/(21470:21477): Servidor listo para recibir a los clientes
+[INFO] 03:09:43:000 -/(21470:21477): Se conecto un cliente!
+[ERROR] 03:09:52:818 -/(21470:21527): el cliente se desconecto.
+[ERROR] 03:09:52:818 -/(21470:21527): Terminando servidor.
+[ERROR] 03:09:52:821 -/(21470:21526): el cliente se desconecto.
+[ERROR] 03:09:52:821 -/(21470:21526): Terminando servidor.
+[INFO] 03:11:17:873 -/(21686:21693): Servidor listo para recibir a los clientes
+[INFO] 03:12:01:559 -/(21686:21693): Se conecto un cliente!
+[ERROR] 03:14:26:216 -/(21686:21744): el cliente se desconecto.
+[ERROR] 03:14:26:217 -/(21686:21744): Terminando servidor.
+[ERROR] 03:14:28:808 -/(21686:21743): el cliente se desconecto.
+[ERROR] 03:14:28:809 -/(21686:21743): Terminando servidor.
+[INFO] 03:22:42:150 -/(22107:22114): Servidor listo para recibir a los clientes
+[INFO] 03:24:55:919 -/(22107:22114): Se conecto un cliente!
+[ERROR] 03:28:39:158 -/(22107:22164): el cliente se desconecto.
+[ERROR] 03:28:39:159 -/(22107:22164): Terminando servidor.
+[ERROR] 03:28:39:161 -/(22107:22163): el cliente se desconecto.
+[ERROR] 03:28:39:161 -/(22107:22163): Terminando servidor.
+[INFO] 03:30:31:442 -/(22626:22632): Servidor listo para recibir a los clientes
+[INFO] 03:30:58:699 -/(22626:22632): Se conecto un cliente!
+[INFO] 03:50:02:123 -/(23541:23547): Servidor listo para recibir a los clientes
+[INFO] 03:50:52:692 -/(23541:23547): Se conecto un cliente!
+[ERROR] 03:53:50:974 -/(23541:23597): el cliente se desconecto.
+[ERROR] 03:53:50:974 -/(23541:23597): Terminando servidor.
+[ERROR] 03:54:27:266 -/(23541:23598): el cliente se desconecto.
+[ERROR] 03:54:27:266 -/(23541:23598): Terminando servidor.
+[INFO] 04:08:13:511 -/(24274:24281): Servidor listo para recibir a los clientes
+[INFO] 04:08:55:636 -/(24274:24281): Se conecto un cliente!
+[ERROR] 04:09:41:354 -/(24274:24329): el cliente se desconecto.
+[ERROR] 04:09:41:355 -/(24274:24329): Terminando servidor.
+[ERROR] 04:10:26:330 -/(24274:24330): el cliente se desconecto.
+[ERROR] 04:10:26:330 -/(24274:24330): Terminando servidor.
+[INFO] 04:16:54:529 -/(24795:24836): Servidor listo para recibir a los clientes
+[INFO] 04:17:37:048 -/(24795:24836): Se conecto un cliente!
+[ERROR] 04:19:03:277 -/(24795:24848): el cliente se desconecto.
+[ERROR] 04:19:03:277 -/(24795:24848): Terminando servidor.
+[ERROR] 04:19:08:214 -/(24795:24849): el cliente se desconecto.
+[ERROR] 04:19:08:215 -/(24795:24849): Terminando servidor.
+[INFO] 04:20:23:621 -/(24948:24954): Servidor listo para recibir a los clientes
+[INFO] 04:21:27:742 -/(24948:24954): Se conecto un cliente!
+[ERROR] 04:25:03:641 -/(24948:25004): el cliente se desconecto.
+[ERROR] 04:25:03:641 -/(24948:25004): Terminando servidor.
+[ERROR] 04:25:08:929 -/(24948:25005): el cliente se desconecto.
+[ERROR] 04:25:08:929 -/(24948:25005): Terminando servidor.
+[INFO] 04:27:52:801 -/(25230:25236): Servidor listo para recibir a los clientes
+[INFO] 04:28:08:372 -/(25230:25236): Se conecto un cliente!
+[ERROR] 04:28:36:539 -/(25230:25253): el cliente se desconecto.
+[ERROR] 04:28:36:543 -/(25230:25253): Terminando servidor.
+[ERROR] 04:28:36:548 -/(25230:25252): el cliente se desconecto.
+[ERROR] 04:28:36:548 -/(25230:25252): Terminando servidor.
+[INFO] 04:30:10:218 -/(25422:25428): Servidor listo para recibir a los clientes
+[INFO] 04:30:19:068 -/(25422:25428): Se conecto un cliente!
+[ERROR] 04:30:30:231 -/(25422:25460): el cliente se desconecto.
+[ERROR] 04:30:30:232 -/(25422:25460): Terminando servidor.
+[ERROR] 04:30:30:234 -/(25422:25459): el cliente se desconecto.
+[ERROR] 04:30:30:235 -/(25422:25459): Terminando servidor.
+[INFO] 04:43:35:721 -/(26185:26192): Servidor listo para recibir a los clientes
+[INFO] 04:43:44:997 -/(26185:26192): Se conecto un cliente!
+[ERROR] 04:45:27:976 -/(26185:26241): el cliente se desconecto.
+[ERROR] 04:45:27:984 -/(26185:26241): Terminando servidor.
+[ERROR] 04:45:28:293 -/(26185:26240): el cliente se desconecto.
+[ERROR] 04:45:28:294 -/(26185:26240): Terminando servidor.
+[INFO] 04:56:54:277 -/(26976:26983): Servidor listo para recibir a los clientes
+[INFO] 04:58:06:635 -/(26976:26983): Se conecto un cliente!
+[ERROR] 05:03:06:644 -/(26976:27034): el cliente se desconecto.
+[ERROR] 05:03:06:644 -/(26976:27034): Terminando servidor.
+[ERROR] 05:03:06:845 -/(26976:27033): el cliente se desconecto.
+[ERROR] 05:03:06:846 -/(26976:27033): Terminando servidor.
+[INFO] 05:28:52:977 -/(28340:28347): Servidor listo para recibir a los clientes
+[INFO] 05:29:28:006 -/(28340:28347): Se conecto un cliente!
+[ERROR] 05:32:13:372 -/(28340:28490): el cliente se desconecto.
+[ERROR] 05:32:13:372 -/(28340:28490): Terminando servidor.
+[ERROR] 05:32:13:665 -/(28340:28489): el cliente se desconecto.
+[ERROR] 05:32:13:665 -/(28340:28489): Terminando servidor.
+[INFO] 19:02:40:861 -/(6032:6039): Servidor listo para recibir a los clientes
+[INFO] 19:03:13:162 -/(6198:6204): Servidor listo para recibir a los clientes
+[INFO] 19:03:19:314 -/(6198:6204): Se conecto un cliente!
+[ERROR] 19:03:37:790 -/(6198:6222): el cliente se desconecto.
+[ERROR] 19:03:37:790 -/(6198:6222): Terminando servidor.
+[ERROR] 19:03:38:078 -/(6198:6221): el cliente se desconecto.
+[ERROR] 19:03:38:078 -/(6198:6221): Terminando servidor.
+[INFO] 19:08:32:827 -/(2699:2705): Servidor listo para recibir a los clientes
+[INFO] 19:08:40:907 -/(2699:2705): Se conecto un cliente!
+[ERROR] 19:10:13:650 -/(2699:2722): el cliente se desconecto.
+[ERROR] 19:10:13:652 -/(2699:2722): Terminando servidor.
+[ERROR] 19:10:13:994 -/(2699:2721): el cliente se desconecto.
+[ERROR] 19:10:13:994 -/(2699:2721): Terminando servidor.
+[INFO] 19:13:13:522 -/(2882:2888): Servidor listo para recibir a los clientes
+[INFO] 19:13:24:085 -/(2882:2888): Se conecto un cliente!
+[ERROR] 19:13:44:905 -/(2882:2905): el cliente se desconecto.
+[ERROR] 19:13:44:905 -/(2882:2905): Terminando servidor.
+[ERROR] 19:13:45:798 -/(2882:2904): el cliente se desconecto.
+[ERROR] 19:13:45:798 -/(2882:2904): Terminando servidor.
+[INFO] 19:25:28:188 -/(3770:3777): Servidor listo para recibir a los clientes
+[INFO] 19:25:54:595 -/(3770:3777): Se conecto un cliente!
+[ERROR] 19:26:20:893 -/(3770:3818): el cliente se desconecto.
+[ERROR] 19:26:20:894 -/(3770:3818): Terminando servidor.
+[ERROR] 19:26:22:050 -/(3770:3817): el cliente se desconecto.
+[ERROR] 19:26:22:051 -/(3770:3817): Terminando servidor.
+[INFO] 19:42:19:746 -/(4448:4454): Servidor listo para recibir a los clientes
+[INFO] 19:42:30:977 -/(4448:4454): Se conecto un cliente!
+[ERROR] 19:42:54:589 -/(4448:4494): el cliente se desconecto.
+[ERROR] 19:42:54:590 -/(4448:4494): Terminando servidor.
+[ERROR] 19:42:55:510 -/(4448:4493): el cliente se desconecto.
+[ERROR] 19:42:55:510 -/(4448:4493): Terminando servidor.
+[INFO] 19:44:40:315 -/(4610:4617): Servidor listo para recibir a los clientes
+[INFO] 19:44:48:333 -/(4610:4617): Se conecto un cliente!
+[ERROR] 19:45:07:566 -/(4610:4653): el cliente se desconecto.
+[ERROR] 19:45:07:567 -/(4610:4653): Terminando servidor.
+[ERROR] 19:45:08:497 -/(4610:4652): el cliente se desconecto.
+[ERROR] 19:45:08:498 -/(4610:4652): Terminando servidor.
+[INFO] 19:46:51:064 -/(4769:4775): Servidor listo para recibir a los clientes
+[INFO] 19:47:11:166 -/(4769:4775): Se conecto un cliente!
+[ERROR] 19:47:57:995 -/(4769:4830): el cliente se desconecto.
+[ERROR] 19:47:57:996 -/(4769:4830): Terminando servidor.
+[ERROR] 19:47:58:824 -/(4769:4829): el cliente se desconecto.
+[ERROR] 19:47:58:824 -/(4769:4829): Terminando servidor.
+[INFO] 19:50:16:109 -/(4923:4929): Servidor listo para recibir a los clientes
+[INFO] 19:50:31:049 -/(4923:4929): Se conecto un cliente!
+[ERROR] 19:54:53:386 -/(4923:4980): el cliente se desconecto.
+[ERROR] 19:54:53:386 -/(4923:4980): Terminando servidor.
+[ERROR] 19:54:53:645 -/(4923:4979): el cliente se desconecto.
+[ERROR] 19:54:53:646 -/(4923:4979): Terminando servidor.
+[INFO] 19:56:23:562 -/(5176:5184): Servidor listo para recibir a los clientes
+[INFO] 19:56:35:263 -/(5176:5184): Se conecto un cliente!
+[ERROR] 19:56:56:772 -/(5176:5224): el cliente se desconecto.
+[ERROR] 19:56:56:772 -/(5176:5224): Terminando servidor.
+[ERROR] 19:56:56:960 -/(5176:5223): el cliente se desconecto.
+[ERROR] 19:56:56:960 -/(5176:5223): Terminando servidor.
+[INFO] 20:09:01:348 -/(5614:5621): Servidor listo para recibir a los clientes
+[INFO] 20:09:07:743 -/(5614:5621): Se conecto un cliente!
+[ERROR] 20:09:28:355 -/(5614:5642): el cliente se desconecto.
+[ERROR] 20:09:28:355 -/(5614:5642): Terminando servidor.
+[ERROR] 20:09:28:532 -/(5614:5641): el cliente se desconecto.
+[ERROR] 20:09:28:532 -/(5614:5641): Terminando servidor.
+[INFO] 20:16:46:867 -/(6025:6032): Servidor listo para recibir a los clientes
+[INFO] 20:17:07:214 -/(6025:6032): Se conecto un cliente!
+[ERROR] 20:17:35:590 -/(6025:6055): el cliente se desconecto.
+[ERROR] 20:17:35:590 -/(6025:6055): Terminando servidor.
+[ERROR] 20:17:35:848 -/(6025:6054): el cliente se desconecto.
+[ERROR] 20:17:35:848 -/(6025:6054): Terminando servidor.
+[INFO] 20:32:14:099 -/(7126:7133): Servidor listo para recibir a los clientes
+[INFO] 20:32:20:313 -/(7126:7133): Se conecto un cliente!
+[ERROR] 20:32:40:162 -/(7126:7154): el cliente se desconecto.
+[ERROR] 20:32:40:162 -/(7126:7154): Terminando servidor.
+[INFO] 20:44:25:868 -/(7290:7298): Servidor listo para recibir a los clientes
+[INFO] 20:44:31:850 -/(7290:7298): Se conecto un cliente!
+[ERROR] 20:44:50:772 -/(7290:7316): el cliente se desconecto.
+[ERROR] 20:44:50:772 -/(7290:7316): Terminando servidor.
+[ERROR] 20:45:03:235 -/(7290:7317): el cliente se desconecto.
+[ERROR] 20:45:03:235 -/(7290:7317): Terminando servidor.
+[INFO] 20:46:12:945 -/(7435:7441): Servidor listo para recibir a los clientes
+[INFO] 20:46:18:998 -/(7435:7441): Se conecto un cliente!
+[ERROR] 20:46:42:121 -/(7435:7458): el cliente se desconecto.
+[ERROR] 20:46:42:122 -/(7435:7458): Terminando servidor.
+[ERROR] 20:56:23:917 -/(7435:7457): el cliente se desconecto.
+[ERROR] 20:56:23:917 -/(7435:7457): Terminando servidor.
+[INFO] 20:57:37:348 -/(7942:7948): Servidor listo para recibir a los clientes
+[INFO] 20:57:43:844 -/(7942:7948): Se conecto un cliente!
+[ERROR] 20:57:57:861 -/(7942:7965): el cliente se desconecto.
+[ERROR] 20:57:57:861 -/(7942:7965): Terminando servidor.
+[ERROR] 20:58:01:375 -/(7942:7966): el cliente se desconecto.
+[ERROR] 20:58:01:375 -/(7942:7966): Terminando servidor.
+[INFO] 20:59:15:020 -/(8081:8087): Servidor listo para recibir a los clientes
+[INFO] 20:59:21:437 -/(8081:8087): Se conecto un cliente!
+[ERROR] 20:59:43:706 -/(8081:8105): el cliente se desconecto.
+[ERROR] 20:59:43:706 -/(8081:8105): Terminando servidor.
+[ERROR] 20:59:57:735 -/(8081:8104): el cliente se desconecto.
+[ERROR] 20:59:57:735 -/(8081:8104): Terminando servidor.
+[INFO] 21:02:05:458 -/(8171:8177): Servidor listo para recibir a los clientes
+[INFO] 21:02:12:655 -/(8171:8177): Se conecto un cliente!
+[ERROR] 21:02:23:958 -/(8171:8195): el cliente se desconecto.
+[ERROR] 21:02:23:958 -/(8171:8195): Terminando servidor.
+[ERROR] 21:03:10:704 -/(8171:8196): el cliente se desconecto.
+[ERROR] 21:03:10:704 -/(8171:8196): Terminando servidor.
+[INFO] 21:03:45:154 -/(8268:8274): Servidor listo para recibir a los clientes
+[INFO] 21:03:51:413 -/(8268:8274): Se conecto un cliente!
+[ERROR] 21:04:05:406 -/(8268:8292): el cliente se desconecto.
+[ERROR] 21:04:05:406 -/(8268:8292): Terminando servidor.
+[ERROR] 21:04:06:616 -/(8268:8291): el cliente se desconecto.
+[ERROR] 21:04:06:616 -/(8268:8291): Terminando servidor.
+[INFO] 21:41:47:475 -/(9667:9675): Servidor listo para recibir a los clientes
+[INFO] 21:41:53:175 -/(9667:9675): Se conecto un cliente!
+[ERROR] 21:42:04:445 -/(9667:9693): el cliente se desconecto.
+[ERROR] 21:42:04:445 -/(9667:9693): Terminando servidor.
+[ERROR] 21:42:05:482 -/(9667:9692): el cliente se desconecto.
+[ERROR] 21:42:05:482 -/(9667:9692): Terminando servidor.
+[INFO] 21:43:14:305 -/(9800:9806): Servidor listo para recibir a los clientes
+[INFO] 21:43:20:486 -/(9800:9806): Se conecto un cliente!
+[ERROR] 21:43:32:626 -/(9800:9824): el cliente se desconecto.
+[ERROR] 21:43:32:626 -/(9800:9824): Terminando servidor.
+[INFO] 21:46:31:809 -/(9939:9946): Servidor listo para recibir a los clientes
+[INFO] 21:48:08:753 -/(10069:10075): Servidor listo para recibir a los clientes
+[INFO] 21:48:14:953 -/(10069:10075): Se conecto un cliente!
+[ERROR] 21:48:29:892 -/(10069:10092): el cliente se desconecto.
+[ERROR] 21:48:29:892 -/(10069:10092): Terminando servidor.
+[INFO] 22:06:50:540 -/(10775:10781): Servidor listo para recibir a los clientes
+[INFO] 22:07:59:494 -/(10848:10854): Servidor listo para recibir a los clientes
+[INFO] 22:09:27:469 -/(10970:10976): Servidor listo para recibir a los clientes
+[INFO] 22:09:32:931 -/(10970:10976): Se conecto un cliente!
+[ERROR] 22:09:45:230 -/(10970:10993): el cliente se desconecto.
+[ERROR] 22:09:45:230 -/(10970:10993): Terminando servidor.
+[ERROR] 22:09:49:972 -/(10970:10994): el cliente se desconecto.
+[ERROR] 22:09:49:973 -/(10970:10994): Terminando servidor.
+[INFO] 23:20:23:962 -/(14449:14455): Servidor listo para recibir a los clientes
+[INFO] 23:20:30:079 -/(14449:14455): Se conecto un cliente!
+[INFO] 23:51:06:177 -/(15502:15520): Servidor listo para recibir a los clientes
+[INFO] 23:51:16:695 -/(15502:15520): Se conecto un cliente!
+[ERROR] 23:51:46:902 -/(15502:15542): el cliente se desconecto.
+[ERROR] 23:51:46:902 -/(15502:15542): Terminando servidor.
+[INFO] 00:30:16:617 -/(16931:16938): Servidor listo para recibir a los clientes
+[INFO] 00:30:24:103 -/(16931:16938): Se conecto un cliente!
+[INFO] 01:04:36:373 -/(17700:17707): Servidor listo para recibir a los clientes
+[INFO] 01:04:44:094 -/(17700:17707): Se conecto un cliente!
+[ERROR] 01:05:07:834 -/(17700:17727): el cliente se desconecto.
+[ERROR] 01:05:07:834 -/(17700:17727): Terminando servidor.
+[INFO] 01:19:25:676 -/(18058:18066): Servidor listo para recibir a los clientes
+[INFO] 01:19:31:806 -/(18058:18066): Se conecto un cliente!
+[ERROR] 01:19:54:500 -/(18058:18085): el cliente se desconecto.
+[ERROR] 01:19:54:500 -/(18058:18085): Terminando servidor.
+[INFO] 01:24:57:216 -/(18341:18348): Servidor listo para recibir a los clientes
+[INFO] 01:25:04:744 -/(18341:18348): Se conecto un cliente!
+[ERROR] 01:25:25:481 -/(18341:18368): el cliente se desconecto.
+[ERROR] 01:25:25:481 -/(18341:18368): Terminando servidor.
+[INFO] 01:28:45:621 -/(18505:18512): Servidor listo para recibir a los clientes
+[INFO] 01:29:11:201 -/(18505:18512): Se conecto un cliente!
+[ERROR] 01:29:32:832 -/(18505:18580): el cliente se desconecto.
+[ERROR] 01:29:32:833 -/(18505:18580): Terminando servidor.
+[INFO] 01:30:34:305 -/(18660:18667): Servidor listo para recibir a los clientes
+[INFO] 01:30:50:450 -/(18660:18667): Se conecto un cliente!
+[INFO] 02:06:49:555 -/(11224:11230): Servidor listo para recibir a los clientes
+[INFO] 02:06:59:084 -/(11224:11230): Se conecto un cliente!
+[ERROR] 02:07:22:294 -/(11224:11269): el cliente se desconecto.
+[ERROR] 02:07:22:299 -/(11224:11269): Terminando servidor.
+[INFO] 02:12:57:207 -/(11485:11492): Servidor listo para recibir a los clientes
+[INFO] 02:13:04:126 -/(11485:11492): Se conecto un cliente!
+[ERROR] 02:13:31:249 -/(11485:11527): el cliente se desconecto.
+[ERROR] 02:13:31:250 -/(11485:11527): Terminando servidor.
+[INFO] 02:15:56:800 -/(11723:11729): Servidor listo para recibir a los clientes
+[INFO] 02:16:06:619 -/(11723:11729): Se conecto un cliente!
+[ERROR] 02:16:26:530 -/(11723:11764): el cliente se desconecto.
+[ERROR] 02:16:26:531 -/(11723:11764): Terminando servidor.
+[INFO] 02:21:34:388 -/(12218:12224): Servidor listo para recibir a los clientes
+[INFO] 02:22:06:374 -/(12275:12281): Servidor listo para recibir a los clientes
+[INFO] 02:22:14:022 -/(12275:12281): Se conecto un cliente!
+[ERROR] 02:23:01:978 -/(12275:12301): el cliente se desconecto.
+[ERROR] 02:23:01:979 -/(12275:12301): Terminando servidor.
+[INFO] 02:28:05:701 -/(12563:12579): Servidor listo para recibir a los clientes
+[INFO] 02:28:16:081 -/(12563:12579): Se conecto un cliente!
+[ERROR] 02:30:19:268 -/(12563:12604): el cliente se desconecto.
+[ERROR] 02:30:19:268 -/(12563:12604): Terminando servidor.
+[INFO] 02:32:13:382 -/(12702:12711): Servidor listo para recibir a los clientes
+[INFO] 02:32:19:870 -/(12702:12711): Se conecto un cliente!
+[INFO] 02:40:57:743 -/(13273:13281): Servidor listo para recibir a los clientes
+[INFO] 02:42:28:672 -/(13273:13281): Se conecto un cliente!
+[ERROR] 02:43:06:442 -/(13273:13349): el cliente se desconecto.
+[ERROR] 02:43:06:444 -/(13273:13349): Terminando servidor.
+[INFO] 02:59:37:998 -/(14171:14183): Servidor listo para recibir a los clientes
+[INFO] 02:59:45:712 -/(14171:14183): Se conecto un cliente!
+[ERROR] 02:59:58:735 -/(14171:14220): el cliente se desconecto.
+[ERROR] 02:59:58:736 -/(14171:14220): Terminando servidor.
+[ERROR] 03:00:18:091 -/(14171:14221): el cliente se desconecto.
+[ERROR] 03:00:18:091 -/(14171:14221): Terminando servidor.
+[INFO] 03:01:56:056 -/(14394:14401): Servidor listo para recibir a los clientes
+[INFO] 03:02:03:666 -/(14394:14401): Se conecto un cliente!
+[ERROR] 03:02:24:489 -/(14394:14423): el cliente se desconecto.
+[ERROR] 03:02:24:489 -/(14394:14423): Terminando servidor.
+[INFO] 03:17:22:221 -/(14670:14677): Servidor listo para recibir a los clientes
+[INFO] 03:17:30:521 -/(14670:14677): Se conecto un cliente!
+[ERROR] 03:21:53:072 -/(14670:14698): el cliente se desconecto.
+[ERROR] 03:21:53:072 -/(14670:14698): Terminando servidor.
+[INFO] 03:32:41:386 -/(15008:15017): Servidor listo para recibir a los clientes
+[INFO] 03:32:49:647 -/(15008:15017): Se conecto un cliente!
+[ERROR] 03:33:12:683 -/(15008:15059): el cliente se desconecto.
+[ERROR] 03:33:12:683 -/(15008:15059): Terminando servidor.
+[INFO] 03:37:52:197 -/(15246:15253): Servidor listo para recibir a los clientes
+[INFO] 03:38:09:182 -/(15246:15253): Se conecto un cliente!
+[ERROR] 03:40:50:568 -/(15246:15311): el cliente se desconecto.
+[ERROR] 03:40:50:569 -/(15246:15311): Terminando servidor.
+[INFO] 03:47:49:754 -/(15914:15922): Servidor listo para recibir a los clientes
+[INFO] 03:48:13:569 -/(15914:15922): Se conecto un cliente!
+[ERROR] 03:56:25:603 -/(15914:15979): el cliente se desconecto.
+[ERROR] 03:56:25:603 -/(15914:15979): Terminando servidor.
+[INFO] 04:03:02:190 -/(16262:16269): Servidor listo para recibir a los clientes
+[INFO] 04:03:12:823 -/(16262:16269): Se conecto un cliente!
+[ERROR] 04:38:18:198 -/(16262:16313): el cliente se desconecto.
+[ERROR] 04:38:18:199 -/(16262:16313): Terminando servidor.
+[INFO] 04:38:59:818 -/(16933:16940): Servidor listo para recibir a los clientes
+[INFO] 04:39:06:498 -/(16933:16940): Se conecto un cliente!
+[INFO] 04:52:36:718 -/(17484:17491): Servidor listo para recibir a los clientes
+[INFO] 04:52:46:720 -/(17484:17491): Se conecto un cliente!
+[ERROR] 04:53:14:047 -/(17484:17528): el cliente se desconecto.
+[ERROR] 04:53:14:048 -/(17484:17528): Terminando servidor.
+[INFO] 04:54:54:502 -/(17607:17614): Servidor listo para recibir a los clientes
+[INFO] 04:55:03:509 -/(17607:17614): Se conecto un cliente!
+[ERROR] 04:56:49:541 -/(17607:17651): el cliente se desconecto.
+[ERROR] 04:56:49:541 -/(17607:17651): Terminando servidor.
+[ERROR] 04:56:50:672 -/(17607:17650): el cliente se desconecto.
+[ERROR] 04:56:50:672 -/(17607:17650): Terminando servidor.
+[INFO] 04:57:04:361 -/(17720:17727): Servidor listo para recibir a los clientes
+[INFO] 04:58:11:370 -/(17898:17905): Servidor listo para recibir a los clientes
+[INFO] 04:58:24:884 -/(17898:17905): Se conecto un cliente!
+[ERROR] 04:58:39:558 -/(17898:17924): el cliente se desconecto.
+[ERROR] 04:58:39:559 -/(17898:17924): Terminando servidor.
+[INFO] 04:59:58:274 -/(18058:18065): Servidor listo para recibir a los clientes
+[INFO] 05:00:19:929 -/(18119:18126): Servidor listo para recibir a los clientes
+[INFO] 05:00:25:220 -/(18119:18126): Se conecto un cliente!
+[ERROR] 05:01:01:702 -/(18119:18143): el cliente se desconecto.
+[ERROR] 05:01:01:703 -/(18119:18143): Terminando servidor.
+[INFO] 05:02:14:319 -/(18223:18230): Servidor listo para recibir a los clientes
+[INFO] 05:03:14:930 -/(18321:18328): Servidor listo para recibir a los clientes
+[INFO] 05:03:30:819 -/(18321:18328): Se conecto un cliente!
+[ERROR] 05:03:58:664 -/(18321:18347): el cliente se desconecto.
+[ERROR] 05:03:58:664 -/(18321:18347): Terminando servidor.
+[INFO] 05:07:23:518 -/(18423:18430): Servidor listo para recibir a los clientes
+[INFO] 05:07:47:684 -/(18423:18430): Se conecto un cliente!
+[ERROR] 05:08:09:746 -/(18423:18453): el cliente se desconecto.
+[ERROR] 05:08:09:747 -/(18423:18453): Terminando servidor.
+[ERROR] 05:09:46:681 -/(18423:18454): el cliente se desconecto.
+[ERROR] 05:09:46:681 -/(18423:18454): Terminando servidor.
+[INFO] 05:10:15:322 -/(18551:18559): Servidor listo para recibir a los clientes
+[INFO] 05:10:22:134 -/(18551:18559): Se conecto un cliente!
+[ERROR] 05:11:17:222 -/(18551:18577): el cliente se desconecto.
+[ERROR] 05:11:17:223 -/(18551:18577): Terminando servidor.
+[ERROR] 05:12:26:948 -/(18551:18578): el cliente se desconecto.
+[ERROR] 05:12:26:948 -/(18551:18578): Terminando servidor.
+[INFO] 05:13:22:698 -/(18641:18648): Servidor listo para recibir a los clientes
+[INFO] 05:13:40:010 -/(18641:18648): Se conecto un cliente!
+[ERROR] 05:13:52:658 -/(18641:18667): el cliente se desconecto.
+[ERROR] 05:13:52:659 -/(18641:18667): Terminando servidor.
+[INFO] 05:14:38:157 -/(18784:18791): Servidor listo para recibir a los clientes
+[INFO] 05:15:14:414 -/(18874:18881): Servidor listo para recibir a los clientes
+[INFO] 05:15:22:958 -/(18874:18881): Se conecto un cliente!
+[ERROR] 05:16:07:684 -/(18874:18899): el cliente se desconecto.
+[ERROR] 05:16:07:684 -/(18874:18899): Terminando servidor.
+[ERROR] 05:16:10:879 -/(18874:18898): el cliente se desconecto.
+[ERROR] 05:16:10:880 -/(18874:18898): Terminando servidor.
+[INFO] 05:17:24:940 -/(19110:19117): Servidor listo para recibir a los clientes
+[INFO] 05:17:31:891 -/(19110:19117): Se conecto un cliente!
+[ERROR] 05:17:53:135 -/(19110:19154): el cliente se desconecto.
+[ERROR] 05:17:53:136 -/(19110:19154): Terminando servidor.
+[INFO] 05:19:32:204 -/(19223:19230): Servidor listo para recibir a los clientes
+[INFO] 05:21:12:790 -/(19488:19495): Servidor listo para recibir a los clientes
+[INFO] 05:21:18:608 -/(19488:19495): Se conecto un cliente!
+[ERROR] 05:21:48:487 -/(19488:19512): el cliente se desconecto.
+[ERROR] 05:21:48:488 -/(19488:19512): Terminando servidor.
+[INFO] 05:29:02:325 -/(19785:19793): Servidor listo para recibir a los clientes
+[INFO] 05:29:40:358 -/(19785:19793): Se conecto un cliente!
+[INFO] 05:34:48:634 -/(19971:19978): Servidor listo para recibir a los clientes
+[INFO] 05:34:57:212 -/(19971:19978): Se conecto un cliente!
+[INFO] 05:44:55:995 -/(20333:20341): Servidor listo para recibir a los clientes
+[INFO] 05:45:04:009 -/(20333:20341): Se conecto un cliente!
+[ERROR] 05:46:04:651 -/(20333:20361): el cliente se desconecto.
+[ERROR] 05:46:04:651 -/(20333:20361): Terminando servidor.
+[INFO] 05:46:34:118 -/(20422:20429): Servidor listo para recibir a los clientes
+[INFO] 05:46:49:687 -/(20422:20429): Se conecto un cliente!
+[INFO] 05:52:35:561 -/(20724:20731): Servidor listo para recibir a los clientes
+[INFO] 05:52:45:093 -/(20724:20731): Se conecto un cliente!
+[ERROR] 05:53:16:721 -/(20724:20753): el cliente se desconecto.
+[ERROR] 05:53:16:722 -/(20724:20753): Terminando servidor.
+[ERROR] 06:09:15:548 -/(20724:20754): el cliente se desconecto.
+[ERROR] 06:09:15:549 -/(20724:20754): Terminando servidor.
+[INFO] 06:09:54:534 -/(21074:21081): Servidor listo para recibir a los clientes
+[INFO] 06:10:01:149 -/(21074:21081): Se conecto un cliente!
+[ERROR] 06:11:29:471 -/(21074:21117): el cliente se desconecto.
+[ERROR] 06:11:29:472 -/(21074:21117): Terminando servidor.
+[ERROR] 06:16:44:766 -/(21074:21118): el cliente se desconecto.
+[ERROR] 06:16:44:767 -/(21074:21118): Terminando servidor.
+[INFO] 06:23:28:646 -/(21733:21741): Servidor listo para recibir a los clientes
+[INFO] 06:23:36:423 -/(21733:21741): Se conecto un cliente!
+[ERROR] 06:24:25:108 -/(21733:21761): el cliente se desconecto.
+[ERROR] 06:24:25:109 -/(21733:21761): Terminando servidor.
+[ERROR] 06:24:55:876 -/(21733:21762): el cliente se desconecto.
+[ERROR] 06:24:55:877 -/(21733:21762): Terminando servidor.
+[INFO] 06:26:13:994 -/(22012:22019): Servidor listo para recibir a los clientes
+[INFO] 06:26:23:072 -/(22012:22019): Se conecto un cliente!
+[ERROR] 06:27:44:276 -/(22012:22044): el cliente se desconecto.
+[ERROR] 06:27:44:276 -/(22012:22044): Terminando servidor.
+[ERROR] 06:27:47:191 -/(22012:22045): el cliente se desconecto.
+[ERROR] 06:27:47:192 -/(22012:22045): Terminando servidor.
+[INFO] 06:30:53:062 -/(22159:22166): Servidor listo para recibir a los clientes
+[INFO] 06:31:03:681 -/(22159:22166): Se conecto un cliente!
+[ERROR] 06:31:38:048 -/(22159:22188): el cliente se desconecto.
+[ERROR] 06:31:38:048 -/(22159:22188): Terminando servidor.
+[ERROR] 06:32:52:504 -/(22159:22189): el cliente se desconecto.
+[ERROR] 06:32:52:504 -/(22159:22189): Terminando servidor.
+[INFO] 06:33:28:929 -/(22317:22324): Servidor listo para recibir a los clientes
+[INFO] 06:33:41:277 -/(22317:22324): Se conecto un cliente!
+[ERROR] 06:34:14:129 -/(22317:22342): el cliente se desconecto.
+[ERROR] 06:34:14:129 -/(22317:22342): Terminando servidor.
+[ERROR] 06:36:41:378 -/(22317:22343): el cliente se desconecto.
+[ERROR] 06:36:41:379 -/(22317:22343): Terminando servidor.
+[INFO] 06:37:16:788 -/(22512:22519): Servidor listo para recibir a los clientes
+[INFO] 06:37:25:962 -/(22512:22519): Se conecto un cliente!
+[ERROR] 06:37:57:818 -/(22512:22537): el cliente se desconecto.
+[ERROR] 06:37:57:819 -/(22512:22537): Terminando servidor.
+[INFO] 17:56:11:411 -/(2755:2762): Servidor listo para recibir a los clientes
+[INFO] 17:56:32:747 -/(2755:2762): Se conecto un cliente!
+[ERROR] 17:56:59:930 -/(2755:2872): el cliente se desconecto.
+[ERROR] 17:56:59:933 -/(2755:2872): Terminando servidor.
+[INFO] 18:05:36:469 -/(3139:3145): Servidor listo para recibir a los clientes
+[INFO] 18:05:43:877 -/(3139:3145): Se conecto un cliente!
+[ERROR] 18:06:15:602 -/(3139:3164): el cliente se desconecto.
+[ERROR] 18:06:15:603 -/(3139:3164): Terminando servidor.
+[INFO] 18:13:11:799 -/(2338:2345): Servidor listo para recibir a los clientes
+[INFO] 18:13:18:252 -/(2338:2345): Se conecto un cliente!
+[ERROR] 18:16:55:109 -/(2338:2367): el cliente se desconecto.
+[ERROR] 18:16:55:109 -/(2338:2367): Terminando servidor.
+[INFO] 18:19:21:648 -/(2533:2539): Servidor listo para recibir a los clientes
+[INFO] 18:19:28:099 -/(2533:2539): Se conecto un cliente!
+[ERROR] 18:24:44:766 -/(2533:2574): el cliente se desconecto.
+[ERROR] 18:24:44:767 -/(2533:2574): Terminando servidor.
+[ERROR] 18:25:28:574 -/(2533:2575): el cliente se desconecto.
+[ERROR] 18:25:28:574 -/(2533:2575): Terminando servidor.
+[INFO] 18:29:56:674 -/(2943:2949): Servidor listo para recibir a los clientes
+[INFO] 18:30:07:556 -/(2943:2949): Se conecto un cliente!
+[ERROR] 18:31:15:306 -/(2943:2968): el cliente se desconecto.
+[ERROR] 18:31:15:306 -/(2943:2968): Terminando servidor.
+[ERROR] 18:31:15:326 -/(2943:2969): el cliente se desconecto.
+[ERROR] 18:31:15:326 -/(2943:2969): Terminando servidor.
+[INFO] 18:33:58:886 -/(3154:3162): Servidor listo para recibir a los clientes
+[INFO] 18:34:15:315 -/(3154:3162): Se conecto un cliente!
+[ERROR] 18:36:25:952 -/(3154:3176): el cliente se desconecto.
+[ERROR] 18:36:25:952 -/(3154:3176): Terminando servidor.
+[ERROR] 18:47:47:402 -/(3154:3175): el cliente se desconecto.
+[ERROR] 18:47:47:402 -/(3154:3175): Terminando servidor.
+[INFO] 18:52:19:528 -/(4409:4415): Servidor listo para recibir a los clientes
+[INFO] 18:52:29:890 -/(4409:4415): Se conecto un cliente!
+[ERROR] 18:53:31:611 -/(4409:4440): el cliente se desconecto.
+[ERROR] 18:53:31:611 -/(4409:4440): Terminando servidor.
+[ERROR] 18:53:31:630 -/(4409:4439): el cliente se desconecto.
+[ERROR] 18:53:31:630 -/(4409:4439): Terminando servidor.
+[INFO] 18:55:08:935 -/(4551:4558): Servidor listo para recibir a los clientes
+[INFO] 18:55:17:714 -/(4551:4558): Se conecto un cliente!
+[ERROR] 18:55:47:182 -/(4551:4594): el cliente se desconecto.
+[ERROR] 18:55:47:182 -/(4551:4594): Terminando servidor.
+[ERROR] 18:57:20:361 -/(4551:4595): el cliente se desconecto.
+[ERROR] 18:57:20:361 -/(4551:4595): Terminando servidor.
+[INFO] 18:57:46:767 -/(4697:4704): Servidor listo para recibir a los clientes
+[INFO] 18:57:55:389 -/(4697:4704): Se conecto un cliente!
+[ERROR] 18:58:04:331 -/(4697:4744): el cliente se desconecto.
+[ERROR] 18:58:04:331 -/(4697:4744): Terminando servidor.
+[ERROR] 18:59:30:455 -/(4697:4743): el cliente se desconecto.
+[ERROR] 18:59:30:459 -/(4697:4743): Terminando servidor.
+[INFO] 19:01:05:975 -/(4966:4974): Servidor listo para recibir a los clientes
+[INFO] 19:01:14:776 -/(4966:4974): Se conecto un cliente!
+[ERROR] 19:01:40:008 -/(4966:5019): el cliente se desconecto.
+[ERROR] 19:01:40:008 -/(4966:5019): Terminando servidor.
+[INFO] 19:02:49:143 -/(5085:5091): Servidor listo para recibir a los clientes
+[INFO] 19:02:57:819 -/(5085:5091): Se conecto un cliente!
+[ERROR] 19:03:17:268 -/(5085:5129): el cliente se desconecto.
+[ERROR] 19:03:17:269 -/(5085:5129): Terminando servidor.
+[ERROR] 19:05:13:888 -/(5085:5128): el cliente se desconecto.
+[ERROR] 19:05:13:888 -/(5085:5128): Terminando servidor.
+[INFO] 19:06:30:076 -/(5325:5332): Servidor listo para recibir a los clientes
+[INFO] 19:06:35:799 -/(5340:5348): Servidor listo para recibir a los clientes
+[INFO] 19:06:42:702 -/(5325:5332): Se conecto un cliente!
+[ERROR] 19:06:45:808 -/(5325:5383): el cliente se desconecto.
+[ERROR] 19:06:45:808 -/(5325:5383): Terminando servidor.
+[INFO] 19:08:07:071 -/(5584:5590): Servidor listo para recibir a los clientes
+[INFO] 19:08:12:774 -/(5584:5590): Se conecto un cliente!
+[ERROR] 19:08:24:941 -/(5584:5611): el cliente se desconecto.
+[ERROR] 19:08:24:941 -/(5584:5611): Terminando servidor.
+[ERROR] 19:08:41:107 -/(5584:5610): el cliente se desconecto.
+[ERROR] 19:08:41:108 -/(5584:5610): Terminando servidor.
+[INFO] 19:09:58:324 -/(5767:5774): Servidor listo para recibir a los clientes
+[INFO] 19:10:08:870 -/(5767:5774): Se conecto un cliente!
+[ERROR] 19:11:47:924 -/(5767:5808): el cliente se desconecto.
+[ERROR] 19:11:47:924 -/(5767:5808): Terminando servidor.
+[ERROR] 19:15:12:792 -/(5767:5809): el cliente se desconecto.
+[ERROR] 19:15:12:792 -/(5767:5809): Terminando servidor.
+[INFO] 19:15:52:898 -/(5926:5932): Servidor listo para recibir a los clientes
+[INFO] 19:15:59:098 -/(5926:5932): Se conecto un cliente!
+[ERROR] 19:19:09:494 -/(5926:5969): el cliente se desconecto.
+[ERROR] 19:19:09:494 -/(5926:5969): Terminando servidor.
+[INFO] 19:22:13:247 -/(6148:6155): Servidor listo para recibir a los clientes
+[INFO] 19:22:20:074 -/(6148:6155): Se conecto un cliente!
+[ERROR] 19:23:43:518 -/(6148:6177): el cliente se desconecto.
+[ERROR] 19:23:43:518 -/(6148:6177): Terminando servidor.
+[ERROR] 19:33:20:857 -/(6148:6178): el cliente se desconecto.
+[ERROR] 19:33:20:857 -/(6148:6178): Terminando servidor.
+[INFO] 19:34:14:387 -/(6419:6426): Servidor listo para recibir a los clientes
+[INFO] 19:34:46:678 -/(6419:6426): Se conecto un cliente!
+[ERROR] 19:37:56:265 -/(6419:6452): el cliente se desconecto.
+[ERROR] 19:37:56:265 -/(6419:6452): Terminando servidor.
+[ERROR] 19:48:00:969 -/(6419:6453): el cliente se desconecto.
+[ERROR] 19:48:00:971 -/(6419:6453): Terminando servidor.
+[INFO] 19:56:27:396 -/(6905:6911): Servidor listo para recibir a los clientes
+[INFO] 19:56:38:518 -/(6905:6911): Se conecto un cliente!
+[ERROR] 19:57:41:223 -/(6905:6951): el cliente se desconecto.
+[ERROR] 19:57:41:229 -/(6905:6951): Terminando servidor.
+[ERROR] 20:00:12:752 -/(6905:6952): el cliente se desconecto.
+[ERROR] 20:00:12:752 -/(6905:6952): Terminando servidor.
+[INFO] 20:00:25:850 -/(7074:7081): Servidor listo para recibir a los clientes
+[INFO] 20:02:04:599 -/(7074:7081): Se conecto un cliente!
+[ERROR] 20:05:00:798 -/(7074:7184): el cliente se desconecto.
+[ERROR] 20:05:00:798 -/(7074:7184): Terminando servidor.
+[ERROR] 20:13:46:248 -/(7074:7185): el cliente se desconecto.
+[ERROR] 20:13:46:248 -/(7074:7185): Terminando servidor.
+[INFO] 20:14:04:464 -/(7605:7612): Servidor listo para recibir a los clientes
+[INFO] 20:14:14:248 -/(7605:7612): Se conecto un cliente!
+[ERROR] 20:15:14:198 -/(7605:7649): el cliente se desconecto.
+[ERROR] 20:15:14:198 -/(7605:7649): Terminando servidor.
+[ERROR] 20:15:15:191 -/(7605:7648): el cliente se desconecto.
+[ERROR] 20:15:15:192 -/(7605:7648): Terminando servidor.
+[INFO] 20:22:54:681 -/(7907:7914): Servidor listo para recibir a los clientes
+[INFO] 20:23:20:854 -/(7907:7914): Se conecto un cliente!
+[ERROR] 20:26:49:163 -/(7907:7958): el cliente se desconecto.
+[ERROR] 20:26:49:163 -/(7907:7958): Terminando servidor.
+[INFO] 20:30:01:247 -/(8157:8163): Servidor listo para recibir a los clientes
+[INFO] 20:32:21:006 -/(8351:8358): Servidor listo para recibir a los clientes
+[INFO] 20:32:28:627 -/(8351:8358): Se conecto un cliente!
+[ERROR] 20:36:51:084 -/(8351:8377): el cliente se desconecto.
+[ERROR] 20:36:51:084 -/(8351:8377): Terminando servidor.
+[ERROR] 20:36:53:866 -/(8351:8376): el cliente se desconecto.
+[ERROR] 20:36:53:866 -/(8351:8376): Terminando servidor.
+[INFO] 22:06:37:722 -/(3683:3690): Servidor listo para recibir a los clientes
+[INFO] 22:19:21:914 -/(4129:4136): Servidor listo para recibir a los clientes
+[INFO] 22:19:30:220 -/(4129:4136): Se conecto un cliente!
+[ERROR] 22:22:50:445 -/(4129:4181): el cliente se desconecto.
+[ERROR] 22:22:50:446 -/(4129:4181): Terminando servidor.
+[ERROR] 22:22:52:747 -/(4129:4180): el cliente se desconecto.
+[ERROR] 22:22:52:747 -/(4129:4180): Terminando servidor.
+[INFO] 22:23:12:689 -/(4457:4463): Servidor listo para recibir a los clientes
+[INFO] 22:25:09:762 -/(4589:4595): Servidor listo para recibir a los clientes
+[INFO] 22:25:18:186 -/(4589:4595): Se conecto un cliente!
+[ERROR] 22:26:41:824 -/(4589:4640): el cliente se desconecto.
+[ERROR] 22:26:41:824 -/(4589:4640): Terminando servidor.
+[ERROR] 22:26:42:694 -/(4589:4639): el cliente se desconecto.
+[ERROR] 22:26:42:694 -/(4589:4639): Terminando servidor.
+[INFO] 22:30:18:638 -/(4777:4783): Servidor listo para recibir a los clientes
+[INFO] 22:31:44:824 -/(4777:4783): Se conecto un cliente!
+[ERROR] 22:34:48:173 -/(4777:4826): el cliente se desconecto.
+[ERROR] 22:34:48:173 -/(4777:4826): Terminando servidor.
+[INFO] 22:39:08:581 -/(4914:4920): Servidor listo para recibir a los clientes
+[INFO] 22:39:53:978 -/(4914:4920): Se conecto un cliente!
+[ERROR] 22:42:48:417 -/(4914:4983): el cliente se desconecto.
+[ERROR] 22:42:48:417 -/(4914:4983): Terminando servidor.
+[INFO] 22:43:14:538 -/(5099:5106): Servidor listo para recibir a los clientes
+[INFO] 22:43:21:495 -/(5099:5106): Se conecto un cliente!
+[INFO] 22:47:16:442 -/(5207:5214): Servidor listo para recibir a los clientes
+[INFO] 22:48:48:376 -/(5431:5438): Servidor listo para recibir a los clientes
+[INFO] 22:48:53:555 -/(5431:5438): Se conecto un cliente!
+[ERROR] 22:49:49:755 -/(5431:5457): el cliente se desconecto.
+[ERROR] 22:49:49:756 -/(5431:5457): Terminando servidor.
+[INFO] 22:53:33:849 -/(5539:5546): Servidor listo para recibir a los clientes
+[INFO] 22:53:51:777 -/(5539:5546): Se conecto un cliente!
+[ERROR] 22:57:43:388 -/(5539:5590): el cliente se desconecto.
+[ERROR] 22:57:43:389 -/(5539:5590): Terminando servidor.
+[INFO] 22:59:03:501 -/(5691:5698): Servidor listo para recibir a los clientes
+[INFO] 22:59:49:881 -/(5691:5698): Se conecto un cliente!
+[ERROR] 23:01:41:082 -/(5691:5741): el cliente se desconecto.
+[ERROR] 23:01:41:083 -/(5691:5741): Terminando servidor.
+[INFO] 23:27:23:440 -/(5854:5861): Servidor listo para recibir a los clientes
+[INFO] 23:27:30:206 -/(5854:5861): Se conecto un cliente!
+[ERROR] 23:28:42:065 -/(5854:5882): el cliente se desconecto.
+[ERROR] 23:28:42:066 -/(5854:5882): Terminando servidor.
+[INFO] 23:29:21:890 -/(5975:5982): Servidor listo para recibir a los clientes
+[INFO] 23:29:28:421 -/(5975:5982): Se conecto un cliente!
+[ERROR] 23:31:05:938 -/(5975:6001): el cliente se desconecto.
+[ERROR] 23:31:05:939 -/(5975:6001): Terminando servidor.
+[INFO] 01:51:45:391 -/(2361:2367): Servidor listo para recibir a los clientes
+[INFO] 01:51:55:972 -/(2361:2367): Se conecto un cliente!
+[ERROR] 01:54:01:779 -/(2361:2471): el cliente se desconecto.
+[ERROR] 01:54:01:779 -/(2361:2471): Terminando servidor.
+[INFO] 02:02:34:964 -/(2936:2943): Servidor listo para recibir a los clientes
+[INFO] 02:02:42:345 -/(2936:2943): Se conecto un cliente!
+[ERROR] 02:04:13:900 -/(2936:2963): el cliente se desconecto.
+[ERROR] 02:04:13:900 -/(2936:2963): Terminando servidor.
+[INFO] 02:06:11:856 -/(3030:3038): Servidor listo para recibir a los clientes
+[INFO] 02:06:20:254 -/(3030:3038): Se conecto un cliente!
+[ERROR] 02:07:53:981 -/(3030:3060): el cliente se desconecto.
+[ERROR] 02:07:53:981 -/(3030:3060): Terminando servidor.
+[INFO] 02:16:59:824 -/(3550:3557): Servidor listo para recibir a los clientes
+[INFO] 02:17:09:659 -/(3550:3557): Se conecto un cliente!
+[ERROR] 02:18:17:876 -/(3550:3661): el cliente se desconecto.
+[ERROR] 02:18:17:876 -/(3550:3661): Terminando servidor.
+[INFO] 02:19:43:604 -/(3734:3742): Servidor listo para recibir a los clientes
+[INFO] 02:19:54:989 -/(3734:3742): Se conecto un cliente!
+[ERROR] 02:20:55:906 -/(3734:3756): el cliente se desconecto.
+[ERROR] 02:20:55:906 -/(3734:3756): Terminando servidor.
+[ERROR] 02:30:07:788 -/(3734:3755): el cliente se desconecto.
+[ERROR] 02:30:07:788 -/(3734:3755): Terminando servidor.
+[INFO] 02:31:35:736 -/(3982:3989): Servidor listo para recibir a los clientes
+[INFO] 02:31:44:279 -/(3982:3989): Se conecto un cliente!
+[ERROR] 02:32:53:831 -/(3982:4030): el cliente se desconecto.
+[ERROR] 02:32:53:831 -/(3982:4030): Terminando servidor.
+[INFO] 02:37:25:499 -/(4158:4166): Servidor listo para recibir a los clientes
+[INFO] 02:37:31:970 -/(4158:4166): Se conecto un cliente!
+[ERROR] 02:39:07:899 -/(4158:4202): el cliente se desconecto.
+[ERROR] 02:39:07:899 -/(4158:4202): Terminando servidor.
+[ERROR] 02:39:08:697 -/(4158:4201): el cliente se desconecto.
+[ERROR] 02:39:08:697 -/(4158:4201): Terminando servidor.
+[INFO] 02:41:59:154 -/(4376:4383): Servidor listo para recibir a los clientes
+[INFO] 02:42:08:549 -/(4376:4383): Se conecto un cliente!
+[ERROR] 02:50:03:930 -/(4376:4419): el cliente se desconecto.
+[ERROR] 02:50:03:930 -/(4376:4419): Terminando servidor.
+[ERROR] 02:50:04:691 -/(4376:4418): el cliente se desconecto.
+[ERROR] 02:50:04:691 -/(4376:4418): Terminando servidor.
+[INFO] 02:51:17:099 -/(4603:4610): Servidor listo para recibir a los clientes
+[INFO] 02:51:29:761 -/(4603:4610): Se conecto un cliente!
+[ERROR] 02:53:32:565 -/(4603:4648): el cliente se desconecto.
+[ERROR] 02:53:32:566 -/(4603:4648): Terminando servidor.
+[ERROR] 02:53:33:328 -/(4603:4647): el cliente se desconecto.
+[ERROR] 02:53:33:328 -/(4603:4647): Terminando servidor.
+[INFO] 02:55:13:700 -/(4747:4754): Servidor listo para recibir a los clientes
+[INFO] 03:12:45:016 -/(5296:5304): Servidor listo para recibir a los clientes
+[INFO] 03:12:53:668 -/(5296:5304): Se conecto un cliente!
+[ERROR] 03:27:01:926 -/(5296:5342): el cliente se desconecto.
+[ERROR] 03:27:01:927 -/(5296:5342): Terminando servidor.
+[ERROR] 03:27:02:365 -/(5296:5341): el cliente se desconecto.
+[ERROR] 03:27:02:365 -/(5296:5341): Terminando servidor.
+[INFO] 03:28:24:840 -/(5586:5593): Servidor listo para recibir a los clientes
+[INFO] 03:28:30:391 -/(5586:5593): Se conecto un cliente!
+[ERROR] 03:29:49:569 -/(5586:5613): el cliente se desconecto.
+[ERROR] 03:29:49:569 -/(5586:5613): Terminando servidor.
+[ERROR] 03:29:50:028 -/(5586:5612): el cliente se desconecto.
+[ERROR] 03:29:50:028 -/(5586:5612): Terminando servidor.
+[INFO] 03:32:29:927 -/(5701:5708): Servidor listo para recibir a los clientes
+[INFO] 03:32:47:129 -/(5701:5708): Se conecto un cliente!
+[ERROR] 03:34:22:707 -/(5701:5743): el cliente se desconecto.
+[ERROR] 03:34:22:707 -/(5701:5743): Terminando servidor.
+[INFO] 03:35:44:245 -/(5894:5901): Servidor listo para recibir a los clientes
+[INFO] 03:35:53:517 -/(5894:5901): Se conecto un cliente!
+[ERROR] 03:38:50:128 -/(5894:5921): el cliente se desconecto.
+[ERROR] 03:38:50:128 -/(5894:5921): Terminando servidor.
+[ERROR] 03:38:50:553 -/(5894:5920): el cliente se desconecto.
+[ERROR] 03:38:50:553 -/(5894:5920): Terminando servidor.
+[INFO] 03:40:05:033 -/(6063:6070): Servidor listo para recibir a los clientes
+[INFO] 03:40:12:451 -/(6063:6070): Se conecto un cliente!
+[ERROR] 03:43:26:058 -/(6063:6106): el cliente se desconecto.
+[ERROR] 03:43:26:058 -/(6063:6106): Terminando servidor.
+[INFO] 03:44:49:033 -/(6268:6275): Servidor listo para recibir a los clientes
+[INFO] 03:44:55:098 -/(6268:6275): Se conecto un cliente!
+[ERROR] 03:47:27:290 -/(6268:6295): el cliente se desconecto.
+[ERROR] 03:47:27:290 -/(6268:6295): Terminando servidor.
+[ERROR] 03:47:28:029 -/(6268:6293): el cliente se desconecto.
+[ERROR] 03:47:28:029 -/(6268:6293): Terminando servidor.
+[INFO] 03:48:54:489 -/(6370:6377): Servidor listo para recibir a los clientes
+[INFO] 03:49:00:545 -/(6370:6377): Se conecto un cliente!
+[INFO] 03:54:20:237 -/(6594:6601): Servidor listo para recibir a los clientes
+[INFO] 03:54:29:936 -/(6594:6601): Se conecto un cliente!
+[ERROR] 03:56:11:800 -/(6594:6621): el cliente se desconecto.
+[ERROR] 03:56:11:800 -/(6594:6621): Terminando servidor.
+[ERROR] 03:57:02:254 -/(6594:6620): el cliente se desconecto.
+[ERROR] 03:57:02:255 -/(6594:6620): Terminando servidor.
+[INFO] 03:58:21:701 -/(6771:6778): Servidor listo para recibir a los clientes
+[INFO] 03:58:29:426 -/(6771:6778): Se conecto un cliente!
+[INFO] 04:29:53:812 -/(7026:7035): Servidor listo para recibir a los clientes
+[INFO] 04:30:01:311 -/(7026:7035): Se conecto un cliente!
+[ERROR] 04:31:02:221 -/(7026:7072): el cliente se desconecto.
+[ERROR] 04:31:02:222 -/(7026:7072): Terminando servidor.
+[ERROR] 04:31:04:450 -/(7026:7073): el cliente se desconecto.
+[ERROR] 04:31:04:450 -/(7026:7073): Terminando servidor.
+[INFO] 04:33:47:938 -/(7209:7217): Servidor listo para recibir a los clientes
+[INFO] 04:34:08:102 -/(7252:7259): Servidor listo para recibir a los clientes
+[INFO] 04:34:15:260 -/(7252:7259): Se conecto un cliente!
+[ERROR] 04:37:56:116 -/(7252:7293): el cliente se desconecto.
+[ERROR] 04:37:56:116 -/(7252:7293): Terminando servidor.
+[INFO] 04:41:01:756 -/(7434:7442): Servidor listo para recibir a los clientes
+[INFO] 04:41:08:335 -/(7434:7442): Se conecto un cliente!
+[ERROR] 04:42:10:376 -/(7434:7478): el cliente se desconecto.
+[ERROR] 04:42:10:376 -/(7434:7478): Terminando servidor.
+[INFO] 04:43:27:637 -/(7550:7558): Servidor listo para recibir a los clientes
+[INFO] 04:43:34:628 -/(7550:7558): Se conecto un cliente!
+[ERROR] 04:43:48:356 -/(7550:7593): el cliente se desconecto.
+[ERROR] 04:43:48:356 -/(7550:7593): Terminando servidor.
+[ERROR] 04:43:48:782 -/(7550:7592): el cliente se desconecto.
+[ERROR] 04:43:48:782 -/(7550:7592): Terminando servidor.
+[INFO] 04:45:08:436 -/(7693:7700): Servidor listo para recibir a los clientes
+[INFO] 04:45:16:431 -/(7693:7700): Se conecto un cliente!
+[ERROR] 04:46:33:987 -/(7693:7714): el cliente se desconecto.
+[ERROR] 04:46:33:987 -/(7693:7714): Terminando servidor.
+[ERROR] 04:50:46:304 -/(7693:7713): el cliente se desconecto.
+[ERROR] 04:50:46:304 -/(7693:7713): Terminando servidor.
+[INFO] 04:51:52:339 -/(7964:7972): Servidor listo para recibir a los clientes
+[INFO] 04:52:08:696 -/(7964:7972): Se conecto un cliente!
+[ERROR] 04:53:13:192 -/(7964:8017): el cliente se desconecto.
+[ERROR] 04:53:13:193 -/(7964:8017): Terminando servidor.
+[ERROR] 04:53:14:358 -/(7964:8016): el cliente se desconecto.
+[ERROR] 04:53:14:358 -/(7964:8016): Terminando servidor.
+[INFO] 04:54:43:178 -/(8114:8121): Servidor listo para recibir a los clientes
+[INFO] 04:54:51:113 -/(8114:8121): Se conecto un cliente!
+[ERROR] 04:56:31:514 -/(8114:8156): el cliente se desconecto.
+[ERROR] 04:56:31:514 -/(8114:8156): Terminando servidor.
+[ERROR] 04:59:49:324 -/(8114:8157): el cliente se desconecto.
+[ERROR] 04:59:49:324 -/(8114:8157): Terminando servidor.
+[INFO] 05:00:24:993 -/(8280:8288): Servidor listo para recibir a los clientes
+[INFO] 05:00:57:247 -/(8280:8288): Se conecto un cliente!
+[ERROR] 05:03:18:920 -/(8280:8338): el cliente se desconecto.
+[ERROR] 05:03:18:920 -/(8280:8338): Terminando servidor.
+[INFO] 05:08:09:204 -/(8467:8475): Servidor listo para recibir a los clientes
+[INFO] 06:06:54:285 -/(10367:10374): Servidor listo para recibir a los clientes
+[INFO] 06:07:03:105 -/(10367:10374): Se conecto un cliente!
+[ERROR] 06:09:13:038 -/(10367:10409): el cliente se desconecto.
+[ERROR] 06:09:13:038 -/(10367:10409): Terminando servidor.
+[ERROR] 06:18:12:653 -/(10367:10410): el cliente se desconecto.
+[ERROR] 06:18:12:653 -/(10367:10410): Terminando servidor.
+[INFO] 06:25:36:830 -/(10886:10894): Servidor listo para recibir a los clientes
+[INFO] 06:25:43:421 -/(10886:10894): Se conecto un cliente!
+[INFO] 18:16:04:488 -/(30755:30762): Servidor listo para recibir a los clientes
+[INFO] 18:16:12:500 -/(30755:30762): Se conecto un cliente!
+[ERROR] 18:17:02:616 -/(30755:30783): el cliente se desconecto.
+[ERROR] 18:17:02:616 -/(30755:30783): Terminando servidor.
+[ERROR] 18:17:57:702 -/(30755:30784): el cliente se desconecto.
+[ERROR] 18:17:57:705 -/(30755:30784): Terminando servidor.
+[INFO] 18:18:14:503 -/(30855:30861): Servidor listo para recibir a los clientes
+[INFO] 18:19:00:983 -/(30977:30983): Servidor listo para recibir a los clientes
+[INFO] 18:19:22:323 -/(31032:31038): Servidor listo para recibir a los clientes
+[INFO] 18:19:28:807 -/(31032:31038): Se conecto un cliente!
+[ERROR] 18:20:26:434 -/(31032:31055): el cliente se desconecto.
+[ERROR] 18:20:26:435 -/(31032:31055): Terminando servidor.
+[INFO] 18:21:08:079 -/(31151:31157): Servidor listo para recibir a los clientes
+[INFO] 18:21:14:909 -/(31151:31157): Se conecto un cliente!
+[ERROR] 18:22:08:346 -/(31151:31174): el cliente se desconecto.
+[ERROR] 18:22:08:348 -/(31151:31174): Terminando servidor.
+[ERROR] 18:22:41:399 -/(31151:31175): el cliente se desconecto.
+[ERROR] 18:22:41:400 -/(31151:31175): Terminando servidor.
+[INFO] 18:31:39:920 -/(31617:31626): Servidor listo para recibir a los clientes
+[INFO] 18:31:48:781 -/(31617:31626): Se conecto un cliente!
+[ERROR] 18:37:07:175 -/(31617:31653): el cliente se desconecto.
+[ERROR] 18:37:07:175 -/(31617:31653): Terminando servidor.
+[ERROR] 18:41:36:102 -/(31617:31654): el cliente se desconecto.
+[ERROR] 18:41:36:103 -/(31617:31654): Terminando servidor.
+[INFO] 18:42:30:015 -/(32198:32205): Servidor listo para recibir a los clientes
+[INFO] 18:42:39:655 -/(32198:32205): Se conecto un cliente!
+[ERROR] 18:44:20:919 -/(32198:32231): el cliente se desconecto.
+[ERROR] 18:44:20:921 -/(32198:32231): Terminando servidor.
+[ERROR] 18:46:22:620 -/(32198:32232): el cliente se desconecto.
+[ERROR] 18:46:22:620 -/(32198:32232): Terminando servidor.
+[INFO] 18:48:13:737 -/(32586:32593): Servidor listo para recibir a los clientes
+[INFO] 18:48:22:194 -/(32586:32593): Se conecto un cliente!
+[ERROR] 18:50:05:844 -/(32586:32621): el cliente se desconecto.
+[ERROR] 18:50:05:846 -/(32586:32621): Terminando servidor.
+[ERROR] 18:50:32:373 -/(32586:32622): el cliente se desconecto.
+[ERROR] 18:50:32:375 -/(32586:32622): Terminando servidor.
+[INFO] 18:52:07:928 -/(32902:32909): Servidor listo para recibir a los clientes
+[INFO] 18:52:16:993 -/(32902:32909): Se conecto un cliente!
+[ERROR] 18:54:52:879 -/(32902:32942): el cliente se desconecto.
+[ERROR] 18:54:52:880 -/(32902:32942): Terminando servidor.
+[ERROR] 18:54:55:678 -/(32902:32943): el cliente se desconecto.
+[ERROR] 18:54:55:678 -/(32902:32943): Terminando servidor.
+[INFO] 18:57:25:214 -/(33445:33452): Servidor listo para recibir a los clientes
+[INFO] 18:57:40:807 -/(33445:33452): Se conecto un cliente!
+[ERROR] 18:59:49:072 -/(33445:33482): el cliente se desconecto.
+[ERROR] 18:59:49:074 -/(33445:33482): Terminando servidor.
+[INFO] 20:28:53:777 -/(3292:3299): Servidor listo para recibir a los clientes
+[INFO] 20:29:00:613 -/(3292:3299): Se conecto un cliente!
+[ERROR] 21:51:35:852 -/(3292:3319): el cliente se desconecto.
+[ERROR] 21:51:35:852 -/(3292:3319): Terminando servidor.
+[ERROR] 21:51:37:105 -/(3292:3318): el cliente se desconecto.
+[ERROR] 21:51:37:106 -/(3292:3318): Terminando servidor.
+[INFO] 22:21:59:611 -/(5924:5930): Servidor listo para recibir a los clientes
+[INFO] 22:22:06:193 -/(5924:5930): Se conecto un cliente!
+[ERROR] 22:23:05:640 -/(5924:5955): el cliente se desconecto.
+[ERROR] 22:23:05:640 -/(5924:5955): Terminando servidor.
+[INFO] 22:35:33:110 -/(6083:6089): Servidor listo para recibir a los clientes
+[INFO] 22:37:01:746 -/(6130:6137): Servidor listo para recibir a los clientes
+[INFO] 22:37:10:160 -/(6130:6137): Se conecto un cliente!
+[ERROR] 22:41:27:861 -/(6130:6156): el cliente se desconecto.
+[ERROR] 22:41:27:862 -/(6130:6156): Terminando servidor.
+[INFO] 22:44:11:197 -/(6274:6281): Servidor listo para recibir a los clientes
+[INFO] 22:44:20:219 -/(6274:6281): Se conecto un cliente!
+[ERROR] 22:54:33:205 -/(6274:6317): el cliente se desconecto.
+[ERROR] 22:54:33:205 -/(6274:6317): Terminando servidor.
+[ERROR] 22:54:33:934 -/(6274:6316): el cliente se desconecto.
+[ERROR] 22:54:33:934 -/(6274:6316): Terminando servidor.
+[INFO] 23:01:41:502 -/(6662:6668): Servidor listo para recibir a los clientes
+[INFO] 23:01:47:598 -/(6662:6668): Se conecto un cliente!
+[INFO] 23:13:17:564 -/(6894:6900): Servidor listo para recibir a los clientes
+[INFO] 23:13:23:463 -/(6894:6900): Se conecto un cliente!
+[ERROR] 23:22:05:009 -/(6894:6919): el cliente se desconecto.
+[ERROR] 23:22:05:009 -/(6894:6919): Terminando servidor.
+[ERROR] 23:22:05:635 -/(6894:6917): el cliente se desconecto.
+[ERROR] 23:22:05:635 -/(6894:6917): Terminando servidor.
+[INFO] 23:23:28:844 -/(7182:7188): Servidor listo para recibir a los clientes
+[INFO] 23:23:35:916 -/(7182:7188): Se conecto un cliente!
+[ERROR] 23:34:42:598 -/(7182:7207): el cliente se desconecto.
+[ERROR] 23:34:42:599 -/(7182:7207): Terminando servidor.
+[ERROR] 23:34:43:330 -/(7182:7205): el cliente se desconecto.
+[ERROR] 23:34:43:330 -/(7182:7205): Terminando servidor.
+[INFO] 23:36:11:071 -/(7619:7625): Servidor listo para recibir a los clientes
+[INFO] 23:36:25:719 -/(7619:7625): Se conecto un cliente!
+[ERROR] 23:44:32:348 -/(7619:7643): el cliente se desconecto.
+[ERROR] 23:44:32:348 -/(7619:7643): Terminando servidor.
+[ERROR] 23:44:32:661 -/(7619:7642): el cliente se desconecto.
+[ERROR] 23:44:32:661 -/(7619:7642): Terminando servidor.
+[INFO] 23:46:06:017 -/(8080:8086): Servidor listo para recibir a los clientes
+[INFO] 23:46:18:956 -/(8080:8086): Se conecto un cliente!
+[ERROR] 23:47:20:206 -/(8080:8103): el cliente se desconecto.
+[ERROR] 23:47:20:207 -/(8080:8103): Terminando servidor.
+[ERROR] 23:47:22:230 -/(8080:8104): el cliente se desconecto.
+[ERROR] 23:47:22:231 -/(8080:8104): Terminando servidor.
+[INFO] 23:48:36:706 -/(8315:8321): Servidor listo para recibir a los clientes
+[INFO] 23:48:56:255 -/(8315:8321): Se conecto un cliente!
+[INFO] 00:00:38:674 -/(2924:2930): Servidor listo para recibir a los clientes
+[INFO] 00:01:16:565 -/(2924:2930): Se conecto un cliente!
+[INFO] 00:14:56:071 -/(3306:3313): Servidor listo para recibir a los clientes
+[INFO] 00:15:02:823 -/(3306:3313): Se conecto un cliente!
+[INFO] 00:20:07:492 -/(3477:3484): Servidor listo para recibir a los clientes
+[INFO] 00:20:18:427 -/(3477:3484): Se conecto un cliente!
+[ERROR] 00:34:56:356 -/(3477:3504): el cliente se desconecto.
+[ERROR] 00:34:56:356 -/(3477:3504): Terminando servidor.
+[INFO] 02:30:40:056 -/(2185:2233): Servidor listo para recibir a los clientes
+[INFO] 02:30:40:891 -/(2185:2233): Se conecto un cliente!
+[ERROR] 02:30:40:892 -/(2185:2236): el cliente se desconecto.
+[ERROR] 02:30:40:892 -/(2185:2236): Terminando servidor.
+[ERROR] 02:30:44:865 -/(2185:2237): el cliente se desconecto.
+[ERROR] 02:30:44:865 -/(2185:2237): Terminando servidor.
+[INFO] 02:32:51:066 -/(2344:2355): Servidor listo para recibir a los clientes
+[INFO] 02:33:00:027 -/(2344:2355): Se conecto un cliente!
+[INFO] 02:36:59:780 -/(2598:2608): Servidor listo para recibir a los clientes
+[INFO] 02:37:06:278 -/(2598:2608): Se conecto un cliente!
+[INFO] 02:46:56:579 -/(2970:2978): Servidor listo para recibir a los clientes
+[INFO] 02:47:04:045 -/(2970:2978): Se conecto un cliente!
+[INFO] 02:52:25:316 -/(3181:3188): Servidor listo para recibir a los clientes
+[INFO] 02:53:52:034 -/(3251:3260): Servidor listo para recibir a los clientes
+[INFO] 02:53:58:924 -/(3251:3260): Se conecto un cliente!
+[INFO] 03:06:42:906 -/(3607:3614): Servidor listo para recibir a los clientes
+[INFO] 03:06:48:285 -/(3607:3614): Se conecto un cliente!
+[INFO] 03:21:56:865 -/(3875:3882): Servidor listo para recibir a los clientes
+[INFO] 03:23:28:961 -/(4009:4016): Servidor listo para recibir a los clientes
+[INFO] 03:23:34:375 -/(4009:4016): Se conecto un cliente!
+[ERROR] 03:35:59:904 -/(4009:4035): el cliente se desconecto.
+[ERROR] 03:35:59:904 -/(4009:4035): Terminando servidor.
+[ERROR] 03:36:00:592 -/(4009:4034): el cliente se desconecto.
+[ERROR] 03:36:00:592 -/(4009:4034): Terminando servidor.
+[INFO] 03:37:27:313 -/(4301:4309): Servidor listo para recibir a los clientes
+[INFO] 03:37:34:486 -/(4301:4309): Se conecto un cliente!
+[ERROR] 04:01:48:522 -/(4301:4346): el cliente se desconecto.
+[ERROR] 04:01:48:522 -/(4301:4346): Terminando servidor.
+[ERROR] 04:01:49:308 -/(4301:4345): el cliente se desconecto.
+[ERROR] 04:01:49:308 -/(4301:4345): Terminando servidor.
+[INFO] 04:10:52:827 -/(4793:4800): Servidor listo para recibir a los clientes
+[INFO] 04:10:59:322 -/(4793:4800): Se conecto un cliente!
+[ERROR] 04:13:58:543 -/(4793:4840): el cliente se desconecto.
+[ERROR] 04:13:58:543 -/(4793:4840): Terminando servidor.
+[ERROR] 04:13:59:808 -/(4793:4839): el cliente se desconecto.
+[ERROR] 04:13:59:808 -/(4793:4839): Terminando servidor.
+[INFO] 04:15:29:180 -/(5047:5054): Servidor listo para recibir a los clientes
+[INFO] 04:15:37:132 -/(5047:5054): Se conecto un cliente!
+[ERROR] 04:18:50:659 -/(5047:5090): el cliente se desconecto.
+[ERROR] 04:18:50:659 -/(5047:5090): Terminando servidor.
+[ERROR] 04:18:51:300 -/(5047:5089): el cliente se desconecto.
+[ERROR] 04:18:51:300 -/(5047:5089): Terminando servidor.
+[INFO] 04:20:10:323 -/(5303:5310): Servidor listo para recibir a los clientes
+[INFO] 04:20:16:530 -/(5303:5310): Se conecto un cliente!
+[ERROR] 04:46:02:552 -/(5303:5346): el cliente se desconecto.
+[ERROR] 04:46:02:552 -/(5303:5346): Terminando servidor.
+[ERROR] 04:46:03:200 -/(5303:5344): el cliente se desconecto.
+[ERROR] 04:46:03:200 -/(5303:5344): Terminando servidor.
+[INFO] 05:05:48:836 -/(6957:6966): Servidor listo para recibir a los clientes
+[INFO] 05:05:54:471 -/(6957:6966): Se conecto un cliente!
+[ERROR] 05:08:09:583 -/(6957:7005): el cliente se desconecto.
+[ERROR] 05:08:09:583 -/(6957:7005): Terminando servidor.
+[INFO] 05:11:47:827 -/(7194:7201): Servidor listo para recibir a los clientes
+[INFO] 05:12:07:977 -/(7194:7201): Se conecto un cliente!
+[ERROR] 05:13:01:402 -/(7194:7266): el cliente se desconecto.
+[ERROR] 05:13:01:403 -/(7194:7266): Terminando servidor.
+[INFO] 05:14:20:340 -/(7372:7379): Servidor listo para recibir a los clientes
+[INFO] 05:14:26:412 -/(7372:7379): Se conecto un cliente!
+[ERROR] 05:22:00:850 -/(7372:7399): el cliente se desconecto.
+[ERROR] 05:22:00:850 -/(7372:7399): Terminando servidor.
+[ERROR] 05:22:01:817 -/(7372:7398): el cliente se desconecto.
+[ERROR] 05:22:01:817 -/(7372:7398): Terminando servidor.
+[INFO] 05:23:22:018 -/(7661:7672): Servidor listo para recibir a los clientes
+[INFO] 05:23:23:253 -/(7675:7683): Servidor listo para recibir a los clientes
+[INFO] 05:24:56:829 -/(7744:7751): Servidor listo para recibir a los clientes
+[INFO] 05:25:35:969 -/(7744:7751): Se conecto un cliente!
+[ERROR] 05:28:10:367 -/(7744:7805): el cliente se desconecto.
+[ERROR] 05:28:10:368 -/(7744:7805): Terminando servidor.
+[ERROR] 05:28:10:824 -/(7744:7804): el cliente se desconecto.
+[ERROR] 05:28:10:825 -/(7744:7804): Terminando servidor.
+[INFO] 05:33:31:923 -/(7950:7957): Servidor listo para recibir a los clientes
+[INFO] 05:33:40:844 -/(7950:7957): Se conecto un cliente!
+[ERROR] 05:37:49:388 -/(7950:7977): el cliente se desconecto.
+[ERROR] 05:37:49:388 -/(7950:7977): Terminando servidor.
+[ERROR] 05:38:27:877 -/(7950:7978): el cliente se desconecto.
+[ERROR] 05:38:27:877 -/(7950:7978): Terminando servidor.
+[INFO] 05:39:49:752 -/(8118:8125): Servidor listo para recibir a los clientes
+[INFO] 05:39:55:991 -/(8118:8125): Se conecto un cliente!
+[ERROR] 05:41:04:218 -/(8118:8142): el cliente se desconecto.
+[ERROR] 05:41:04:218 -/(8118:8142): Terminando servidor.
+[ERROR] 05:41:09:002 -/(8118:8144): el cliente se desconecto.
+[ERROR] 05:41:09:003 -/(8118:8144): Terminando servidor.
+[INFO] 06:21:51:427 -/(9423:9430): Servidor listo para recibir a los clientes
+[INFO] 06:21:58:235 -/(9423:9430): Se conecto un cliente!
+[ERROR] 06:25:07:578 -/(9423:9466): el cliente se desconecto.
+[ERROR] 06:25:07:579 -/(9423:9466): Terminando servidor.
+[ERROR] 06:25:08:503 -/(9423:9465): el cliente se desconecto.
+[ERROR] 06:25:08:503 -/(9423:9465): Terminando servidor.
+[INFO] 06:26:26:620 -/(9576:9583): Servidor listo para recibir a los clientes
+[INFO] 06:26:34:867 -/(9576:9583): Se conecto un cliente!
+[INFO] 06:34:08:312 -/(9835:9843): Servidor listo para recibir a los clientes
+[INFO] 06:34:15:073 -/(9835:9843): Se conecto un cliente!
+[INFO] 06:37:07:062 -/(9956:9963): Servidor listo para recibir a los clientes
+[INFO] 06:37:13:912 -/(9956:9963): Se conecto un cliente!
+[ERROR] 06:39:01:223 -/(9956:9983): el cliente se desconecto.
+[ERROR] 06:39:01:223 -/(9956:9983): Terminando servidor.
+[INFO] 06:41:06:935 -/(10155:10162): Servidor listo para recibir a los clientes
+[INFO] 06:41:14:412 -/(10155:10162): Se conecto un cliente!
+[ERROR] 06:43:19:240 -/(10155:10180): el cliente se desconecto.
+[ERROR] 06:43:19:241 -/(10155:10180): Terminando servidor.
+[ERROR] 06:43:20:278 -/(10155:10179): el cliente se desconecto.
+[ERROR] 06:43:20:278 -/(10155:10179): Terminando servidor.
+[INFO] 06:44:49:309 -/(10262:10269): Servidor listo para recibir a los clientes
+[INFO] 06:44:56:170 -/(10262:10269): Se conecto un cliente!
+[ERROR] 06:59:47:297 -/(10262:10288): el cliente se desconecto.
+[ERROR] 06:59:47:298 -/(10262:10288): Terminando servidor.
+[ERROR] 06:59:47:762 -/(10262:10287): el cliente se desconecto.
+[ERROR] 06:59:47:763 -/(10262:10287): Terminando servidor.
+[INFO] 07:01:58:776 -/(11242:11249): Servidor listo para recibir a los clientes
+[INFO] 07:02:07:768 -/(11242:11249): Se conecto un cliente!
+[ERROR] 07:04:58:810 -/(11242:11269): el cliente se desconecto.
+[ERROR] 07:04:58:811 -/(11242:11269): Terminando servidor.
+[INFO] 07:16:54:835 -/(11868:11876): Servidor listo para recibir a los clientes
+[INFO] 07:17:50:742 -/(11868:11876): Se conecto un cliente!
+[ERROR] 07:18:19:260 -/(11868:12021): el cliente se desconecto.
+[ERROR] 07:18:19:260 -/(11868:12021): Terminando servidor.
+[ERROR] 07:18:19:288 -/(11868:12020): el cliente se desconecto.
+[ERROR] 07:18:19:289 -/(11868:12020): Terminando servidor.
+[INFO] 07:19:41:424 -/(12134:12141): Servidor listo para recibir a los clientes
+[INFO] 07:19:48:007 -/(12134:12141): Se conecto un cliente!
+[ERROR] 07:22:31:167 -/(12134:12162): el cliente se desconecto.
+[ERROR] 07:22:31:167 -/(12134:12162): Terminando servidor.
+[INFO] 07:29:48:792 -/(13005:13013): Servidor listo para recibir a los clientes
+[INFO] 07:29:54:954 -/(13005:13013): Se conecto un cliente!
+[ERROR] 07:34:29:638 -/(13005:13032): el cliente se desconecto.
+[ERROR] 07:34:29:638 -/(13005:13032): Terminando servidor.
+[INFO] 07:35:50:597 -/(13208:13215): Servidor listo para recibir a los clientes
+[INFO] 07:35:59:299 -/(13208:13215): Se conecto un cliente!
+[ERROR] 07:39:56:882 -/(13208:13235): el cliente se desconecto.
+[ERROR] 07:39:56:882 -/(13208:13235): Terminando servidor.
+[ERROR] 07:39:58:010 -/(13208:13234): el cliente se desconecto.
+[ERROR] 07:39:58:010 -/(13208:13234): Terminando servidor.
+[INFO] 07:41:20:248 -/(13388:13395): Servidor listo para recibir a los clientes
+[INFO] 07:41:26:692 -/(13388:13395): Se conecto un cliente!
+[ERROR] 07:45:09:167 -/(13388:13413): el cliente se desconecto.
+[ERROR] 07:45:09:167 -/(13388:13413): Terminando servidor.
+[ERROR] 07:45:10:208 -/(13388:13412): el cliente se desconecto.
+[ERROR] 07:45:10:209 -/(13388:13412): Terminando servidor.
+[INFO] 07:47:23:054 -/(13505:13512): Servidor listo para recibir a los clientes
+[INFO] 07:50:18:034 -/(13567:13576): Servidor listo para recibir a los clientes
+[INFO] 07:50:26:368 -/(13567:13576): Se conecto un cliente!
+[ERROR] 07:51:43:416 -/(13567:13595): el cliente se desconecto.
+[ERROR] 07:51:43:416 -/(13567:13595): Terminando servidor.
+[ERROR] 08:05:28:443 -/(13567:13596): el cliente se desconecto.
+[ERROR] 08:05:28:443 -/(13567:13596): Terminando servidor.
+[INFO] 08:07:01:247 -/(13952:13961): Servidor listo para recibir a los clientes
+[INFO] 08:07:08:730 -/(13952:13961): Se conecto un cliente!
+[ERROR] 08:07:47:552 -/(13952:13984): el cliente se desconecto.
+[ERROR] 08:07:47:552 -/(13952:13984): Terminando servidor.
+[ERROR] 08:12:07:204 -/(13952:13985): el cliente se desconecto.
+[ERROR] 08:12:07:204 -/(13952:13985): Terminando servidor.
+[INFO] 08:15:29:422 -/(14205:14213): Servidor listo para recibir a los clientes
+[INFO] 08:15:36:109 -/(14205:14213): Se conecto un cliente!
+[ERROR] 08:16:08:541 -/(14205:14232): el cliente se desconecto.
+[ERROR] 08:16:08:541 -/(14205:14232): Terminando servidor.
+[ERROR] 08:16:38:776 -/(14205:14233): el cliente se desconecto.
+[ERROR] 08:16:38:776 -/(14205:14233): Terminando servidor.
+[INFO] 08:18:18:437 -/(14360:14367): Servidor listo para recibir a los clientes
+[INFO] 08:18:26:074 -/(14360:14367): Se conecto un cliente!
+[INFO] 08:35:22:270 -/(14749:14756): Servidor listo para recibir a los clientes
+[INFO] 08:35:30:430 -/(14749:14756): Se conecto un cliente!
+[ERROR] 08:36:35:917 -/(14749:14774): el cliente se desconecto.
+[ERROR] 08:36:35:917 -/(14749:14774): Terminando servidor.
+[ERROR] 08:48:58:153 -/(14749:14775): el cliente se desconecto.
+[ERROR] 08:48:58:153 -/(14749:14775): Terminando servidor.
+[INFO] 08:49:20:916 -/(15237:15244): Servidor listo para recibir a los clientes
+[INFO] 08:49:27:313 -/(15237:15244): Se conecto un cliente!
+[ERROR] 08:51:56:057 -/(15237:15262): el cliente se desconecto.
+[ERROR] 08:51:56:059 -/(15237:15262): Terminando servidor.
+[INFO] 08:53:22:028 -/(15435:15442): Servidor listo para recibir a los clientes
+[INFO] 08:53:29:387 -/(15435:15442): Se conecto un cliente!
+[ERROR] 08:57:14:489 -/(15435:15460): el cliente se desconecto.
+[ERROR] 08:57:14:489 -/(15435:15460): Terminando servidor.
+[INFO] 08:58:47:215 -/(15631:15638): Servidor listo para recibir a los clientes
+[INFO] 08:58:54:102 -/(15631:15638): Se conecto un cliente!
+[ERROR] 08:59:46:626 -/(15631:15656): el cliente se desconecto.
+[ERROR] 08:59:46:626 -/(15631:15656): Terminando servidor.
+[ERROR] 09:00:21:103 -/(15631:15657): el cliente se desconecto.
+[ERROR] 09:00:21:103 -/(15631:15657): Terminando servidor.
+[INFO] 09:01:52:282 -/(15778:15785): Servidor listo para recibir a los clientes
+[INFO] 09:02:00:103 -/(15778:15785): Se conecto un cliente!
+[ERROR] 09:03:03:287 -/(15778:15822): el cliente se desconecto.
+[ERROR] 09:03:03:287 -/(15778:15822): Terminando servidor.
+[ERROR] 09:05:15:970 -/(15778:15823): el cliente se desconecto.
+[ERROR] 09:05:15:971 -/(15778:15823): Terminando servidor.
+[INFO] 09:05:30:902 -/(15932:15940): Servidor listo para recibir a los clientes
+[INFO] 09:05:38:552 -/(15932:15940): Se conecto un cliente!
+[ERROR] 09:06:34:195 -/(15932:15975): el cliente se desconecto.
+[ERROR] 09:06:34:195 -/(15932:15975): Terminando servidor.
+[ERROR] 09:23:20:892 -/(15932:15976): el cliente se desconecto.
+[ERROR] 09:23:20:892 -/(15932:15976): Terminando servidor.
+[INFO] 09:24:11:939 -/(16449:16456): Servidor listo para recibir a los clientes
+[INFO] 09:24:17:732 -/(16449:16456): Se conecto un cliente!
+[ERROR] 09:24:57:090 -/(16449:16478): el cliente se desconecto.
+[ERROR] 09:24:57:090 -/(16449:16478): Terminando servidor.
+[INFO] 09:58:07:979 -/(26554:26560): Servidor listo para recibir a los clientes
+[INFO] 09:58:19:609 -/(26554:26560): Se conecto un cliente!
+[INFO] 10:34:18:692 -/(27665:27671): Servidor listo para recibir a los clientes
+[INFO] 10:34:25:369 -/(27665:27671): Se conecto un cliente!
+[ERROR] 10:34:53:395 -/(27665:27690): el cliente se desconecto.
+[ERROR] 10:34:53:398 -/(27665:27690): Terminando servidor.
+[INFO] 10:36:26:565 -/(27924:27931): Servidor listo para recibir a los clientes
+[ERROR] 10:37:12:396 -/(27665:27691): el cliente se desconecto.
+[ERROR] 10:37:12:402 -/(27665:27691): Terminando servidor.
+[INFO] 10:38:24:225 -/(28147:28153): Servidor listo para recibir a los clientes
+[INFO] 10:38:31:704 -/(28147:28153): Se conecto un cliente!
+[ERROR] 10:40:35:281 -/(28147:28170): el cliente se desconecto.
+[ERROR] 10:40:35:281 -/(28147:28170): Terminando servidor.
+[ERROR] 10:41:57:119 -/(28147:28171): el cliente se desconecto.
+[ERROR] 10:41:57:120 -/(28147:28171): Terminando servidor.
+[INFO] 10:43:13:346 -/(28976:28982): Servidor listo para recibir a los clientes
+[INFO] 10:43:21:531 -/(28976:28982): Se conecto un cliente!
+[ERROR] 10:45:21:838 -/(28976:28999): el cliente se desconecto.
+[ERROR] 10:45:21:838 -/(28976:28999): Terminando servidor.
+[ERROR] 10:46:41:354 -/(28976:29000): el cliente se desconecto.
+[ERROR] 10:46:41:355 -/(28976:29000): Terminando servidor.
+[INFO] 10:47:14:414 -/(29807:29813): Servidor listo para recibir a los clientes
+[INFO] 10:47:37:113 -/(29807:29813): Se conecto un cliente!
+[ERROR] 10:47:41:076 -/(29807:29848): el cliente se desconecto.
+[ERROR] 10:47:41:079 -/(29807:29848): Terminando servidor.
+[ERROR] 10:47:42:258 -/(29807:29847): el cliente se desconecto.
+[ERROR] 10:47:42:259 -/(29807:29847): Terminando servidor.
+[INFO] 10:48:56:567 -/(30041:30047): Servidor listo para recibir a los clientes
+[INFO] 10:49:02:822 -/(30041:30047): Se conecto un cliente!
+[INFO] 11:10:06:946 -/(31380:31387): Servidor listo para recibir a los clientes
+[INFO] 11:10:13:614 -/(31380:31387): Se conecto un cliente!
+[ERROR] 11:21:24:327 -/(31380:31405): el cliente se desconecto.
+[ERROR] 11:21:24:328 -/(31380:31405): Terminando servidor.
+[INFO] 11:25:44:452 -/(32523:32529): Servidor listo para recibir a los clientes
+[INFO] 11:25:55:002 -/(32523:32529): Se conecto un cliente!
+[ERROR] 11:26:35:634 -/(32523:32547): el cliente se desconecto.
+[ERROR] 11:26:35:635 -/(32523:32547): Terminando servidor.
+[ERROR] 11:27:18:036 -/(32523:32548): el cliente se desconecto.
+[ERROR] 11:27:18:037 -/(32523:32548): Terminando servidor.
+[INFO] 11:28:04:154 -/(32740:32746): Servidor listo para recibir a los clientes
+[INFO] 11:29:20:181 -/(32824:32833): Servidor listo para recibir a los clientes
+[INFO] 11:29:25:791 -/(32824:32833): Se conecto un cliente!
+[ERROR] 11:29:41:159 -/(32824:32850): el cliente se desconecto.
+[ERROR] 11:29:41:159 -/(32824:32850): Terminando servidor.
+[ERROR] 11:29:50:971 -/(32824:32851): el cliente se desconecto.
+[ERROR] 11:29:50:973 -/(32824:32851): Terminando servidor.
+[INFO] 11:31:16:822 -/(33184:33190): Servidor listo para recibir a los clientes
+[INFO] 11:31:24:774 -/(33184:33190): Se conecto un cliente!
+[ERROR] 11:32:01:743 -/(33184:33207): el cliente se desconecto.
+[ERROR] 11:32:01:744 -/(33184:33207): Terminando servidor.
+[ERROR] 11:32:31:484 -/(33184:33208): el cliente se desconecto.
+[ERROR] 11:32:31:485 -/(33184:33208): Terminando servidor.
+[INFO] 11:33:51:089 -/(34128:34134): Servidor listo para recibir a los clientes
+[INFO] 11:33:57:089 -/(34128:34134): Se conecto un cliente!
+[ERROR] 11:36:21:380 -/(34128:34152): el cliente se desconecto.
+[ERROR] 11:36:21:380 -/(34128:34152): Terminando servidor.
+[INFO] 11:38:13:278 -/(35095:35101): Servidor listo para recibir a los clientes
+[INFO] 11:38:22:496 -/(35095:35101): Se conecto un cliente!
+[ERROR] 11:39:04:874 -/(35095:35118): el cliente se desconecto.
+[ERROR] 11:39:04:875 -/(35095:35118): Terminando servidor.
+[ERROR] 11:40:27:048 -/(35095:35119): el cliente se desconecto.
+[ERROR] 11:40:27:048 -/(35095:35119): Terminando servidor.
+[INFO] 11:40:51:971 -/(35932:35938): Servidor listo para recibir a los clientes
+[INFO] 11:41:03:488 -/(35932:35938): Se conecto un cliente!
+[ERROR] 11:41:09:658 -/(35932:35956): el cliente se desconecto.
+[ERROR] 11:41:09:660 -/(35932:35956): Terminando servidor.
+[ERROR] 11:41:10:424 -/(35932:35955): el cliente se desconecto.
+[ERROR] 11:41:10:425 -/(35932:35955): Terminando servidor.
+[INFO] 11:42:22:999 -/(36196:36202): Servidor listo para recibir a los clientes
+[INFO] 11:42:29:448 -/(36196:36202): Se conecto un cliente!
+[ERROR] 11:42:46:930 -/(36196:36218): el cliente se desconecto.
+[ERROR] 11:42:46:930 -/(36196:36218): Terminando servidor.
+[ERROR] 11:43:17:168 -/(36196:36219): el cliente se desconecto.
+[ERROR] 11:43:17:169 -/(36196:36219): Terminando servidor.
