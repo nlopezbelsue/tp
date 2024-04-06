@@ -1,4 +1,4 @@
-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
+
 
 ./Kernel/Debug/Kernel ./Kernel/kernel.config
 ./CPU/Debug/CPU ./CPU/CPU.config
